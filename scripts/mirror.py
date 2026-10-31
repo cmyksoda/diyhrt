@@ -299,6 +299,14 @@ class Assets:
         rewrite(tokens)
         return tinycss2.serialize(tokens)
 
+    def offline_original(self, relative):
+        host = urlsplit(self.origin).hostname
+        if host == 'hrtcafe.net':
+            return 'website (hrtcafe.net)'
+        if host == 'old.reddit.com':
+            return 'subreddit (' + '/'.join(relative.split('/')[:2]) + ')'
+        return None
+
     def html(self, path):
         relative = path.relative_to(self.directory).as_posix()
         base = urljoin(self.origin, relative)
@@ -338,15 +346,21 @@ class Assets:
                     'background: #fff; color: #111; padding: 1em; font: 16px sans-serif; '
                     'position: relative; z-index: 9999;'
                 )
-                notice.string = (
-                    'Static archive. Content, prices and availability may be outdated. '
-                    'Interactive features are available on the '
-                )
-                link = soup.new_tag('a', href=self.origin)
-                link['style'] = 'color: #0044aa; text-decoration: underline;'
-                link.string = 'original website'
-                notice.append(link)
-                notice.append('.')
+                original = self.offline_original(relative)
+                if original:
+                    notice.string = (
+                        'Static archive. The original ' + original + ' is no longer online.'
+                    )
+                else:
+                    notice.string = (
+                        'Static archive. Content, prices and availability may be outdated. '
+                        'Interactive features are available on the '
+                    )
+                    link = soup.new_tag('a', href=self.origin)
+                    link['style'] = 'color: #0044aa; text-decoration: underline;'
+                    link.string = 'original website'
+                    notice.append(link)
+                    notice.append('.')
         for tag in soup.select('script[src]'):
             if urlsplit(urljoin(base, tag['src'])).hostname == 'static.cloudflareinsights.com':
                 tag.decompose()

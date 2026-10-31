@@ -230,6 +230,38 @@ class MirrorTests(unittest.TestCase):
             self.assertIn('outdated', soup.select_one('#archive-notice').get_text())
             self.assertEqual(soup.div['style'], 'background-image: url("image.png");')
 
+    def test_static_archive_of_an_offline_original_does_not_link_to_it(self):
+        cases = [
+            (
+                'https://hrtcafe.net/',
+                'index.php/Main_Page.html',
+                'Static archive. The original website (hrtcafe.net) is no longer online.',
+            ),
+            (
+                'https://old.reddit.com/',
+                'r/FTM/wiki.html',
+                'Static archive. The original subreddit (r/FTM) is no longer online.',
+            ),
+        ]
+        for origin, name, text in cases:
+            with self.subTest(origin=origin), tempfile.TemporaryDirectory() as temp:
+                page = Path(temp) / name
+                page.parent.mkdir(parents=True)
+                page.write_text('<html><head></head><body>Archived</body></html>')
+                Assets(temp, origin, wait=0, static=True).run()
+                notice = BeautifulSoup(page.read_text(), 'html.parser').select_one('#archive-notice')
+                self.assertEqual(notice.get_text(), text)
+                self.assertIsNone(notice.a)
+
+    def test_static_archive_of_an_online_original_links_to_it(self):
+        with tempfile.TemporaryDirectory() as temp:
+            page = Path(temp) / 'g' / 'MTFHRT' / 'wiki.html'
+            page.parent.mkdir(parents=True)
+            page.write_text('<html><head></head><body>Archived</body></html>')
+            Assets(temp, 'https://groups.io/', wait=0, static=True).run()
+            notice = BeautifulSoup(page.read_text(), 'html.parser').select_one('#archive-notice')
+            self.assertEqual(notice.a['href'], 'https://groups.io/')
+
     def test_unavailable_image_becomes_a_link_instead_of_a_remote_request(self):
         with tempfile.TemporaryDirectory() as temp:
             page = Path(temp) / 'index.html'
