@@ -1,8 +1,9 @@
 {
   "source": "https://diyhrt.coffee/",
-  "captured": "2026-10-15",
+  "captured": "2026-10-31",
   "pages": {
     "https://diyhrt.coffee/": "/diyhrt.coffee/",
+    "https://diyhrt.coffee/about": "/diyhrt.coffee/about/",
     "https://diyhrt.coffee/availability": "/diyhrt.coffee/availability/",
     "https://diyhrt.coffee/calculator": "/diyhrt.coffee/calculator/",
     "https://diyhrt.coffee/canary": "/diyhrt.coffee/canary/",
@@ -10,13 +11,11 @@
     "https://diyhrt.coffee/donate": "/diyhrt.coffee/donate/",
     "https://diyhrt.coffee/faq": "/diyhrt.coffee/faq/",
     "https://diyhrt.coffee/i2p": "/diyhrt.coffee/i2p/",
-    "https://diyhrt.coffee/login": "/diyhrt.coffee/login/",
     "https://diyhrt.coffee/minecraft": "/diyhrt.coffee/minecraft/",
     "https://diyhrt.coffee/privacy": "/diyhrt.coffee/privacy/",
     "https://diyhrt.coffee/resources": "/diyhrt.coffee/resources/",
     "https://diyhrt.coffee/reviews": "/diyhrt.coffee/reviews/",
     "https://diyhrt.coffee/settings": "/diyhrt.coffee/settings/",
-    "https://diyhrt.coffee/signup": "/diyhrt.coffee/signup/",
     "https://diyhrt.coffee/start": "/diyhrt.coffee/start/",
     "https://diyhrt.coffee/stats": "/diyhrt.coffee/stats/",
     "https://diyhrt.coffee/terms": "/diyhrt.coffee/terms/",
@@ -27,13 +26,7 @@
     "https://diyhrt.coffee/verified": "/diyhrt.coffee/verified/",
     "https://diyhrt.coffee/whats-new": "/diyhrt.coffee/whats-new/",
     "https://forum.diyhrt.coffee/": "/diyhrt.coffee/forum/",
-    "https://forum.diyhrt.coffee/login": "/diyhrt.coffee/forum/login/",
-    "https://forum.diyhrt.coffee/login?captcha=image": "/diyhrt.coffee/forum/_pages/0fc9ebe457b7973ea2a4199d.html?captcha=image",
-    "https://forum.diyhrt.coffee/login?next=%2Fmessages": "/diyhrt.coffee/forum/_pages/bc7bcaee918ddaf230108b1a.html?next=%2Fmessages",
-    "https://forum.diyhrt.coffee/login?next=%2Fmessages&captcha=image": "/diyhrt.coffee/forum/_pages/bacc8e679479fe2dce8a3132.html?next=%2Fmessages&captcha=image",
-    "https://forum.diyhrt.coffee/messages/verify": "/diyhrt.coffee/forum/messages/verify/",
-    "https://forum.diyhrt.coffee/signup": "/diyhrt.coffee/forum/signup/",
-    "https://forum.diyhrt.coffee/signup?captcha=image": "/diyhrt.coffee/forum/_pages/f82cd8a71be725e83a473e9c.html?captcha=image"
+    "https://forum.diyhrt.coffee/messages/verify": "/diyhrt.coffee/forum/messages/verify/"
   },
   "responses": {
     "https://diyhrt.coffee/": {
@@ -54,8 +47,8 @@
       "type": "image/png",
       "location": null
     },
-    "https://diyhrt.coffee/counter/midnight/7.png": {
-      "path": "/diyhrt.coffee/counter/midnight/7.png",
+    "https://diyhrt.coffee/counter/midnight/1.png": {
+      "path": "/diyhrt.coffee/counter/midnight/1.png",
       "status": 200,
       "type": "image/png",
       "location": null
@@ -66,8 +59,8 @@
       "type": "text/css; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/css/46168ad2eee39a9b.css": {
-      "path": "/diyhrt.coffee/_next/static/css/46168ad2eee39a9b.css",
+    "https://diyhrt.coffee/_next/static/css/a637b8be038ada1a.css": {
+      "path": "/diyhrt.coffee/_next/static/css/a637b8be038ada1a.css",
       "status": 200,
       "type": "text/css; charset=UTF-8",
       "location": null
@@ -126,26 +119,26 @@
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/4312-7c58cc778411aae8.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/4312-7c58cc778411aae8.js",
+    "https://diyhrt.coffee/_next/static/chunks/4312-97a3b70167e16209.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/4312-97a3b70167e16209.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/layout-a3ce83e34cb159e5.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/layout-a3ce83e34cb159e5.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/layout-8123835e8201baeb.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/layout-8123835e8201baeb.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/error-7bc18e14508a51dd.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/error-7bc18e14508a51dd.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/error-c422de822dc601ec.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/error-c422de822dc601ec.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/not-found-df423c16c0451d7b.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/not-found-df423c16c0451d7b.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/not-found-635864c63f55c34f.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/not-found-635864c63f55c34f.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -162,14 +155,14 @@
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/2782-e959761c4a0f38ab.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/2782-e959761c4a0f38ab.js",
+    "https://diyhrt.coffee/_next/static/chunks/2782-55ec10e7108ccf08.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/2782-55ec10e7108ccf08.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/page-3d720787c32db8af.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/page-3d720787c32db8af.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/page-308de3f3658eebb5.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/page-308de3f3658eebb5.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -318,8 +311,26 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
+    "https://diyhrt.coffee/about": {
+      "path": "/diyhrt.coffee/about/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
     "https://diyhrt.coffee/contact": {
       "path": "/diyhrt.coffee/contact/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://diyhrt.coffee/privacy": {
+      "path": "/diyhrt.coffee/privacy/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://diyhrt.coffee/terms": {
+      "path": "/diyhrt.coffee/terms/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -340,18 +351,6 @@
       "path": "/diyhrt.coffee/_assets/48cfc9d6a57b1460f0ad51ed.html",
       "status": 200,
       "type": "text/html",
-      "location": null
-    },
-    "https://diyhrt.coffee/privacy": {
-      "path": "/diyhrt.coffee/privacy/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://diyhrt.coffee/terms": {
-      "path": "/diyhrt.coffee/terms/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
       "location": null
     },
     "https://diyhrt.coffee/_next/static/media/751eccb0decf5e18-s.woff2": {
@@ -564,74 +563,98 @@
       "type": "image/gif",
       "location": null
     },
-    "https://diyhrt.coffee/paper-bg.gif": {
-      "path": "/diyhrt.coffee/paper-bg.gif",
+    "https://diyhrt.coffee/paper-snow-bg.gif": {
+      "path": "/diyhrt.coffee/paper-snow-bg.gif",
       "status": 200,
       "type": "image/gif",
       "location": null
     },
-    "https://diyhrt.coffee/paper-header-bg.gif": {
-      "path": "/diyhrt.coffee/paper-header-bg.gif",
+    "https://diyhrt.coffee/paper-snow-header-bg.gif": {
+      "path": "/diyhrt.coffee/paper-snow-header-bg.gif",
       "status": 200,
       "type": "image/gif",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/whats-new/page-d8fee580d847cff7.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/whats-new/page-d8fee580d847cff7.js",
+    "https://diyhrt.coffee/halloween-bg.gif": {
+      "path": "/diyhrt.coffee/halloween-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://diyhrt.coffee/halloween-header-bg.gif": {
+      "path": "/diyhrt.coffee/halloween-header-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://diyhrt.coffee/noir-bg.gif": {
+      "path": "/diyhrt.coffee/noir-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://diyhrt.coffee/noir-header-bg.gif": {
+      "path": "/diyhrt.coffee/noir-header-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://diyhrt.coffee/_next/static/chunks/app/whats-new/page-5a46770cd6359bcf.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/whats-new/page-5a46770cd6359bcf.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/availability/page-20e5e037f84b7325.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/availability/page-20e5e037f84b7325.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/availability/page-bd5f39143c93e849.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/availability/page-bd5f39143c93e849.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/track/page-9670bd982d20f4ed.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/track/page-9670bd982d20f4ed.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/track/page-9e1aa055e6cb75da.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/track/page-9e1aa055e6cb75da.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/calculator/page-3aa73c4b6413e0c0.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/calculator/page-3aa73c4b6413e0c0.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/calculator/page-3c9670d5c4f99761.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/calculator/page-3c9670d5c4f99761.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/stats/page-e19baff5b7fa19d5.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/stats/page-e19baff5b7fa19d5.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/stats/page-0e43574e97afcb98.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/stats/page-0e43574e97afcb98.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/vendors/page-51ee0304bab6b1f7.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/vendors/page-51ee0304bab6b1f7.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/vendors/page-f2a5e44cb4effb59.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/vendors/page-f2a5e44cb4effb59.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/reviews/page-f950b7662cf3b799.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/reviews/page-f950b7662cf3b799.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/reviews/page-dc5a7a73d2d37be2.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/reviews/page-dc5a7a73d2d37be2.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/verified/page-147ad215f1d69ca8.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/verified/page-147ad215f1d69ca8.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/verified/page-d2b684b95171a74b.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/verified/page-d2b684b95171a74b.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/uptime/page-90e9704170219f74.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/uptime/page-90e9704170219f74.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/uptime/page-cf010f39d3eecb6c.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/uptime/page-cf010f39d3eecb6c.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/canary/page-2f4429a5c0dab028.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/canary/page-2f4429a5c0dab028.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/canary/page-f4fcec236ea60593.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/canary/page-f4fcec236ea60593.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -648,38 +671,38 @@
       "type": "application/javascript",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/start/page-358d1ede90e2c18f.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/start/page-358d1ede90e2c18f.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/start/page-e9fc7c89a629768a.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/start/page-e9fc7c89a629768a.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/faq/page-358d1ede90e2c18f.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/faq/page-358d1ede90e2c18f.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/faq/page-e9fc7c89a629768a.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/faq/page-e9fc7c89a629768a.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/tor/page-6367b0598a709e52.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/tor/page-6367b0598a709e52.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/tor/page-00707a1dea0780ec.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/tor/page-00707a1dea0780ec.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/i2p/page-dfd7ee1a82336585.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/i2p/page-dfd7ee1a82336585.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/i2p/page-da8b1b2321e81f7e.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/i2p/page-da8b1b2321e81f7e.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/minecraft/page-ae623bbcd77d5b5b.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/minecraft/page-ae623bbcd77d5b5b.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/minecraft/page-62b4473d415fdb87.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/minecraft/page-62b4473d415fdb87.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/donate/page-c6dbbda9a5dd923a.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/donate/page-c6dbbda9a5dd923a.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/donate/page-8ce9c63b1184b833.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/donate/page-8ce9c63b1184b833.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -708,14 +731,32 @@
       "type": "image/svg+xml",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/settings/page-0b9272548abfecbf.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/settings/page-0b9272548abfecbf.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/settings/page-9b84e1b68edf2556.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/settings/page-9b84e1b68edf2556.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/app/contact/page-31aeb2b1f8cd78a1.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/contact/page-31aeb2b1f8cd78a1.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/about/page-635864c63f55c34f.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/about/page-635864c63f55c34f.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://diyhrt.coffee/about/phi.png": {
+      "path": "/diyhrt.coffee/about/phi.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://diyhrt.coffee/about/n2x.png": {
+      "path": "/diyhrt.coffee/about/n2x.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://diyhrt.coffee/_next/static/chunks/app/contact/page-5376fd71c3cc6531.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/contact/page-5376fd71c3cc6531.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -750,32 +791,20 @@
       "type": "application/json",
       "location": null
     },
-    "https://diyhrt.coffee/api/v1/availability/timeline?window=24h": {
-      "path": "/diyhrt.coffee/_data/6eb351682e4f8778e13a081b.json",
-      "status": 200,
-      "type": "application/json",
-      "location": null
-    },
-    "https://diyhrt.coffee/api/v1/reviews/images/3e8eb603f1bc1c4c46e81ca99ec2c65072ec637e71665055a1f68fcafd85d4c3.png": {
-      "path": "/diyhrt.coffee/api/v1/reviews/images/3e8eb603f1bc1c4c46e81ca99ec2c65072ec637e71665055a1f68fcafd85d4c3.png",
+    "https://diyhrt.coffee/logo-halloween.png": {
+      "path": "/diyhrt.coffee/logo-halloween.png",
       "status": 200,
       "type": "image/png",
       "location": null
     },
-    "https://diyhrt.coffee/api/v1/reviews/images/14dc2a403cfbcbb1cc8209be884ea01d6abcbb0cfc009bae8a1ea44ab5645244.png": {
-      "path": "/diyhrt.coffee/api/v1/reviews/images/14dc2a403cfbcbb1cc8209be884ea01d6abcbb0cfc009bae8a1ea44ab5645244.png",
+    "https://diyhrt.coffee/counter/halloween/1.png": {
+      "path": "/diyhrt.coffee/counter/halloween/1.png",
       "status": 200,
       "type": "image/png",
       "location": null
     },
-    "https://diyhrt.coffee/api/v1/reviews/images/598f2aa9073ea22bb2cde73dccc591788ba543a99edaf8e15295a87e914030a5.png": {
-      "path": "/diyhrt.coffee/api/v1/reviews/images/598f2aa9073ea22bb2cde73dccc591788ba543a99edaf8e15295a87e914030a5.png",
-      "status": 200,
-      "type": "image/png",
-      "location": null
-    },
-    "https://diyhrt.coffee/api/v1/reviews/images/7a91a0b9100508552ef03cea064396accfa5c78c2c677257ed20183a56d15dc9.png": {
-      "path": "/diyhrt.coffee/api/v1/reviews/images/7a91a0b9100508552ef03cea064396accfa5c78c2c677257ed20183a56d15dc9.png",
+    "https://diyhrt.coffee/mascot/halloween.png": {
+      "path": "/diyhrt.coffee/mascot/halloween.png",
       "status": 200,
       "type": "image/png",
       "location": null
@@ -793,25 +822,19 @@
       "location": null
     },
     "https://diyhrt.coffee/login": {
-      "path": "/diyhrt.coffee/login/",
+      "path": "/diyhrt.coffee/login.html",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://diyhrt.coffee/_next/static/chunks/9430-589514e26a5417b7.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/9430-589514e26a5417b7.js",
+    "https://diyhrt.coffee/_next/static/chunks/9430-5ae0df0381ffa2f7.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/9430-5ae0df0381ffa2f7.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://diyhrt.coffee/brand/cloudflare.png": {
-      "path": "/diyhrt.coffee/brand/cloudflare.png",
-      "status": 200,
-      "type": "image/png",
-      "location": null
-    },
-    "https://diyhrt.coffee/_next/static/chunks/app/login/page-9c95b3f5c5a636f5.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/login/page-9c95b3f5c5a636f5.js",
+    "https://diyhrt.coffee/_next/static/chunks/app/login/page-200ccf9865766d6f.js": {
+      "path": "/diyhrt.coffee/_next/static/chunks/app/login/page-200ccf9865766d6f.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -822,86 +845,8 @@
       "type": "text/css; charset=UTF-8",
       "location": null
     },
-    "https://forum.diyhrt.coffee/_next/static/chunks/1255-b28ea36bf0cdbd65.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/1255-b28ea36bf0cdbd65.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
     "https://forum.diyhrt.coffee/_next/static/chunks/webpack-909893268911f148.js": {
       "path": "/diyhrt.coffee/forum/_next/static/chunks/webpack-909893268911f148.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/4bd1b696-f785427dddbba9fb.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/4bd1b696-f785427dddbba9fb.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/global-error-c3bbf5f0205d2d32.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/global-error-c3bbf5f0205d2d32.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/4312-7c58cc778411aae8.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/4312-7c58cc778411aae8.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/error-7bc18e14508a51dd.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/error-7bc18e14508a51dd.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/%5B...missing%5D/page-df423c16c0451d7b.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/%5B...missing%5D/page-df423c16c0451d7b.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/1395-16a226fc3a08a79d.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/1395-16a226fc3a08a79d.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/8720-d7f67a5726cf715d.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/8720-d7f67a5726cf715d.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/main-app-08607c612937c180.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/main-app-08607c612937c180.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/3809-625307301839ad3d.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/3809-625307301839ad3d.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/2619-3c9e02e22d10480a.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/2619-3c9e02e22d10480a.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/error-1d2587d8fe54a167.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/error-1d2587d8fe54a167.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/layout-a3ce83e34cb159e5.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/layout-a3ce83e34cb159e5.js",
       "status": 200,
       "type": "application/javascript; charset=UTF-8",
       "location": null
@@ -912,38 +857,110 @@
       "type": "image/png",
       "location": null
     },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/layout-945dc42443d4244c.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/layout-945dc42443d4244c.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/css/46168ad2eee39a9b.css": {
-      "path": "/diyhrt.coffee/forum/_next/static/css/46168ad2eee39a9b.css",
+    "https://forum.diyhrt.coffee/_next/static/css/a637b8be038ada1a.css": {
+      "path": "/diyhrt.coffee/forum/_next/static/css/a637b8be038ada1a.css",
       "status": 200,
       "type": "text/css; charset=UTF-8",
       "location": null
     },
-    "https://forum.diyhrt.coffee/api/forum/me/account": {
-      "path": "/diyhrt.coffee/forum/api/forum/me/account.json",
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/global-error-c3bbf5f0205d2d32.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/global-error-c3bbf5f0205d2d32.js",
       "status": 200,
-      "type": "application/json",
+      "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://forum.diyhrt.coffee/site-bg.gif": {
-      "path": "/diyhrt.coffee/site-bg.gif",
+    "https://forum.diyhrt.coffee/_next/static/chunks/main-app-08607c612937c180.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/main-app-08607c612937c180.js",
       "status": 200,
-      "type": "image/gif",
+      "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://forum.diyhrt.coffee/_next/static/media/b7bd7951037de757-s.p.woff2": {
-      "path": "/diyhrt.coffee/_next/static/media/b7bd7951037de757-s.p.woff2",
+    "https://forum.diyhrt.coffee/_next/static/chunks/2619-3c9e02e22d10480a.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/2619-3c9e02e22d10480a.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/8720-d7f67a5726cf715d.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/8720-d7f67a5726cf715d.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/3809-625307301839ad3d.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/3809-625307301839ad3d.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/1255-b28ea36bf0cdbd65.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/1255-b28ea36bf0cdbd65.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/4bd1b696-f785427dddbba9fb.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/4bd1b696-f785427dddbba9fb.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/media/iconfont.874808cc.woff2": {
+      "path": "/diyhrt.coffee/_next/static/media/iconfont.874808cc.woff2",
       "status": 200,
       "type": "font/woff2",
       "location": null
     },
+    "https://forum.diyhrt.coffee/_next/static/chunks/1395-16a226fc3a08a79d.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/1395-16a226fc3a08a79d.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/halloween-header-bg.gif": {
+      "path": "/diyhrt.coffee/halloween-header-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/error-c422de822dc601ec.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/error-c422de822dc601ec.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/layout-8123835e8201baeb.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/layout-8123835e8201baeb.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/error-753cdf0a6f0bc976.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/error-753cdf0a6f0bc976.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/%5B...missing%5D/page-635864c63f55c34f.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/%5B...missing%5D/page-635864c63f55c34f.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/layout-41790b5fef18d3d9.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/layout-41790b5fef18d3d9.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
     "https://forum.diyhrt.coffee/_next/static/media/98e207f02528a563-s.p.woff2": {
       "path": "/diyhrt.coffee/_next/static/media/98e207f02528a563-s.p.woff2",
+      "status": 200,
+      "type": "font/woff2",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/media/b7bd7951037de757-s.p.woff2": {
+      "path": "/diyhrt.coffee/_next/static/media/b7bd7951037de757-s.p.woff2",
       "status": 200,
       "type": "font/woff2",
       "location": null
@@ -954,10 +971,22 @@
       "type": "font/woff2",
       "location": null
     },
-    "https://forum.diyhrt.coffee/header-bg.gif": {
-      "path": "/diyhrt.coffee/header-bg.gif",
+    "https://forum.diyhrt.coffee/_next/static/chunks/4312-97a3b70167e16209.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/4312-97a3b70167e16209.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/halloween-bg.gif": {
+      "path": "/diyhrt.coffee/halloween-bg.gif",
       "status": 200,
       "type": "image/gif",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/api/forum/me/account": {
+      "path": "/diyhrt.coffee/forum/api/forum/me/account.json",
+      "status": 200,
+      "type": "application/json",
       "location": null
     },
     "https://forum.diyhrt.coffee/_next/static/media/db96af6b531dc71f-s.p.woff2": {
@@ -966,64 +995,10 @@
       "type": "font/woff2",
       "location": null
     },
-    "https://forum.diyhrt.coffee/_next/static/media/iconfont.874808cc.woff2": {
-      "path": "/diyhrt.coffee/_next/static/media/iconfont.874808cc.woff2",
-      "status": 200,
-      "type": "font/woff2",
-      "location": null
-    },
-    "https://diyhrt.coffee/signup": {
-      "path": "/diyhrt.coffee/signup/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://diyhrt.coffee/_next/static/chunks/app/signup/page-f67a4149feb946c6.js": {
-      "path": "/diyhrt.coffee/_next/static/chunks/app/signup/page-f67a4149feb946c6.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/login": {
-      "path": "/diyhrt.coffee/forum/login/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/9430-589514e26a5417b7.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/9430-589514e26a5417b7.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/login/page-7958eab07536a4ef.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/login/page-7958eab07536a4ef.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/916-ca3b4c1cae5299c5.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/916-ca3b4c1cae5299c5.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/brand/cloudflare.png": {
-      "path": "/diyhrt.coffee/brand/cloudflare.png",
+    "https://forum.diyhrt.coffee/logo-halloween.png": {
+      "path": "/diyhrt.coffee/logo-halloween.png",
       "status": 200,
       "type": "image/png",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/signup": {
-      "path": "/diyhrt.coffee/forum/signup/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/signup/page-335ca2ee4f389bcb.js": {
-      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/signup/page-335ca2ee4f389bcb.js",
-      "status": 200,
-      "type": "application/javascript; charset=UTF-8",
       "location": null
     },
     "https://forum.diyhrt.coffee/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": {
@@ -1056,34 +1031,34 @@
       "type": "application/javascript; charset=UTF-8",
       "location": null
     },
-    "https://forum.diyhrt.coffee/login?captcha=image": {
-      "path": "/diyhrt.coffee/forum/_pages/0fc9ebe457b7973ea2a4199d.html?captcha=image",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/signup?captcha=image": {
-      "path": "/diyhrt.coffee/forum/_pages/f82cd8a71be725e83a473e9c.html?captcha=image",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
     "https://forum.diyhrt.coffee/messages": {
-      "path": "/diyhrt.coffee/forum/_pages/bc7bcaee918ddaf230108b1a.html?next=%2Fmessages",
+      "path": "/diyhrt.coffee/forum/_data/bc7bcaee918ddaf230108b1a.html",
       "status": 307,
       "type": "text/html; charset=utf-8",
       "location": "/login?next=%2Fmessages"
     },
     "https://forum.diyhrt.coffee/login?next=%2Fmessages": {
-      "path": "/diyhrt.coffee/forum/_pages/bc7bcaee918ddaf230108b1a.html?next=%2Fmessages",
+      "path": "/diyhrt.coffee/forum/_data/bc7bcaee918ddaf230108b1a.html",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://forum.diyhrt.coffee/login?next=%2Fmessages&captcha=image": {
-      "path": "/diyhrt.coffee/forum/_pages/bacc8e679479fe2dce8a3132.html?next=%2Fmessages&captcha=image",
+    "https://forum.diyhrt.coffee/_next/static/chunks/443-eb53fa3a74bc8e43.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/443-eb53fa3a74bc8e43.js",
       "status": 200,
-      "type": "text/html; charset=utf-8",
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/app/forum/login/page-b1093b10da81d7e7.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/app/forum/login/page-b1093b10da81d7e7.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/_next/static/chunks/9430-5ae0df0381ffa2f7.js": {
+      "path": "/diyhrt.coffee/forum/_next/static/chunks/9430-5ae0df0381ffa2f7.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8",
       "location": null
     },
     "https://diyhrt.coffee/api/v1/shops": {
@@ -1134,14 +1109,20 @@
       "type": "application/json",
       "location": null
     },
-    "https://diyhrt.coffee/api/v1/availability/timeline?window=7d": {
-      "path": "/diyhrt.coffee/_data/9b2e4c41332d5ea9c295b262.json",
+    "https://diyhrt.coffee/api/v1/availability/history?window=24h": {
+      "path": "/diyhrt.coffee/_data/a218eed82295b0f2836fce7e.json",
       "status": 200,
       "type": "application/json",
       "location": null
     },
-    "https://diyhrt.coffee/api/v1/availability/timeline?window=30d": {
-      "path": "/diyhrt.coffee/_data/5841a23b3b3927821628227a.json",
+    "https://diyhrt.coffee/api/v1/availability/history?window=7d": {
+      "path": "/diyhrt.coffee/_data/40f3471d19ef6f74a4d90f6b.json",
+      "status": 200,
+      "type": "application/json",
+      "location": null
+    },
+    "https://diyhrt.coffee/api/v1/availability/history?window=30d": {
+      "path": "/diyhrt.coffee/_data/37f168fafdd5d48f12874b99.json",
       "status": 200,
       "type": "application/json",
       "location": null
@@ -1150,6 +1131,12 @@
       "path": "/diyhrt.coffee/_data/efc79691667377b13de85bd9.rss",
       "status": 200,
       "type": "application/rss+xml; charset=utf-8",
+      "location": null
+    },
+    "https://diyhrt.coffee/api/v1/vendors/6/reviews": {
+      "path": "/diyhrt.coffee/api/v1/vendors/6/reviews.json",
+      "status": 200,
+      "type": "application/json",
       "location": null
     },
     "https://diyhrt.coffee/api/v1/vendors/9/reviews": {
@@ -1206,16 +1193,34 @@
       "type": "application/json",
       "location": null
     },
-    "https://diyhrt.coffee/api/v1/vendors/6/reviews": {
-      "path": "/diyhrt.coffee/api/v1/vendors/6/reviews.json",
-      "status": 200,
-      "type": "application/json",
-      "location": null
-    },
     "https://diyhrt.coffee/api/v1/vendors/12/reviews": {
       "path": "/diyhrt.coffee/api/v1/vendors/12/reviews.json",
       "status": 200,
       "type": "application/json",
+      "location": null
+    },
+    "https://diyhrt.coffee/api/v1/reviews/images/3e8eb603f1bc1c4c46e81ca99ec2c65072ec637e71665055a1f68fcafd85d4c3.png": {
+      "path": "/diyhrt.coffee/api/v1/reviews/images/3e8eb603f1bc1c4c46e81ca99ec2c65072ec637e71665055a1f68fcafd85d4c3.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://diyhrt.coffee/api/v1/reviews/images/14dc2a403cfbcbb1cc8209be884ea01d6abcbb0cfc009bae8a1ea44ab5645244.png": {
+      "path": "/diyhrt.coffee/api/v1/reviews/images/14dc2a403cfbcbb1cc8209be884ea01d6abcbb0cfc009bae8a1ea44ab5645244.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://diyhrt.coffee/api/v1/reviews/images/598f2aa9073ea22bb2cde73dccc591788ba543a99edaf8e15295a87e914030a5.png": {
+      "path": "/diyhrt.coffee/api/v1/reviews/images/598f2aa9073ea22bb2cde73dccc591788ba543a99edaf8e15295a87e914030a5.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://diyhrt.coffee/api/v1/reviews/images/7a91a0b9100508552ef03cea064396accfa5c78c2c677257ed20183a56d15dc9.png": {
+      "path": "/diyhrt.coffee/api/v1/reviews/images/7a91a0b9100508552ef03cea064396accfa5c78c2c677257ed20183a56d15dc9.png",
+      "status": 200,
+      "type": "image/png",
       "location": null
     },
     "https://diyhrt.coffee/api/v1/reviews/images/8d5face22b0238c99069bf9784334085dfa7ca3379947a30db0f7ef9106ac0b5.png": {
@@ -1248,12 +1253,6 @@
       "type": "image/png",
       "location": null
     },
-    "https://diyhrt.coffee/counter/midnight/1.png": {
-      "path": "/diyhrt.coffee/counter/midnight/1.png",
-      "status": 200,
-      "type": "image/png",
-      "location": null
-    },
     "https://diyhrt.coffee/counter/midnight/2.png": {
       "path": "/diyhrt.coffee/counter/midnight/2.png",
       "status": 200,
@@ -1280,6 +1279,12 @@
     },
     "https://diyhrt.coffee/counter/midnight/6.png": {
       "path": "/diyhrt.coffee/counter/midnight/6.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://diyhrt.coffee/counter/midnight/7.png": {
+      "path": "/diyhrt.coffee/counter/midnight/7.png",
       "status": 200,
       "type": "image/png",
       "location": null
@@ -1848,6 +1853,12 @@
       "type": "text/x-component",
       "location": null
     },
+    "https://diyhrt.coffee/about?_rsc=archive": {
+      "path": "/diyhrt.coffee/_data/830bd10e9ef11dc8199749e2.htc",
+      "status": 200,
+      "type": "text/x-component",
+      "location": null
+    },
     "https://diyhrt.coffee/contact?_rsc=archive": {
       "path": "/diyhrt.coffee/_data/7980ce3b42b44ace7ab5be7f.htc",
       "status": 200,
@@ -1872,56 +1883,8 @@
       "type": "text/x-component",
       "location": null
     },
-    "https://diyhrt.coffee/login?_rsc=archive": {
-      "path": "/diyhrt.coffee/_data/8e2408379efe04d041983230.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://diyhrt.coffee/signup?_rsc=archive": {
-      "path": "/diyhrt.coffee/_data/256cae72dd53b9e8a0b650af.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/login?_rsc=archive": {
-      "path": "/diyhrt.coffee/forum/_data/1da6a6df087c3fc0df1f2955.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/signup?_rsc=archive": {
-      "path": "/diyhrt.coffee/forum/_data/60c6a8ce824904bf30f720b6.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
     "https://forum.diyhrt.coffee/messages/verify?_rsc=archive": {
       "path": "/diyhrt.coffee/forum/_data/bae19c0a77c80851eee6b8f6.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/login?captcha=image&_rsc=archive": {
-      "path": "/diyhrt.coffee/forum/_data/21455e9f8833213efcbd4a85.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/signup?captcha=image&_rsc=archive": {
-      "path": "/diyhrt.coffee/forum/_data/70f9f39c4a51fef38e7c6ef2.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/login?next=%2Fmessages&_rsc=archive": {
-      "path": "/diyhrt.coffee/forum/_data/95ce5775ae9c32c2b0b5f134.htc",
-      "status": 200,
-      "type": "text/x-component",
-      "location": null
-    },
-    "https://forum.diyhrt.coffee/login?next=%2Fmessages&captcha=image&_rsc=archive": {
-      "path": "/diyhrt.coffee/forum/_data/079d508cc6de6cd0f39caa2c.htc",
       "status": 200,
       "type": "text/x-component",
       "location": null
@@ -1938,8 +1901,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/libdiscore-wasm-fetch.6d72434e85b0a922.js": {
-      "path": "/diyhrt.coffee/_assets/5b8ee7d12d002bc114bc5967.js",
+    "https://discord.com/assets/libdiscore-wasm-fetch.c89f0625f8501485.js": {
+      "path": "/diyhrt.coffee/_assets/90bc3e40d589c969bf15a803.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -1998,8 +1961,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/fast-connect.b2c515c5ad477851.js": {
-      "path": "/diyhrt.coffee/_assets/e4bf1c0fae1379c1d147fa4a.js",
+    "https://discord.com/assets/fast-connect.359598c95dd69daa.js": {
+      "path": "/diyhrt.coffee/_assets/880f84950a8654631c2d220d.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2022,8 +1985,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/sentry.3721341051f4fd42.js": {
-      "path": "/diyhrt.coffee/_assets/670dae5487c51a31fd432d5f.js",
+    "https://discord.com/assets/sentry.b7a39ce32de0d350.js": {
+      "path": "/diyhrt.coffee/_assets/6b3af03051f600fd771d5698.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2046,8 +2009,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/384209.c316f250feb7e201.js": {
-      "path": "/diyhrt.coffee/_assets/957770718a556e3df07f1495.js",
+    "https://discord.com/assets/384209.5f531bc85f869b5d.js": {
+      "path": "/diyhrt.coffee/_assets/c511d85c5bd6a5ca52dfff33.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2058,8 +2021,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/6255.cdb7720f7c6b5998.js": {
-      "path": "/diyhrt.coffee/_assets/1787b18ddb2fabf105846d8e.js",
+    "https://discord.com/assets/354320.72a456c462279fbd.js": {
+      "path": "/diyhrt.coffee/_assets/8bc88bbd155c785e4172bf9d.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2070,8 +2033,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/964940.44d8b7d96b89f8ec.js": {
-      "path": "/diyhrt.coffee/_assets/579739511d0acf4d3bbc74d3.js",
+    "https://discord.com/assets/448400.4f3035d924fc89b5.js": {
+      "path": "/diyhrt.coffee/_assets/4a4ef86ab01f6125c2b48ab8.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2082,14 +2045,20 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/348181.c6a72b8c6216ab6c.js": {
-      "path": "/diyhrt.coffee/_assets/eaea076b04595fde57610140.js",
+    "https://discord.com/assets/586277.f408c1afefd3c640.js": {
+      "path": "/diyhrt.coffee/_assets/39825667e6e520af08a646aa.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/765531.9b97d6bdaf9de486.js": {
-      "path": "/diyhrt.coffee/_assets/2c3b27b8110735875f05db06.js",
+    "https://discord.com/assets/597384.19a64e9dba0a7f85.js": {
+      "path": "/diyhrt.coffee/_assets/477a4107a191643c2056b038.js",
+      "status": 200,
+      "type": "text/javascript",
+      "location": null
+    },
+    "https://discord.com/assets/931412.60f5a07054978e3f.js": {
+      "path": "/diyhrt.coffee/_assets/e15addd1fb37fb059e420d03.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2100,26 +2069,20 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/598947.a197ba6c1197c0bd.js": {
-      "path": "/diyhrt.coffee/_assets/74f9d4fea332cd1d3901cb2c.js",
+    "https://discord.com/assets/897937.cbb09fe739bac977.js": {
+      "path": "/diyhrt.coffee/_assets/54f94df6cdfbecc5600b7bf2.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/398929.40d62cce0be59df7.js": {
-      "path": "/diyhrt.coffee/_assets/e5d0b89d93816bb2719763b2.js",
+    "https://discord.com/assets/599618.90cddc6734dc1e7d.js": {
+      "path": "/diyhrt.coffee/_assets/d2b4289cc4ae255570a26c1d.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/32125.e308511827989b73.js": {
-      "path": "/diyhrt.coffee/_assets/e5e8b98ee6ba1459a4ad027d.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/199752.6f65969d40582d2a.js": {
-      "path": "/diyhrt.coffee/_assets/3a8c9adb8f3a72eff1f253e5.js",
+    "https://discord.com/assets/32125.c6e85b33cf40fb17.js": {
+      "path": "/diyhrt.coffee/_assets/fb52ef25a247b6334a3f33fe.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2130,8 +2093,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/327545.bb227dedb6095fea.js": {
-      "path": "/diyhrt.coffee/_assets/e5b2992e5e842f81628fbad6.js",
+    "https://discord.com/assets/327545.c8e353ddb74619f7.js": {
+      "path": "/diyhrt.coffee/_assets/9626380aef1d9b2f78e23693.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2142,8 +2105,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/234017.4f98ceacd85188fb.js": {
-      "path": "/diyhrt.coffee/_assets/597705fac80c96eda24d8469.js",
+    "https://discord.com/assets/456398.763ea47c2d157a2f.js": {
+      "path": "/diyhrt.coffee/_assets/a28a5b3726a4b7a8a58dded0.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2160,50 +2123,26 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/516949.1d13cd5192641fc9.js": {
-      "path": "/diyhrt.coffee/_assets/3677b51d310d57ba97ef468d.js",
+    "https://discord.com/assets/454313.bf3a15f82a5c69b0.js": {
+      "path": "/diyhrt.coffee/_assets/ce8b3348325ab212f0886220.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/261000.1b6532d3649c0f52.js": {
-      "path": "/diyhrt.coffee/_assets/252350fb91e6263dad708b12.js",
+    "https://discord.com/assets/101809.b361f19ddd3dfe25.js": {
+      "path": "/diyhrt.coffee/_assets/2a91415114455e91472217a2.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/188259.4b21f23b776840a1.js": {
-      "path": "/diyhrt.coffee/_assets/8d0b317d834e349ec3cff2ca.js",
+    "https://discord.com/assets/570385.7ebd93a9e755ab9a.js": {
+      "path": "/diyhrt.coffee/_assets/cd0a308c97ab997976dc7f37.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/229269.eccdf6cb5fb15d83.js": {
-      "path": "/diyhrt.coffee/_assets/3eb67436a93e181b073fbec2.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/799075.b026b529d1d355a0.js": {
-      "path": "/diyhrt.coffee/_assets/88a1dde05d6a51f4e1f7de42.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/898957.344e52b3bad9f32e.js": {
-      "path": "/diyhrt.coffee/_assets/e9273b1e6fe081aa05de6e67.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/179652.76d522a70da8cc15.js": {
-      "path": "/diyhrt.coffee/_assets/79b57614042c8b92221ec7c4.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/313097.2266427c7d7b712d.js": {
-      "path": "/diyhrt.coffee/_assets/1bd4f8f28ed056dfa1ec1c85.js",
+    "https://discord.com/assets/491899.f4618582b0567a2b.js": {
+      "path": "/diyhrt.coffee/_assets/37484ddb7ef937009324b7fa.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2232,8 +2171,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/42809.05d6dface647b149.js": {
-      "path": "/diyhrt.coffee/_assets/da5cb21a3376164d23ec0342.js",
+    "https://discord.com/assets/587882.af5047938996d708.js": {
+      "path": "/diyhrt.coffee/_assets/ad9dec3b2d5e172d4cb6a720.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2250,98 +2189,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/387132.4fdbc54e5306cf31.js": {
-      "path": "/diyhrt.coffee/_assets/b766cd59d36525a217af72da.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/351200.e4a3679c1c1b31ce.js": {
-      "path": "/diyhrt.coffee/_assets/da4054ac4a9970ee6a9d8f0b.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/996499.854309e0a9a94209.js": {
-      "path": "/diyhrt.coffee/_assets/f85a50e61ce1b4f01c8a767b.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/500186.e89df1f0566f54ee.js": {
-      "path": "/diyhrt.coffee/_assets/620e73f50c71b527a82f2cd5.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/971082.b01cbed31070d413.js": {
-      "path": "/diyhrt.coffee/_assets/20308fcd5461e7cc70120e49.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/693958.081ed0bc9e417597.js": {
-      "path": "/diyhrt.coffee/_assets/11143db78a13ce432b4e58b1.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/675052.32bfaa5ad61b9efd.js": {
-      "path": "/diyhrt.coffee/_assets/0f77d3955f1a3900a03155a4.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/761232.0c30f9871919eaaf.js": {
-      "path": "/diyhrt.coffee/_assets/35b3ec59b92b45f7283d5745.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/192318.500f3932c8d4e0f6.js": {
-      "path": "/diyhrt.coffee/_assets/6333d5598b61fad982ece7bf.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/272430.32be4a2d0671f865.js": {
-      "path": "/diyhrt.coffee/_assets/a3cff489cad834e8c0159dbe.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/47097.6726af3d5724a0fd.js": {
-      "path": "/diyhrt.coffee/_assets/6089ff24f7b052f72e32140e.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/880248.8b2458ee83ec9f0b.js": {
-      "path": "/diyhrt.coffee/_assets/d5b1c1f6b38eab8feb9eff0d.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/997183.c7dca3c9c388edbf.js": {
-      "path": "/diyhrt.coffee/_assets/5bc55981ca8d8e49aa9d239d.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/303825.11909632dc5d683e.js": {
-      "path": "/diyhrt.coffee/_assets/d90ff6fce1761f51b9305e92.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/911147.637d0e69c453e120.js": {
-      "path": "/diyhrt.coffee/_assets/ccc243edd683efb4126d1606.js",
-      "status": 200,
-      "type": "text/javascript",
-      "location": null
-    },
-    "https://discord.com/assets/196070.1af7d11b02adaf9d.js": {
-      "path": "/diyhrt.coffee/_assets/ec71310c21587a9c6cba975d.js",
+    "https://discord.com/assets/300559.77fef315fdc1fd37.js": {
+      "path": "/diyhrt.coffee/_assets/93f46e111434a940b707aefc.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2394,8 +2243,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/330938.9a581ba4276d3e62.js": {
-      "path": "/diyhrt.coffee/_assets/23f1883b89be8957b9da095c.js",
+    "https://discord.com/assets/330938.df716dc06c1d7a27.js": {
+      "path": "/diyhrt.coffee/_assets/b3e3b51680297fa7ac7814cc.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2442,14 +2291,14 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/978110.7c479d238cbc0212.js": {
-      "path": "/diyhrt.coffee/_assets/25966ee5f6ec2261944215ec.js",
+    "https://discord.com/assets/351199.c307a5175f31cecf.js": {
+      "path": "/diyhrt.coffee/_assets/7ea834a9b0323058840e20bb.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/472240.0e11c51513246260.js": {
-      "path": "/diyhrt.coffee/_assets/b2731e94fd4f04f04824d4fa.js",
+    "https://discord.com/assets/740612.2d77650d1669ec40.js": {
+      "path": "/diyhrt.coffee/_assets/020443a7ffc082c01e817ba3.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2514,8 +2363,8 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://discord.com/assets/web-minimal.07d560e66cbb6230.js": {
-      "path": "/diyhrt.coffee/_assets/71f75b99542010f348a34b9d.js",
+    "https://discord.com/assets/web-minimal.77d787f6892f4ea2.js": {
+      "path": "/diyhrt.coffee/_assets/81ca443f4728f3131c8332fa.js",
       "status": 200,
       "type": "text/javascript",
       "location": null
@@ -2544,8 +2393,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/384209.98ed92535d1a79fb.css": {
-      "path": "/diyhrt.coffee/_assets/943ecd79c5f183869a312d80.css",
+    "https://discord.com/assets/384209.9b17bb545213239f.css": {
+      "path": "/diyhrt.coffee/_assets/d1cf4847ebb01f2bcfd69d61.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2556,8 +2405,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/6255.ccb06008cb8bc8d7.css": {
-      "path": "/diyhrt.coffee/_assets/17fe4cb010dbf4c545e41d4e.css",
+    "https://discord.com/assets/354320.43c48c186d15e813.css": {
+      "path": "/diyhrt.coffee/_assets/fa916df422998544f268c207.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2568,8 +2417,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/964940.62a0e9d626b739d9.css": {
-      "path": "/diyhrt.coffee/_assets/1bfab550cc819f642ba9b4bb.css",
+    "https://discord.com/assets/448400.59f3d79bbe656a0e.css": {
+      "path": "/diyhrt.coffee/_assets/23d985555f35a15343a390e7.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2580,14 +2429,20 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/348181.c160ab9de555d350.css": {
-      "path": "/diyhrt.coffee/_assets/7f4313f686f8687ac825c9dd.css",
+    "https://discord.com/assets/586277.ea404b33e963c28b.css": {
+      "path": "/diyhrt.coffee/_assets/4868eaee582d177000f65db4.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/765531.ce453d42ea1db966.css": {
-      "path": "/diyhrt.coffee/_assets/0d7cf45fdfd016a331522f2c.css",
+    "https://discord.com/assets/597384.6675cf96aab4cbfa.css": {
+      "path": "/diyhrt.coffee/_assets/113833c06236d0cb1cb38ea3.css",
+      "status": 200,
+      "type": "text/css",
+      "location": null
+    },
+    "https://discord.com/assets/931412.45b90b74bb3cb5a5.css": {
+      "path": "/diyhrt.coffee/_assets/55f4ad3fc79e7ba1e566d67a.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2598,26 +2453,20 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/598947.59a4891bab687e74.css": {
-      "path": "/diyhrt.coffee/_assets/4df03cab4a9f9696c872c989.css",
+    "https://discord.com/assets/897937.6520c599243f4608.css": {
+      "path": "/diyhrt.coffee/_assets/c4f54487bdc7a58bf95b7640.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/398929.7c73fe641a58fa03.css": {
-      "path": "/diyhrt.coffee/_assets/a1115568efd14e94b5e9ac59.css",
+    "https://discord.com/assets/599618.0f9b29a02b35f0a7.css": {
+      "path": "/diyhrt.coffee/_assets/e2441dd8b149cbe903baa930.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/32125.6d88d890c59de22c.css": {
-      "path": "/diyhrt.coffee/_assets/6a9275a92ece1f4088f7a92f.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/199752.0686dc7f83d3840a.css": {
-      "path": "/diyhrt.coffee/_assets/5dd3c11acafbb7521bc8f597.css",
+    "https://discord.com/assets/32125.18040041865884fa.css": {
+      "path": "/diyhrt.coffee/_assets/dc2af7cdf53cab81ef6d2711.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2628,8 +2477,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/327545.ba0634eabeffa70b.css": {
-      "path": "/diyhrt.coffee/_assets/57847e26a0a29757f354682b.css",
+    "https://discord.com/assets/327545.93dfcb8f85f7cbc8.css": {
+      "path": "/diyhrt.coffee/_assets/78e34e8b63385b35548a2edc.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2640,8 +2489,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/234017.a34e367f1b9c0abe.css": {
-      "path": "/diyhrt.coffee/_assets/95dca1d195462bb1f12aa904.css",
+    "https://discord.com/assets/456398.e2de70872df049b2.css": {
+      "path": "/diyhrt.coffee/_assets/3673aa7ed1e96a3c1f6efaab.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2658,50 +2507,26 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/516949.c95f8f25eb133f2e.css": {
-      "path": "/diyhrt.coffee/_assets/7039c426bf36f68acb325173.css",
+    "https://discord.com/assets/454313.3b974427c4048e5b.css": {
+      "path": "/diyhrt.coffee/_assets/778e0956c4d79ae3ffb133b7.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/261000.04eb3f5d741e2f7c.css": {
-      "path": "/diyhrt.coffee/_assets/fef4001f34b51c320954013d.css",
+    "https://discord.com/assets/101809.898f38546b1c0bc0.css": {
+      "path": "/diyhrt.coffee/_assets/6d08b2944ea1025f9338d31d.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/188259.0f89224ab6b02df0.css": {
-      "path": "/diyhrt.coffee/_assets/1f6d691f4961fba0294dd8ae.css",
+    "https://discord.com/assets/570385.76e58bb413ace330.css": {
+      "path": "/diyhrt.coffee/_assets/ac772a5f05d126d3dfacbca0.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/229269.e9dd370c28109d00.css": {
-      "path": "/diyhrt.coffee/_assets/853c7ecd58397a0fc7908992.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/799075.26eb88753f02190f.css": {
-      "path": "/diyhrt.coffee/_assets/8ec5244f5f718251dfdd6741.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/898957.b067fa2f7513e82e.css": {
-      "path": "/diyhrt.coffee/_assets/d4739ef32ebbd437f7214a98.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/179652.0cd8d12916b71ed5.css": {
-      "path": "/diyhrt.coffee/_assets/9691c9f6275b9f98e5174092.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/313097.89075ad812eb2989.css": {
-      "path": "/diyhrt.coffee/_assets/5d77447384bc2fcc7d87b697.css",
+    "https://discord.com/assets/491899.6ccea9320dff25ae.css": {
+      "path": "/diyhrt.coffee/_assets/89a3001d2bc8db663f4bc36f.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2730,8 +2555,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/42809.7f532ec49e402315.css": {
-      "path": "/diyhrt.coffee/_assets/7a9c661392ba2258263c0c48.css",
+    "https://discord.com/assets/587882.dbed555b74872a01.css": {
+      "path": "/diyhrt.coffee/_assets/8d26c4b9d01a012c2b2700b2.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2748,98 +2573,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/387132.9374eac38a4ce3fd.css": {
-      "path": "/diyhrt.coffee/_assets/1ad0b801b7b2e59b523159db.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/351200.ec1294199b2e7a31.css": {
-      "path": "/diyhrt.coffee/_assets/b4e2e67a8969cee8d987ec83.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/996499.1208474fb8b48816.css": {
-      "path": "/diyhrt.coffee/_assets/6985cb64b2be87ba1755d9d2.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/500186.4422353a4dc21a35.css": {
-      "path": "/diyhrt.coffee/_assets/12c643bf15d61c916f0c6568.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/971082.6ec87a543d418cd4.css": {
-      "path": "/diyhrt.coffee/_assets/3da65e689e45989dff26536a.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/693958.3a159b08676d38ef.css": {
-      "path": "/diyhrt.coffee/_assets/5046be3cdb00154366dbfb4c.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/675052.d9270b28222cb20c.css": {
-      "path": "/diyhrt.coffee/_assets/e389821297974c4c2e207463.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/761232.f6b43eb7077541b5.css": {
-      "path": "/diyhrt.coffee/_assets/505189820fc3a99be41412de.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/192318.30cc95893b108d55.css": {
-      "path": "/diyhrt.coffee/_assets/795e7d80ced50ef40876d255.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/272430.72637fc157fdb091.css": {
-      "path": "/diyhrt.coffee/_assets/7b4ddc62c4fe5886bd27be91.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/47097.1fc59465df51d10f.css": {
-      "path": "/diyhrt.coffee/_assets/b18fdc8e57d368e11a21b800.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/880248.d7ddb84cffd9bc71.css": {
-      "path": "/diyhrt.coffee/_assets/c4b4d96614f3cc36e0e4e122.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/997183.35f592da5df58956.css": {
-      "path": "/diyhrt.coffee/_assets/b5bffcef766f4c32ab9d004a.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/303825.95146d1eaa187e2f.css": {
-      "path": "/diyhrt.coffee/_assets/d3a48a44fc085654bf034340.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/911147.eb4a96910350f852.css": {
-      "path": "/diyhrt.coffee/_assets/0853d1016b200359cdeceb23.css",
-      "status": 200,
-      "type": "text/css",
-      "location": null
-    },
-    "https://discord.com/assets/196070.1561a979026f7c0f.css": {
-      "path": "/diyhrt.coffee/_assets/9d11df7cf32accf6f1c68b39.css",
+    "https://discord.com/assets/300559.481157d7a0cbf6f8.css": {
+      "path": "/diyhrt.coffee/_assets/27a6c526cfe1bf0baa599c13.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2892,8 +2627,8 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/330938.b6b028113cefa158.css": {
-      "path": "/diyhrt.coffee/_assets/1a624a8d5a59122744fcda1e.css",
+    "https://discord.com/assets/330938.7cfc7a0cb321bc4f.css": {
+      "path": "/diyhrt.coffee/_assets/adee906192c5f73681fbaab6.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -2904,14 +2639,14 @@
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/952007.bbbdf06720743992.css": {
-      "path": "/diyhrt.coffee/_assets/a60f1ea770d0ef9f784da04c.css",
+    "https://discord.com/assets/952007.eb6d16548afdb328.css": {
+      "path": "/diyhrt.coffee/_assets/396e0e09cac4b760d8fc6384.css",
       "status": 200,
       "type": "text/css",
       "location": null
     },
-    "https://discord.com/assets/419070.5a76dee70a3767eb.css": {
-      "path": "/diyhrt.coffee/_assets/19907ebd6f54cbf864205cab.css",
+    "https://discord.com/assets/419070.cd025d491c05554a.css": {
+      "path": "/diyhrt.coffee/_assets/c0a5d76777053eebfcc1a7ef.css",
       "status": 200,
       "type": "text/css",
       "location": null
@@ -3048,6 +2783,18 @@
       "type": "image/svg+xml",
       "location": null
     },
+    "https://forum.diyhrt.coffee/site-bg.gif": {
+      "path": "/diyhrt.coffee/site-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/header-bg.gif": {
+      "path": "/diyhrt.coffee/header-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
     "https://forum.diyhrt.coffee/summer-bg.gif": {
       "path": "/diyhrt.coffee/summer-bg.gif",
       "status": 200,
@@ -3108,22 +2855,28 @@
       "type": "image/gif",
       "location": null
     },
-    "https://forum.diyhrt.coffee/paper-bg.gif": {
-      "path": "/diyhrt.coffee/paper-bg.gif",
+    "https://forum.diyhrt.coffee/paper-snow-bg.gif": {
+      "path": "/diyhrt.coffee/paper-snow-bg.gif",
       "status": 200,
       "type": "image/gif",
       "location": null
     },
-    "https://forum.diyhrt.coffee/paper-header-bg.gif": {
-      "path": "/diyhrt.coffee/paper-header-bg.gif",
+    "https://forum.diyhrt.coffee/paper-snow-header-bg.gif": {
+      "path": "/diyhrt.coffee/paper-snow-header-bg.gif",
       "status": 200,
       "type": "image/gif",
       "location": null
     },
-    "https://forum.diyhrt.coffee/cdn-cgi/l/email-protection": {
-      "path": "/diyhrt.coffee/forum/cdn-cgi/l/email-protection.html",
-      "status": 404,
-      "type": "text/html",
+    "https://forum.diyhrt.coffee/noir-bg.gif": {
+      "path": "/diyhrt.coffee/noir-bg.gif",
+      "status": 200,
+      "type": "image/gif",
+      "location": null
+    },
+    "https://forum.diyhrt.coffee/noir-header-bg.gif": {
+      "path": "/diyhrt.coffee/noir-header-bg.gif",
+      "status": 200,
+      "type": "image/gif",
       "location": null
     },
     "https://discord.com/assets/f7d0845b63d81c46.svg": {
@@ -3168,30 +2921,6 @@
       "type": "image/svg+xml",
       "location": null
     },
-    "https://discord.com/assets/a90b040155ee449f.svg": {
-      "path": "/diyhrt.coffee/_assets/6b52136e1dc94ec3c31fd864.svg",
-      "status": 200,
-      "type": "image/svg+xml",
-      "location": null
-    },
-    "https://discord.com/assets/ed4c6d51411aad5e.svg": {
-      "path": "/diyhrt.coffee/_assets/dd5459cd9b5c86f3d8f4d383.svg",
-      "status": 200,
-      "type": "image/svg+xml",
-      "location": null
-    },
-    "https://discord.com/assets/52432522457760d7.webp": {
-      "path": "/diyhrt.coffee/_assets/7933633de08f237ab14bc05f.webp",
-      "status": 200,
-      "type": "application/octet-stream",
-      "location": null
-    },
-    "https://discord.com/assets/eae6388e2d5a721a.svg": {
-      "path": "/diyhrt.coffee/_assets/b553c35f2d2a6877f577cd0e.svg",
-      "status": 200,
-      "type": "image/svg+xml",
-      "location": null
-    },
     "https://discord.com/assets/c48922675fa3fdb4.svg": {
       "path": "/diyhrt.coffee/_assets/a5c93c8f2aff177706f043ca.svg",
       "status": 200,
@@ -3224,6 +2953,30 @@
     },
     "https://discord.com/assets/49e200b52c0a66ab.svg": {
       "path": "/diyhrt.coffee/_assets/cfa31adbfce50da0108a4263.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "location": null
+    },
+    "https://discord.com/assets/a90b040155ee449f.svg": {
+      "path": "/diyhrt.coffee/_assets/6b52136e1dc94ec3c31fd864.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "location": null
+    },
+    "https://discord.com/assets/ed4c6d51411aad5e.svg": {
+      "path": "/diyhrt.coffee/_assets/dd5459cd9b5c86f3d8f4d383.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "location": null
+    },
+    "https://discord.com/assets/52432522457760d7.webp": {
+      "path": "/diyhrt.coffee/_assets/7933633de08f237ab14bc05f.webp",
+      "status": 200,
+      "type": "application/octet-stream",
+      "location": null
+    },
+    "https://discord.com/assets/eae6388e2d5a721a.svg": {
+      "path": "/diyhrt.coffee/_assets/b553c35f2d2a6877f577cd0e.svg",
       "status": 200,
       "type": "image/svg+xml",
       "location": null
@@ -3528,6 +3281,12 @@
       "type": "font/woff2",
       "location": null
     },
+    "https://discord.com/assets/a7bafac436428e6c.woff2": {
+      "path": "/diyhrt.coffee/_assets/6372fe0515d296daabdda563.woff2",
+      "status": 200,
+      "type": "font/woff2",
+      "location": null
+    },
     "https://discord.com/assets/f5f3aa7dcba172ed.woff2": {
       "path": "/diyhrt.coffee/_assets/130e9181cc689864c05f1afb.woff2",
       "status": 200,
@@ -3537,6 +3296,7 @@
   },
   "files": {
     "_assets/010e59bb167d58d8d87f9928.woff2": "2d38598492e7312d3ccaa2e98642a04d1deb7a38089ab201f8d6852b6907de40",
+    "_assets/020443a7ffc082c01e817ba3.js": "ea03de498e47a2c75da2cc55f2c4eb46d510c8f4f39523d9d757d3dcfe3cca15",
     "_assets/02581148b4d5f423d33c497d.woff2": "b78fb569265b01789e7edd88cfe02ecb2c3fee5e1999678255f9b78a3b2cc4e8",
     "_assets/04a0885a6e9c3de26045ce03.css": "a573469e7dd60abe4dcb5f7afbb0fd37a6ef6aee1fe24dce3d3b055748572291",
     "_assets/04ce2cd1b28c552d8faea8cc.css": "971ec9c262061f3060519fae0a90229cc256a0a0df8eb81e0dfb97c3cd155415",
@@ -3544,308 +3304,269 @@
     "_assets/06143449f4658249dbc3d716.svg": "dfba736bf7eaf16f4e999054b270330ba559618bc8519577447ad7f0f8774c8e",
     "_assets/07b3907a129209da21fac343.css": "a748edc911ac745c3992b3645a472d8abe9d406bafd3b6d7023940cdf838bd7b",
     "_assets/07be97ed4c9b90495eebd518.woff2": "c3a441e7e572abcaddca0f9151a74e0898432fc2588436b5ad4a51c571646649",
-    "_assets/0853d1016b200359cdeceb23.css": "10ee1826350971226c505b8ff50e9d94ed56bc7c5d662c2f8f08cbdaa7327cb5",
-    "_assets/0d7cf45fdfd016a331522f2c.css": "2668d80f132431db916b1feec48a90d37e5b2e2532c37fc69bd6999bf5489d35",
-    "_assets/0f77d3955f1a3900a03155a4.js": "7eb05ebbb64e3db95d2f711a0699bc735586ce06a42f5d9c48122a7807d18bee",
     "_assets/1101535a93a7c7c32f01d0a8.js": "5a2cba12471a5a763a1f944c48c805251eefc633707847eb8cbdea5fb0ea3eb4",
-    "_assets/11143db78a13ce432b4e58b1.js": "b977238027b26fdb22321235aa17ec282fb4e983884cc84f4e8a17361fedfc70",
+    "_assets/113833c06236d0cb1cb38ea3.css": "200a75b820ab1bc9d8d3783e99bcb098b61d571318708395dcd73dc6d69ccc02",
     "_assets/114a4dc6fe59c35b572baccd.svg": "fdafe750516424e70a0f38655c37ea04780efa8a3dbc787851cb9de8717f55dd",
     "_assets/11a20fa3ac7fd4d279780a8d.woff2": "817684312eef0281799a83221fb7e28904edeacf091f550f28f8c7b92e60df86",
-    "_assets/12c643bf15d61c916f0c6568.css": "d70e6871011d0fce6c4e4453a92c58e4199b97edf7d865de26e3fa7a65254ff8",
     "_assets/130e9181cc689864c05f1afb.woff2": "e276ebac8bf9ffcfb33398e2fc045f91649152c2cfbb81869446bdb1dc97a283",
     "_assets/14b87635b0abad726a79b76f.js": "901d8ddd43e81f9e4e42483f1a416a7d59ad4baf511022db720cc44740f01a07",
-    "_assets/1787b18ddb2fabf105846d8e.js": "33b111f76722df31a05817903c8b83f4d03251b8dd35635c1f7547dfcee68b62",
-    "_assets/17fe4cb010dbf4c545e41d4e.css": "3b5395567a7aad183c0a81d90f8fef3297175a33828844aa26b5a11c1ece918c",
     "_assets/1968dd713d44de5bee8fa831.css": "08e410da21d9ee31496ae6f55981de3b0232de0b23f5caa8d52a119e9b0ec170",
-    "_assets/19907ebd6f54cbf864205cab.css": "7e4c21dfb9d35855be90e608a6e06464799b13325bcc87819219057a034c127b",
     "_assets/19ea0e27ce2002dd231c557d.js": "0de5a1c8cf3e028d1fae339e5cc98a6fcd85abb3ed1ac30191377bfab1e01fa0",
-    "_assets/1a624a8d5a59122744fcda1e.css": "aae1c35b70ff62d295e5bd53f1ebde0297e588fbe58c3b5ec236a576f8bd4ac1",
-    "_assets/1ad0b801b7b2e59b523159db.css": "c27b9b553b31867a2872afb314ccb4bc18d86cbd5bd5287014bcea2f23bc0466",
     "_assets/1b8afb4f1fe0af0a8226ee0b.js": "5679ebffe06b74e5a86eaeeb23990025f2933fecb1de1aa624058083951c8f02",
-    "_assets/1bd4f8f28ed056dfa1ec1c85.js": "cf371e41461d9801412702662b8611cf5bfa6db40b59f358b9c871c55c198e48",
-    "_assets/1bfab550cc819f642ba9b4bb.css": "e486b6ad42ecf7bdd3516fdb845b9e8714e345ff4431b82e482b6452471e6e49",
     "_assets/1e247e2b06f6a351ffe2e7f2.js": "3a44fff2d76fea86a37f818f9a7cbb2552a5be48ed94fd3910d278d52e806178",
-    "_assets/1f6d691f4961fba0294dd8ae.css": "6a90ef579ea69accf4008b4576e2780fc282ad8ff4c61a7d175a72e81db2f908",
     "_assets/1fc3a3ee9d0594fc6c40c547.js": "bb20121a5a23aff1ab9423e3066b45cb3168fdb33eac526edf5c70eb504e89da",
     "_assets/1fcc108c01ed1f34e4d43052.svg": "567a9b60fc5677c18fb8525686fe4a0020aae8f7041b22aec84ee07c990fb7b1",
     "_assets/202ea578646b9ec8e7b9729c.svg": "d3a9b15ce56924c4b3e71eaf4ed4386c8e9e92c38186d00599d676ddbae0c98c",
-    "_assets/20308fcd5461e7cc70120e49.js": "19e6f066c2508c1786a7f5d7f51c784f27559b97e45a681eada1b38a38defbb7",
-    "_assets/23f1883b89be8957b9da095c.js": "9d0d899ca8d84080a804b9f8144654183333a2177b7c9882d820aa60707bfe28",
+    "_assets/23d985555f35a15343a390e7.css": "69143d6ad4bf3ac8e5891638f2d959d83bf05001639f90993426c057a14b63f0",
     "_assets/244474811c3d6a6e68fb57bb.js": "b0ea85086ab6a4fb9ac3bd4a18214930ffc0e39b87e1d0bb1d5f3f8d02956f45",
-    "_assets/252350fb91e6263dad708b12.js": "25ed48f88a65c8ba77ad2c83500aaed195ed79cf7e691357a200b2a9aa9167a1",
     "_assets/2526e934fe8960289a8b2bae.css": "5172db5cfb71153e16684202027ff967bd64abfe8aeb56f70c55de2b4c50ebe6",
-    "_assets/25966ee5f6ec2261944215ec.js": "645271c9292488f759d9a4a43e819189688991eff63843d0908d7d718f953185",
+    "_assets/27a6c526cfe1bf0baa599c13.css": "dfe8f1be4b695c82530e645711b9c6bc37ea1dafd8aed0f6fb9580883851828c",
     "_assets/27b5b9d8e779080c25a5a6eb.css": "32fd9a78345f0f5b1ebcefc58f6747a62663c1f4f4ef39c99092bfd44c363141",
-    "_assets/2c3b27b8110735875f05db06.js": "535881dace844b58e513eec08072a162d4d8eec624b310930b40b138e15b093f",
+    "_assets/2a91415114455e91472217a2.js": "d7626259786c698a60715338eee70ecb6af1bf78961bde33bf3eaaad37b6fa03",
     "_assets/2e4ca9571c875009b5318403.css": "ddd5b0f481d99068244b0f2bd4f57679128240d3f11889cdc5cd46e1194a057b",
     "_assets/30f3428fc60975c20aaf5d75.js": "f27c0830029cecc3bf3ec49a653f2d04783b22c9b111dceaa4e9abcdf4e4419f",
     "_assets/337fec45a808a965cf147b69.woff2": "1c62840ae0da8caaa80148e9dddde2312e4f2f6b9b9eb3f48f2903efc262c0e5",
     "_assets/33ccc00cc4665e17d8f75ce7.js": "da6a2f328a7e5689a7851c3b32b70f317c5eacfa35a5e1e2516e63fad20e7de1",
-    "_assets/35b3ec59b92b45f7283d5745.js": "db73c957280557bdb27621395b0287d98857cbcd46ef57f6d0af788080d46dd7",
     "_assets/36606b767419eebc94894fc1.js": "62d4f856b9b30b2f7e8b2a34287dca99f55b4576a707774fc9430ebe8d161dfc",
-    "_assets/3677b51d310d57ba97ef468d.js": "06d3f92de3071ef4996659d9ff92dd589d860cfbb82b7f317bb140a0b5a1d39f",
+    "_assets/3673aa7ed1e96a3c1f6efaab.css": "44267d2299f55ed79f1ac646c1164f5e7638dd07e92d74c072891afc97629e75",
     "_assets/373c4b65931e328f8e287c89.js": "fcd4c837e8cc9b9a93422ac1b6ffb12962b5b57a75120cd759a352e07b6748a1",
+    "_assets/37484ddb7ef937009324b7fa.js": "40f38cfbc48e1673c9a38aa22affb606d925f0915081a632c68a92243b96cb0d",
     "_assets/388ec5ea9b1dbd17871ef984.js": "bdec415afd6bee06d66f1130d394a04da0216e2d828d3bec73576d86f6453fff",
+    "_assets/396e0e09cac4b760d8fc6384.css": "fb222eea4bedc4d378836d231c7a9676acb2b568eaf9551f8ec93025595ad840",
     "_assets/39700f27b1690fc6ccdf0c62.woff2": "c1d71bd80fc3ecf5ef1a97092a456a046d55fd264be721f2a25be3e59ccb8b2b",
+    "_assets/39825667e6e520af08a646aa.js": "a4e3926bd542f21f82932e8b0e426e1f55d17ae55e797c6c821a4f5aa5d3a4b3",
     "_assets/3a6bb9c742c7e44c17363711.js": "e1df955edf062a526f76457228419e34bd36eed7cd5d090c880d3b866c3f676f",
-    "_assets/3a8c9adb8f3a72eff1f253e5.js": "0d5c4977d715f24725e3fb1b7fa8f18202cfc97ba8ab108fe8c7d038409b78f1",
     "_assets/3c66e9c8c95695e5adb346e7.css": "125e70c11bb3cbbbc1b7a4967614a92124f35c9b40fd49274be7ee7af03cb6ae",
-    "_assets/3da65e689e45989dff26536a.css": "bcb9f0dca2e0211329e4bfd92d4b3f1247d8e27c0417da3c2110a63111b2a21f",
     "_assets/3e279fd008274ad3a8ba547a.woff2": "426ae06cd942849ab48b84c287c760f3701b603ebcc5c9aaa4a89923ef5f058e",
-    "_assets/3eb67436a93e181b073fbec2.js": "e6891c6379f449f9ff9fe011820ec13969f6596b1525134b186fe61c5b5b3265",
     "_assets/422f5569d28008e7981a6b17.js": "00ae70a1c5aa6d2819edd94cdf18e8c365834aea9de4714bd5fa8fa1750e3f8e",
     "_assets/424bee30fb439ff8282dc6e8.woff2": "3cb7a73b454fdc7290f8188282def2e97a24ceef1312295730a5bff2ef9e96c6",
     "_assets/42a7de0c0f69aa93681041c2.woff2": "1b03dae61d613604b3d41d61cc4bc2e05f19bd27c7ff2638242f9036f2b8794e",
     "_assets/44a33861e47ddf36bdcba1fd.woff2": "56ecd53359aeb2216d80b05f69416297e277423883987093acd0599454d9e8eb",
     "_assets/4584fe5dcf9c50f0dbce7a49.css": "0de7b5cfa778257092ed39e79c6cc1153d6fdd98be7a543d8054f877bd908712",
-    "_assets/48cfc9d6a57b1460f0ad51ed.html": "5ecdb08e71b1a852002abe5b27dd71ea51ace4b6365e9392d163bc878500b2c4",
+    "_assets/477a4107a191643c2056b038.js": "1b01e5c5f7ad088c10711fc8dc0a91bd9e0522e24a26041050fc6946ae204435",
+    "_assets/4868eaee582d177000f65db4.css": "37a7f616a0c1bab8655da740b0a0fbd05305c95024fe15423034891597932a36",
+    "_assets/48cfc9d6a57b1460f0ad51ed.html": "58c33313cf3398a284861d8781109bf10eacf9269762fb9e82751cfac6d6e57c",
+    "_assets/4a4ef86ab01f6125c2b48ab8.js": "64067cd5c37493294b630cacf1ce8c183dca4331d80cfb31b121cd33281599dc",
     "_assets/4c3400f85b3db406fcab8ff1.js": "885e0ae7740ae12f83f2c75c55bab5c1cc6c3c437658f7196ec246809af75930",
-    "_assets/4df03cab4a9f9696c872c989.css": "94807e5d14f201153a371c929a9f6efd2edc614f2c01c70eb73e27879da91785",
     "_assets/4f11a80a89d4e32fdef9c23a.woff2": "f7e3571c1b8df4df3279a577718e545289a89501fcd0073bebbee8df7e8a06c7",
     "_assets/4ff1b63e317704acb25f2976.js": "5dac9f140015d26cd4c7114b1ebc8f19cd8c976ed8a6409383b5132ffbb70dc5",
     "_assets/501a6d611b6f039add95d8fe.txt": "274f1e5417792648783514adb4931b80d7e8b2d0f427921f40a3e7a662c15e6c",
-    "_assets/5046be3cdb00154366dbfb4c.css": "20878f95b83ee224690a2a32eaaab4a42cd1f0a5ab0e07145f344330c89b0369",
-    "_assets/505189820fc3a99be41412de.css": "b244ca83eae9cd63c35edce2e0f8d502d61840145ebabfa870d0eb0149ebecc0",
     "_assets/5319e84518ae3122d1a26f77.css": "29cc3fb5c60d3eef43bf0e836505d1365e877fa5f04d9237080e4ef243369da1",
+    "_assets/54f94df6cdfbecc5600b7bf2.js": "92e3e3bdb9cfdadbbfaec38841584dee7c114fdbffb9aa55586f22f6b9b0855c",
     "_assets/55f446bea231874c783e5850.woff2": "8e401b056dc1eb48d44a01407ceb54372bbc44797d3259069ce96a96dfd8c104",
-    "_assets/57847e26a0a29757f354682b.css": "dadabced7f69ef8f90dc6286d9c0456ff660866597fd70027e1eca8cda01d352",
-    "_assets/579739511d0acf4d3bbc74d3.js": "21dae1ddc19bd0394b20a14d41ad49de3bc5a60cc5bab5093ccfdaf9fe46ae21",
+    "_assets/55f4ad3fc79e7ba1e566d67a.css": "1b26eed1327c859af4a8f9ea2f3c758133f775d81590cb1aefa521634743ab65",
     "_assets/583a93e3253e48ae4a27e4b1.css": "a71891eb9757dea80c368e27c48c33b51615eac62edcc9b604e9c162b80c3122",
-    "_assets/597705fac80c96eda24d8469.js": "2e30b14e13e2f4e9e573437a52400aaceeb3e0a46551c6192fd80f824862d630",
     "_assets/5aa78c71b2c4503b9d6a1e90.woff2": "440ad8b1449985479bc37265e9912bbf2bf56fe9ffd14709358a8e9c2d5f8e5b",
     "_assets/5aacd20ad29368964eacae3f.css": "a0bf291cb6387c73fbb31f7ba26f924e78fb2ab406a187b873c228cfd3bac22b",
     "_assets/5ab1d9ac4f4961523e98fa50.woff2": "811563f8ea187c8ca0a57007713fe8d21701acdbd6226083713da4b49a7495f2",
     "_assets/5b2644d6764dcaeb31f0eaa6.svg": "641b1091276ba75578c3d93f367f0d70bcbba7c62a7f159c4307acf0ed6c5cbe",
-    "_assets/5b8ee7d12d002bc114bc5967.js": "0583cf994b68cad3f497fdca5f828aad8aa81939480cce3720a105355b368b3a",
-    "_assets/5bc55981ca8d8e49aa9d239d.js": "7f747ebe86832131458c905f63052d8a0015106d8079f29baf9536041eafc0f5",
     "_assets/5be4f2ecb2962fa02205d485.svg": "02ce7d40f495f6f327f66df31829fa2a5985c4c345805de1d8ad926ac370d6cf",
     "_assets/5c8d3f7dc26df8f6fa856158.svg": "96c15d9d73e8beb064411fed60db2f50d1254f5b3d96f33d8e83edd2e226c897",
     "_assets/5d19f9c68441909c88a45314.js": "1a845b417bbf9c630c7d0300c102633315e5e52a6188ce63fb02869663fba861",
-    "_assets/5d77447384bc2fcc7d87b697.css": "da1242e29d2e81df39c777f1fd49fd26e3d189aed5b0cf0fbfc4e7660b07af5c",
-    "_assets/5dd3c11acafbb7521bc8f597.css": "1e547f2eb0b06d31c48535a557ada51fb25dcbed03809cde01a94f9bd50fd2b8",
     "_assets/5e1f2ffd3f5ae22ced9b9548.js": "e307b513f7b4536e1bcfdc961aaa66ce6a04d38b136ad45ea4d1139811e03b5f",
     "_assets/604fab7f5543346baf694df3.svg": "6ef5654eb78877ea0b8652c3bb61ffb8c5fe852606c04e289dc38ca7a11c5527",
-    "_assets/6089ff24f7b052f72e32140e.js": "925dda9463c7c703c7bd06d8eb46a4a6a26734b6edb9b402ac6c08d8ef8bdeb4",
     "_assets/6196e430cbd9046a9d0f0927.svg": "0d8c17a5866c73ec80359fe7f5e3f02f28f54a806db78d1486f8efd00355e024",
-    "_assets/620e73f50c71b527a82f2cd5.js": "ea69539944c51618e2509757c4ef4485bf0c3a0157b49ee7eb72ebcba38d518a",
     "_assets/62f7baa5dba5593854c01be9.js": "f6bf4b1fdfc157cdd73f10bb539f57a26c3f5fe87563e88ba3d68e03b15a8f8f",
-    "_assets/6333d5598b61fad982ece7bf.js": "4e515bd966509fe7f64743bf5043afb85da0242c1a0806263be85d7e19931a85",
     "_assets/6359963a5a949d816963c2fb.woff2": "c529d168e2c030d999db38cf3b188a33e76b6d1e19a3dbd48b4b047f0b134b5b",
+    "_assets/6372fe0515d296daabdda563.woff2": "b636ebbae0324ddcd8c4d48d6959f91ae076d6845a13f7c805d9afa3c6065462",
     "_assets/63e9eb2df520d54e80a32112.js": "b312b4dc00014a0cee44e9efc71d3c842cfb2cc237a0d429e64ee21ccded2184",
     "_assets/64f2442c09834506f5dd93b5.js": "87892bb3d7473d5063982b419806175337328a7cb3dbd9708414f70322e61a85",
     "_assets/66a21f36033c260b27dc4022.js": "49bee419a913ccd90cef048ad359a9ecc7103779c80f4ef3a05dbc4b78c280a8",
     "_assets/66e87388da369f90330da07d.js": "7545a81fb1ef84fc23aa9c175b67d44ad2b144b9acaab1e6b35d4028ff58fc00",
-    "_assets/670dae5487c51a31fd432d5f.js": "3e7365bc5aae51d4e21a2f37300c8fa51482a0b1930da6622e491c1eb4a38c53",
-    "_assets/6985cb64b2be87ba1755d9d2.css": "bdad0b6d9245eced467916b8b8b25efc23023d03190f7acdcf14a01f8daf062c",
     "_assets/6a571a6ddace2f50bd227c2b.woff2": "e98e14320ed629319eb51b3b6c4dc70fe05155d24a626010e464b49da1cebf53",
     "_assets/6a91e8b41f18529e2b0134fd.woff2": "0a89f2c255fbe23b8e75488b0504e2949ffe0ae0279db3d7bcede650de9d9ce2",
-    "_assets/6a9275a92ece1f4088f7a92f.css": "42c46677e7e252fa0e767535fe96820dbc870fa2f890e5fd9f76438d406a1021",
+    "_assets/6b3af03051f600fd771d5698.js": "be4d0c23d0e6757c50df0bf60bff77b278959a28db584df7c279a34bbd2d21e3",
     "_assets/6b52136e1dc94ec3c31fd864.svg": "fb5ad163462e8e077e04def981e99e515193ec37ad8b6c092cede69b33c1beab",
+    "_assets/6d08b2944ea1025f9338d31d.css": "1d6ef41ddbb1e8ed8975c1fbce4a988800105756ce95c9c8d8414e627a4ae87a",
     "_assets/6d260af220b7f0b0a3ac6c2f.jpg": "81bbfa82546272420b789b9c265d2724e7e0840bd203f404946539930c071305",
     "_assets/6e07a41682a7840aa14068b1.css": "a8aa7682990a8ebb674455812242eee4b68c5ba1ef2330f92eb13ec34a37ce69",
     "_assets/6f962d517e2dc4e0abb89ce6.woff2": "fef4730436eb70bda2e1f13bd522fbec967547faafdd7979d7db770202b7e9ca",
-    "_assets/7039c426bf36f68acb325173.css": "3cdd4384d5963f37fca60fb942c55dcacb860a59b77bc4fe6596bdabdee97ceb",
     "_assets/71c85b650824c82c4b9cedd9.js": "dcc8faf4f90c2d04b44ed3b3e8682176427a34fe62be4af06312275078cd16f2",
-    "_assets/71f75b99542010f348a34b9d.js": "ef358487dbb0c183aa2ab55aa3fb50fe8d70451eec0774881ca27c0c44ecb467",
     "_assets/72f0ea1abe3b506beda9950f.woff2": "91c0c2686c9dfb8a7f8fbd238bf646e66d45464a48a517b66ddc7f94e6ee8858",
     "_assets/73c0058b36cec49a442dc752.js": "0a331abe2099f6b68f947e5784a8035ddeb8301a09bfecdf33f002b174022c6e",
     "_assets/7438419d01b13849a20e0c01.css": "0aaf551821f3a2099216488745d0d58ceae223c9a845a6a412e6d21b845390d7",
-    "_assets/74f9d4fea332cd1d3901cb2c.js": "e44668c86fde41d65badf8c5fc03e344e12e0ee426638238fe6f69083192100d",
     "_assets/76c4ec1d0899fcc7ef18b727.woff2": "0ec4ef76af48e0af6a9f973ca807a2adb4d5d9407b41deff421e8a46a97054a3",
+    "_assets/778e0956c4d79ae3ffb133b7.css": "86ce7c55a26d480e61f720da29d08cfaf96ec7d194dd8fec5e48c56e908de5e2",
     "_assets/77b1422d9bc47fda45cbf2b8.js": "6e477e9d8191945bb6733498ddb91070c4564d13bb0434040c7d3258f9b5b3eb",
+    "_assets/78e34e8b63385b35548a2edc.css": "83ce1092b99b76b2c540c833c78d3b748d7115d656db47880e162ec23644e97a",
     "_assets/7933633de08f237ab14bc05f.webp": "49d38dc461ec54b993bc100797b09639a2051ab257893be6b1bc348e10e07cba",
-    "_assets/795e7d80ced50ef40876d255.css": "47cafa29273e422c169eb06bf5f7b2cdb4ded42a8b912f0e77b95373eeab3b77",
     "_assets/796ce5b1cf002a09492aedb1.woff2": "90bc02673df783f1ac302fe9d27f91c2af156d1bb70ca630cd2dccb24ff679d5",
     "_assets/797c7fd6297322473a14bf0a.js": "8f112645751f467a036703a4c8d001c55d374967dc60e661809dfa39c9817fda",
-    "_assets/79b57614042c8b92221ec7c4.js": "229ac3394bbd332814e7a53dbd0d32abea48ba27502a588eb4d5eccaba19714a",
-    "_assets/7a9c661392ba2258263c0c48.css": "8e05aa467f445f77f01969f1474f19be01283a8e63d7cebd180b800f520b1e03",
-    "_assets/7b4ddc62c4fe5886bd27be91.css": "a3fa66f9d7eb181669b9c78de476d46b687fea75b081f7a81a8c015172da73cd",
     "_assets/7c32219b5d009f3938964ca7.js": "f61714b27f08a07aac14fcc41b8eb98489a537ca97fa84db865d259d5ef884c5",
-    "_assets/7f4313f686f8687ac825c9dd.css": "693309995b3fa6609c79295b479c86a1706b81b938ff12bd56d33ce5dd2eb5a1",
-    "_assets/853c7ecd58397a0fc7908992.css": "78b5ee0f7f76b2b5ab578dc72918c3d6bf9376934caeddc00ecc234b6ed19bc9",
+    "_assets/7ea834a9b0323058840e20bb.js": "33ceec32c9972471d156981716eaf95ac6fc507b1ec016ea20967593b2541d1d",
+    "_assets/81ca443f4728f3131c8332fa.js": "ea86dacde08132a7baa0c4a72539a5519ef5c4980acea3d81aa8cc04b53cd02a",
     "_assets/87ec35873bd79510a664a307.js": "5e640a4431e555ceffc1fc7fb4ca34b963b9745847fbf0763ab4565c08569bc9",
-    "_assets/88a1dde05d6a51f4e1f7de42.js": "55dd0f0cb720774ebfad0c024fa656e2b7a5a3603bb1fd600dbf7b2893b73b79",
+    "_assets/880f84950a8654631c2d220d.js": "9527ba1bb1a72547b118b2d4cbc2b1eea3a58054663efdf52453ec5735f5fcd9",
+    "_assets/89a3001d2bc8db663f4bc36f.css": "b88268b6a6ba94b597d841d176e22f2b5ff82c64d3da2221940c9d856729ea14",
     "_assets/8b71d41091a1c27c60a8cd49.svg": "a2deff42922e6fbf5f2afa2808f02e46bd468272053e710331218c9c0de6ba16",
+    "_assets/8bc88bbd155c785e4172bf9d.js": "53d05a0a5b59751deb41df2f727e2ab1b95af5e9c1b919491587a1769bfd72c9",
     "_assets/8bc99c0ed9da3228b903a053.js": "46ca3a0b8a9db18878f95729c0b392bd86653d0c587d688a61ce18bd0ce03a4f",
-    "_assets/8d0b317d834e349ec3cff2ca.js": "d489f9be0c848ff67194e57586363fcc27e70dd3abfc46df6880b3ddb3550d54",
-    "_assets/8ec5244f5f718251dfdd6741.css": "2f9b4944bd78e989140c672eb82958f2c29505ed3a7d866591170e2b3f36048b",
+    "_assets/8d26c4b9d01a012c2b2700b2.css": "21af474ba75072d74732d908affe7dbef65da7721e3cdfda1120c78d6df18961",
     "_assets/903b5b41cbf529daef48a4a0.svg": "f7ed3a13cf0a2cc73d3ce32245b79953698bc8537f43899c0536a3e5c6e1043f",
     "_assets/9050f091cae990d9b5c5fa46.svg": "d81750b4503f3c41fd5858805ec2ac282b1270d2f7bec75422a3b269b19ea87e",
     "_assets/9062edbdc66198d0a37f17b0.svg": "92543893df2fbc87fe21b0363ebb3c264e7a22ab91e6faf777d0f3b5aff23b21",
+    "_assets/90bc3e40d589c969bf15a803.js": "e3708ab96b7a6c6316cad048f148dfb4eda3ed609f13a71e131088a43a1bc110",
     "_assets/911b908da5db7703d0b478f2.js": "099206f45c7550fc08ae05eaec70e4bac2c31ff51ffcc8acfd6ff3f3c724ec14",
     "_assets/9151dcafddee8d452c9936e5.woff2": "9fc14d4c0f7f7cdee0bc77d518aa283a6016e753a49acffac17d15192e4cef0f",
     "_assets/91a9596af85cade9ad6b07c0.js": "b08d756a82fb1329a68a9ea74b420f2e6cf024891db125af0ef72020f892338b",
     "_assets/91da26452d5c08762bdd6e3e.js": "9c3d3518e43c404dc7c0e2f9bc080a563ad0c02e4240a16b73ccced5bd4691f3",
     "_assets/921d53df6fd8a6bb8bae7573.js": "c7b1af73166685bcdb13f6624f64340b6947b2d8992791d5f96a584ee04d2745",
+    "_assets/93f46e111434a940b707aefc.js": "5ceae0f697b15f25b1c73a334c4e1d17490a173979423941e14081715c30b152",
     "_assets/9415094782ddeb744ac65468.svg": "eb8f4faa399228603225ede40f9c10ebf90b514cb750838581e5be25dcaa05c8",
-    "_assets/943ecd79c5f183869a312d80.css": "749d58a2a3d09764d87d06fffa18b4601c73f4e61cbc1618de1fba8108b1247a",
-    "_assets/957770718a556e3df07f1495.js": "c0b446fcc3fd41630c5028f8b25b364d06c9d4d8d6f5128b3d88a1ed1550ab79",
-    "_assets/95dca1d195462bb1f12aa904.css": "c25329dca643299149faa95309fc9e0b7d6619eacb1a291a3ff29b159bbf9a09",
-    "_assets/9691c9f6275b9f98e5174092.css": "10522f2301de27f766802d47798d314ebd571fee886a60b4cf593b13e50de87e",
+    "_assets/9626380aef1d9b2f78e23693.js": "ff30b7196e3354ef9c49f00829ed82aa6c661c26cf0324e5c83072f3a6f6e34c",
     "_assets/982c40a4571a9cd23a05e0de.css": "915c36d74cbb7898088164e7c27df62f2e4b0fc19cb7244c5793da9f80288f59",
     "_assets/9a5154181393cdff8816407d.woff2": "59c4ee6de6ed591f8dc9bed0f38dd5fc2441639b0a5408aa6cc05568b08b1c36",
-    "_assets/9d11df7cf32accf6f1c68b39.css": "28d65c58b58e92941ec5dae6324c41539aa3c951d3ef418c0d13bd76022fc923",
     "_assets/9db1739926326a94ff141207.woff2": "ae99aaede2f373187a4fe442a2cb0ab9c2945efbab01cf33e01be517c0c4f813",
     "_assets/9ea7ed29cc41a1b099474bad.css": "a6fc96953de7579bdd104a8c7d3b76fd3efa0e9888668501c7fc9b3c7c975fa5",
-    "_assets/a1115568efd14e94b5e9ac59.css": "ac5b7be4a6cb0761e2581f6f31bc5b8393c6238d60e005d5558990cd413a9c62",
+    "_assets/a28a5b3726a4b7a8a58dded0.js": "48ed45b570cb319d19ead6a02786fb333fcf7e962e6e94878e0999423b1431aa",
     "_assets/a368e13680408bb0073500e1.css": "59965d0597a48d70981aec63e424db86c9038f8fa830218ee3177b5ec6a61b8e",
     "_assets/a38f199084e3e75247571645.js": "2796744f8ae429c6558252c08df8a47cb348159e00017b5041aab950df146de8",
-    "_assets/a3cff489cad834e8c0159dbe.js": "8d5baf9028a40ea772adc48ecda578be6816b455a9e10e60a3e97bba73e6d9aa",
     "_assets/a5c93c8f2aff177706f043ca.svg": "5e14400aa91af8deaf0617f0227f3cf1d6941de508f4610e3c500af6f77969a4",
-    "_assets/a60f1ea770d0ef9f784da04c.css": "57c2d2c399ddd35c8e4e176fd49cc62cee5f1d5aa99232f0e27b2c009c872e6f",
     "_assets/a694e67c51e1a49a0e382af2.css": "1bd9e611435b57b20e95561f86ff05703cfc2ae658ce4522ffe8388a3095e89f",
     "_assets/ab38e6c48f11af85e6ee32cc.js": "fa398926c42978937f371462d8aa9b0790614da71aee41635c1947701e3059e7",
     "_assets/abb996903449619890f3fdc5.js": "0eda2cb0622c3933d9d13c4e480f97b5e577a05341f4ba4e7c31113b8de00e88",
+    "_assets/ac772a5f05d126d3dfacbca0.css": "47ca638e7b566b591bf7868762f9c2faa19d05bba25506d37a1a7a8e8f38312c",
     "_assets/ac987396dc8dfc42623e17ec.js": "e4061251aaf7c54051fc88d897481530598b526dee21c3f9fb8cd8c229b67544",
-    "_assets/b18fdc8e57d368e11a21b800.css": "edb9fc79992f5ab4d384bbdab5abe7b8874b4efc95f2e28d8eb44133e5bc0658",
-    "_assets/b2731e94fd4f04f04824d4fa.js": "bc20557b2f081b4c73af12234c82987ad8e40f72bb625a610e14f4cfc49077f9",
+    "_assets/ad9dec3b2d5e172d4cb6a720.js": "2088625a60fc8a90a7510ef7aa6febe45b33442d66bf979a7b523924dc3bde78",
+    "_assets/adee906192c5f73681fbaab6.css": "4fc78e6b6e0b7bb524ea72bab5ceb2629b6fb2bf275f971678a144874f7290e2",
     "_assets/b3d57de12eb00ca6b99ad198.woff2": "8390503760c8f26556001a28e7d95e4a237a4780e7ceeebf0853ce252fde4ba8",
+    "_assets/b3e3b51680297fa7ac7814cc.js": "748d77a974b677a572a0843444f0567a8aca6b8582d3ba232ef0576f5d85ef22",
     "_assets/b3fb271a32c49bf36e707e0c.woff2": "8c74310d018e3416cc2d0028f4500fd6cdbe7ab501a99d10b309fc504bf99b65",
-    "_assets/b4e2e67a8969cee8d987ec83.css": "9d96115a8ab295da441a7232caa5e93dc2a2f2a8b0c134952c9a5494c2133e5c",
     "_assets/b553c35f2d2a6877f577cd0e.svg": "266cb21780964325b0f557588b92afbc9f1b143cb1c1e3869b44dacbd5d73b63",
-    "_assets/b5bffcef766f4c32ab9d004a.css": "3ba16b41e9f19b603373a150b3a4c6fb5103032de4d4638b7ee5e872f182e45b",
     "_assets/b70b72f5b05593f7fdc4f9fa.woff2": "67165f276046f293a75296f6193cf19607ea65e52988babf95b77f4a7fa2f099",
-    "_assets/b766cd59d36525a217af72da.js": "6e4cd011a7ab8f48f8716cc0a7f1687ebea66fa621d16482751f1a044101ee2a",
     "_assets/bc16230dd6d7abed48eb12e2.woff2": "d5f63ec6fc12914cd4fdc7ff19aee90b0394aff3f2a1497d85f6776d519a90c5",
     "_assets/bc5001c6fc4fb2d4e0d4bcb3.js": "1f0f251352ea603ba589f211ed422acf3b019202820f0a3c441fd69bfc27a076",
+    "_assets/c0a5d76777053eebfcc1a7ef.css": "58f4320e508ca3aaceaf476a9d56f0fc9a039d81c4e640ffe7417da29bf0b239",
     "_assets/c22fb3c0228950b0ef0605c3.woff2": "f604cfe8faefcd49ae40ab9e033ae870606517758f2a7b5eebbd8912879a35f6",
     "_assets/c34fc562d84b645fcb619e67.css": "f3a826b413fe80fc9c27f700ce8cce782422076e8bafb31f2d9d2556a7140343",
-    "_assets/c4b4d96614f3cc36e0e4e122.css": "cd6311ca9250a59a52028357b976056905c1358c2f28b86face7b17c044994b2",
+    "_assets/c4f54487bdc7a58bf95b7640.css": "2ab1f3f3a99ae476d82fb74e598e8405ebe359e7b1f9febecb803adb16480b50",
+    "_assets/c511d85c5bd6a5ca52dfff33.js": "53361e8ceba3ecccd140f56025176269fd9c4898b47d47b841d96bf386f08c5d",
     "_assets/c536aa37fd457ed6e511d88b.js": "8cf95c317680c87f5578588ba3acc7b3a47e81b8750918b24e87e8601142b0dd",
     "_assets/c5ebf9d03134d6061c652606.css": "f96e44434ad092cb4661b3656916e84913a66f0f43e64775ef04efe0831cf4bf",
     "_assets/c6f1f993e96d5a87daa25563.css": "fe15d5dfbaf58716a9f6b4f2dda09669e006381f08caec0e5cd39352659f2be2",
     "_assets/c962c193c124f67d444bea36.js": "bf1267e79f42ecbcacdd2e532ae763c78abe67e85eabd135f04d5a2ec90eb192",
     "_assets/ca5e0a9063f059ae1a762450.css": "bf62f556a324e0d42fd94b01427082515fabb89b4a52aed02c6411b0b6e254f4",
     "_assets/caf549a0ae1b68ff61cfed31.js": "ad565ff94489ee5063b123001f08354aa41a85881376f98b8b85de701a14c5f4",
-    "_assets/ccc243edd683efb4126d1606.js": "f542de343302fb6c2b162f181bd51bc0f79d7fa848e879d8a6fad12754e8443d",
+    "_assets/cd0a308c97ab997976dc7f37.js": "c04c8868b04d562d5bbe592fecd8231311dbc0251601f2e835a9a3da116ad039",
     "_assets/ce063c1435da30bfc494234b.css": "1924d1b11abe82d2d4cb4501a4ac7ab046c938cbf3068b1b01f7e26979f69dae",
+    "_assets/ce8b3348325ab212f0886220.js": "6748dc41c0c816092f3b0225db5e9eb0e25be5543eaaa9e79547bdf361d44881",
     "_assets/cfa31adbfce50da0108a4263.svg": "40317a2705912a5e3cf9a0cfb9de39fe11881e6bfa68e58954d3c51dedcb9a24",
     "_assets/cfdf21cd944460acc3483237.svg": "f176727afa31078d959153d3348d4d487cd95fd24154ed63312605ededf0f06a",
     "_assets/cff9ad95e45f9ab74081ffd8.js": "77f402bf1f1447017cafb767311c0154360c129d0aa12be11107fb2b628f56b7",
     "_assets/d0d2d724c4fe07bf48caa828.js": "2aca8f6dfb1201a1d24a27507420fcc2cb9684ad6e810823cf488c4bc06296ad",
     "_assets/d15fa4bf8ce3171184c540d1.js": "b747f1855e5be34f300042b13ae3b0af742d2eb43c69cb3a27eab5ddad88d80b",
     "_assets/d16da693ac7d08fc89ddb5d5.js": "493ce6289370c9b78e3520309cb05d8ebebde32b221ae428f005ee8d7a8bbc1a",
+    "_assets/d1cf4847ebb01f2bcfd69d61.css": "48210d09dfaeecdc2e1fed95fa64e369c1dd2a74136cda6be0d5bd9b70fe995d",
     "_assets/d25c61305f3b236afbb05ac0.ico": "128e20b3b15c65dd470cb9d0dc8fe10e2ff9f72fac99ee621b01a391ef6b81c7",
-    "_assets/d3a48a44fc085654bf034340.css": "8c35cc50745e126fd22aca6ca0263e09059b9583a9d674a6826e8bc3702032fa",
-    "_assets/d4739ef32ebbd437f7214a98.css": "38e67baca9f9e0e8c0b27cc5f85c066936d42a37a4cab24b55df067b58e09ec7",
-    "_assets/d5b1c1f6b38eab8feb9eff0d.js": "f04afd0a329e123dce254252359b9c6b9adb7054e00b57cf75ca6ed3871ef7f5",
+    "_assets/d2b4289cc4ae255570a26c1d.js": "0cbeddfdce6e305848dac56692b314a97f82efcc8df28426929613aa181484ec",
     "_assets/d67c3d7d92e77075c290b292.woff2": "5d225b25d66b30563a00f395476ed701130d3f749620a63531cea09fc537164e",
     "_assets/d73ada077cfc2fa39fe1c0ef.js": "43dd7d6f1b47746e728f4f664540b7091734ea690d0319d0c9c74e707c8764b7",
     "_assets/d7b5ed6814acf85c667ef125.css": "091c77ef75000432a721ca77bf3eec75def9e6f32b328c9e18e5c573456f7a72",
     "_assets/d81ce15e8aa54ba685e4d8ab.js": "b9aa533d417e223d51bad7d03232a6d922b562bc38953aa2da9590a89eab1aa0",
-    "_assets/d90ff6fce1761f51b9305e92.js": "9a098e0e327a391f838ae906ac9a97a84bc278c2a6fd166b6021006add624999",
     "_assets/d935f457a10b1a917cb3222c.css": "61cf6fb124b3d6730c17f1e7b7d7daca91dc8e08f15cb7d07fb71f5832e7e75a",
-    "_assets/da4054ac4a9970ee6a9d8f0b.js": "8527ec5828274ae43b820730077feac51b46f0efc4e89c897b9340feb713f2c1",
-    "_assets/da5cb21a3376164d23ec0342.js": "7cc985b91c990e178a3ed662d96a48998c9d0b7e9c35d8b50ceeef9923baf2d2",
     "_assets/da5cd01e80c27deee9205d84.woff2": "e49327d4031ae5a64fc4b042b110ed57407b256aabf78b1a4b06639789a88dc8",
+    "_assets/dc2af7cdf53cab81ef6d2711.css": "185f6c050647e8d313a3370e832e57fbeaea781a3e9143dc775eca1d8d62c65d",
     "_assets/dc4a1db584d6383beedecdd5.woff2": "234feb9a8a2c759d00a4959506a3b9cb94c772186a2d117aed973347c7ef1891",
     "_assets/dd5459cd9b5c86f3d8f4d383.svg": "9adaca2eead66b2de5f1f9f2580f3199c82d19bcffe9b3df49b4d41b2702e8fc",
     "_assets/deb7ff003cb1835f884ad6a1.woff2": "661ba27bc63d07d5299600d43cce2e77f6547ae0919758082b8d8fbce1090639",
     "_assets/e0a38a5a9dddc0ffe087bead.woff2": "4a8fe66a26e23c87354c593a99f983e37f14bf3b925b3f0f0f8665e32455f016",
-    "_assets/e389821297974c4c2e207463.css": "cfb3a84b424b6bfb60fbc64fa7581bf8e6d3280aa260a5b7e68941bb8e4fb7bf",
+    "_assets/e15addd1fb37fb059e420d03.js": "acf6315cbacf5ed5ede62f700f76991c95871c6531d06df07c2a4465032488ba",
+    "_assets/e2441dd8b149cbe903baa930.css": "3871cd16589c1d3186c1def36283d6cac2e7c1aea11d0d2d001ffee5a2697124",
     "_assets/e4196f06611da5bab09b219f.js": "7de61375ffc6a26a35efa67f71638615b6b20ded1e1ad89ab2380ec6a31b4742",
-    "_assets/e4bf1c0fae1379c1d147fa4a.js": "453bde2df933f30b4451a03638f0a6c283f720b299eaf530480b396300091629",
-    "_assets/e5b2992e5e842f81628fbad6.js": "5c755bb564aee0465f5d28c4d4835df5711c939008171bf2d926174e1c1c1584",
-    "_assets/e5d0b89d93816bb2719763b2.js": "377182d92af4304222a3fce5ca71298c4fc89c1046192f00d5273db4d41482cd",
-    "_assets/e5e8b98ee6ba1459a4ad027d.js": "56264af757130a4906431a201ef64998aa58904cc63c838c07719b684955a41d",
     "_assets/e804ee6a590acd0c715449f6.js": "f6dc4590c90d216e1f5b4ae0ffdca7f10881fb610f0b11cfb2d92b808cb47194",
-    "_assets/e9273b1e6fe081aa05de6e67.js": "d6345bc0cf68f9798e3d6769916bb7503dfbeef84d8dc494caae4b85ddb79aa7",
     "_assets/e9948c1899c8621f971cf943.woff2": "0c340de794334fde48397d59cc9b31f7eb125d2ab21cac618f6d40196d489b30",
     "_assets/ea01ef4ea030c5bcd29e709b.js": "66cdd5de6a42ca0f18564cd13f5ea47ef6c9bd971eca6730af65143e690a0310",
     "_assets/ea42a0f9f65cf7951afacc89.woff2": "b2f2f907ba806b1bf7d67aff4569eec588844df1c01a036f140859e748b8bdc7",
     "_assets/ea86b29fc4e5b17efe028f92.js": "f12adc8ee2bc87eebe1990fcd5408ef0cec619eb4c9b645142ed5eecb35787c1",
-    "_assets/eaea076b04595fde57610140.js": "43a509e54bf595ac789d3139a7d0bbbe773fca1f247f16efd0d71a68b2117d25",
     "_assets/eba973653e8fb304abce24b6.woff2": "80ea5f1aabbe41c65a0352b56d2be8c409d44b8ab475a14997b7d9986de0029b",
-    "_assets/ec71310c21587a9c6cba975d.js": "bcbfea4fa7186a98cda7dad949550c751ee947d2abf08a67333926c4b17923d9",
     "_assets/ed019519275990d7a20ef8d1.woff2": "13da02ce62b1a388a7c8d6f3bd286fe774ee2b91ac63d281523e80b2a8a063bc",
     "_assets/edafce1aad7018e718f0a974.js": "bb3f838a6997eb18ec8e1c68589ad3e959942f9bc38879ae5c9bf3771b9a386e",
     "_assets/ef6f71f9f3ab387e647c70c9.woff2": "3afc8b61c01534f04c628962b34e53104e0487b010f197a54d2e9ce357bf9733",
     "_assets/f65d0c228c2e44a3d1053447.js": "37e0b091b21e6881eb33de5a85e4aafe37332ef8ec31706d41bcefc24a16de2a",
     "_assets/f6ebad79bd631855a3a0c0b0.woff2": "a8df0198358a5133f25623a4a37dcba7a163f2e3d3e9e1e352fc2d9382b1c9d1",
     "_assets/f7686a4a6ba3b74b2e3e0059.woff2": "4bfd10fccba729fff54a5ddc896f0147e2dd1ef6d22119e5c9a239c93936fb76",
-    "_assets/f85a50e61ce1b4f01c8a767b.js": "2b288374bd1931198b6f2515c68eff437d97f2e0be4ce897ff10a58885ff119f",
     "_assets/f8ed195eb5257393cb313be0.woff2": "a981989aee5d4479ffadf550d9ecff24a4ac829483e3e55c07da3491f84b12ba",
+    "_assets/fa916df422998544f268c207.css": "ba3f73497ed6abb461ee83acde6a97800dccc05350e8352bfeff86001fee831d",
+    "_assets/fb52ef25a247b6334a3f33fe.js": "629f57e3f79f925a8d952c61d3623d1c19fd267af2e56438d4a42ab1500a62a1",
     "_assets/fc2cb45b907be335dd453bf3.woff2": "8a67a3c9416d3c7aa09c2a5ae4c66b26e4d4d5106c2dbcca6f935dd27f229068",
     "_assets/fc4e1c313794e37ade404acf.woff2": "a01e7e8a17bec67b8d18d274976f56d9ceb7c71334698f4a06921838742fd764",
     "_assets/fce24944cc2d382fd6d2cd77.js": "8342680e07a89efdf70697e553119b67f135613eabcd4095fb843d32e839f662",
     "_assets/fde49e35977fda0eb53f8d96.js": "8398a6fffa441671dbad33ccd6a37a47cf87fa0a57835ca28262d6000e7fc9f7",
-    "_assets/fef4001f34b51c320954013d.css": "11362b7d66fa8d80f494bf0afea6ce60713fd676aabd37f701a5f67927fffc5f",
     "_assets/ff4ec2481eb1889a1359c431.woff2": "34f6055abb787031bfd018d6076b1119e265266df9bdc0b2ddf7d21b16429262",
     "_assets/ffa4356f93cb45e845b1bb34.css": "739821711bc0b216ba1ef245fbdd23e59c7d84eff102e6b6a5a462c4e9e39d26",
-    "_data/11a47f63bb7a87f58afd5665.htc": "cf2cf3beea0f230aa7b858a2e73e10876d3906d10ecfe09ab3bdd7a6a1a610ac",
-    "_data/1d8acb488f65225c2731382e.htc": "c13c047d394c54555e6dbd113d7f448d3e1462caab6ee17f352e607dedbcb425",
-    "_data/24e32b904c4e73fdbe48e82c.htc": "b81057c7094fc864d42b04127675ffa9918e47f8293e17293357a4d41b23d6ec",
-    "_data/256cae72dd53b9e8a0b650af.htc": "314f03eeb7e654b5851649fb4a6445b51a08d2e36b1f083fdcfba22c1f85c6a0",
-    "_data/3a2cda8a1bc574cc0c2db392.htc": "725d9e2a00df4eb0b3aecba228a09b5b483496d0a10d4c3473b783de9c731669",
-    "_data/3fcf646f9a77196f07474cde.htc": "cd70089f95adfa385542d286fd4c97251e3221fb0300a813cb14bf3cccdebd43",
-    "_data/419c81fd6f9a7abdd3486e3e.htc": "7120e488e61ec9b846b27544cf1e81e75b6d7c6f71d098ca1d327aaf7c95fe1b",
-    "_data/555456106b5974aaf7fc2d05.htc": "5549eba06b1f708bf0001e573f55b845a3bb3ed5953f1d08c9f778b1875e718a",
-    "_data/5841a23b3b3927821628227a.json": "e291dfea6d8ce90461a1d9ac05b7e0f1e4c82be00eb2165e0f506f5cbe5bea41",
-    "_data/5ea9cc5614aabc318a5aabde.htc": "5fab3f6f4bfd6d461d2e652cf99502d45303c7b41bda8b7f76b0935b55d19532",
-    "_data/61a3fa95c6992925509a083c.htc": "0cfa18fa3d4ea58c15a2a3945268c73c4edcfb04112772d3881af755b536ea4a",
-    "_data/682256788e3b3cdb343b18b8.htc": "a18de40768f44e1c294c4abbfa6634a764ebbce7a4cc08d5ad30d755909b7b19",
-    "_data/685a3da1b003fd0915f7b505.json": "fd6e8314f88977aec1dce21726b8c5a433494bfd986ea4b1231a4cfa03de725c",
-    "_data/6eb351682e4f8778e13a081b.json": "296a55f0452c85a1b945bba5fbe63e5cf21b0d28ee9c73e73250685d9e38f11d",
-    "_data/74a5763f646131aad9d79a71.htc": "191d330724924f29fb516bd19554ee602b803cf730c40c3b8afc99a2972246e6",
-    "_data/757b54873732fa5678b18ab8.json": "8b4ad1bcb37e0382ea669b50fb4c926dc902af7aed91bb0f23264c729f16e4e1",
-    "_data/7980ce3b42b44ace7ab5be7f.htc": "af45cca52fd7c8c881297a49daf75874fad6c1fe97f9b415c87318616b40f674",
-    "_data/7bf334d2937fb0909df38517.htc": "01ffffad5d507509b14a1374818fe4d37629373d8f19e6f664188bd09441b07b",
-    "_data/7ce5e7f84c8ccaa095ca10de.htc": "34c5d2cf7972c2f7d90ba0ef99412df101d500f14355a17d7f775ad419ce5a81",
-    "_data/8359fd9e53f75175e8573e31.htc": "768ee6a8d9f23e6c987e4afa0ec96c80f11872f97be5043de8b12f1b5a59a272",
-    "_data/8e2408379efe04d041983230.htc": "335c3439952b5f318156a3f4d37fec38cfe821b96bb9a064e0a0231883cc13ce",
-    "_data/8e47ef6f2e0c76f42efc3250.htc": "4c8563252888ee0b48b51337b8e67fe3fe453bbd7ae14416cd5b548bd0b1674e",
+    "_data/11a47f63bb7a87f58afd5665.htc": "36c926bea9c752f0222ac0529000de6dfe37174fb8b47f9978ebcd48c2ab0ae4",
+    "_data/1d8acb488f65225c2731382e.htc": "1d135a239f78161d5002e41389377ba1ccffad64808a978b6ae4cb7fbc55d30c",
+    "_data/24e32b904c4e73fdbe48e82c.htc": "0fca566152ba4c3f502523de6ff99ce951766c34dcbefa829fd2c0d39eb743e8",
+    "_data/37f168fafdd5d48f12874b99.json": "11fc4fe9545b0e9051870519defd7f8bb4b2e3aa6a9de7388c2f7e8a76786905",
+    "_data/3a2cda8a1bc574cc0c2db392.htc": "631e39c237f5196176e1edb07b7c9e69f56a5bd4ab0c8b6347fa477556cdd9c5",
+    "_data/3fcf646f9a77196f07474cde.htc": "ab19a0666d679c6d4ab94a504534bc74bde15d1d5a0c601bffc6f7772dac990a",
+    "_data/40f3471d19ef6f74a4d90f6b.json": "3ac85643f59880adedd3d7b63d4dec137ee1c94353c1134fccd94e609a260fd6",
+    "_data/419c81fd6f9a7abdd3486e3e.htc": "6170fd74f7c96984b53cccc64050c606b057dd2cdf45a6aa124e967e6e4c5494",
+    "_data/555456106b5974aaf7fc2d05.htc": "54c1f04ac0681329d61c0f168de3634ad32dfa83d5a8783f8bc2b74493643624",
+    "_data/5ea9cc5614aabc318a5aabde.htc": "362d2c5163c55f3ef36789bc834a276fb2c0abf800659ebd45fc8668a250de82",
+    "_data/61a3fa95c6992925509a083c.htc": "5b28596fb7e035b9e4b2c050be337546fe1311d6ab694523055601f19a2d3b38",
+    "_data/682256788e3b3cdb343b18b8.htc": "11e4ccd918e73ff687f41dfa9cd9b61ac08b4a99adb1f4b07ba3567084d0de30",
+    "_data/685a3da1b003fd0915f7b505.json": "722d018d67cee1cb67372bdca361dbdac12d49a7f146d1113f2517ea610d5e86",
+    "_data/74a5763f646131aad9d79a71.htc": "d0f565b31f097608c39f22dda3d1c8e6dba0b01a93683800c4f52b8b5f023622",
+    "_data/757b54873732fa5678b18ab8.json": "87bc938f9781057109799f91ef57cd9a89258914c0ae801e9f66a6868b2f2ec1",
+    "_data/7980ce3b42b44ace7ab5be7f.htc": "9fa496c8bf09324b6d18f8bca9fd488a8cd66982459e29ad9e2c66f18ebee0b4",
+    "_data/7bf334d2937fb0909df38517.htc": "fc48ff3281f6c097d63811cdc8a2754c60943fa0ffede54dad09ad10bee3a27d",
+    "_data/7ce5e7f84c8ccaa095ca10de.htc": "3e53ba4de6819abdac5c3640e14911ba8f8d91b525ea98479e8b9145aded358c",
+    "_data/830bd10e9ef11dc8199749e2.htc": "ba3cb1dab6d230a4f850149da28094d703525162ff405ba37b50b9783b5d18ab",
+    "_data/8359fd9e53f75175e8573e31.htc": "946a1e0ef7868d92d0537224ef751c35ea18615a8c989626e26a9bafd8210349",
+    "_data/8e47ef6f2e0c76f42efc3250.htc": "bb75542b636c6a6baf71b34c1123f52f5e62dabb61c59091a9f06dc7dc416891",
     "_data/989bff732f76eeb0c077f0dc.png": "98b11fb831341cbdb77cf0aacbabba2f8ed02c86c857f44122a72e3656515d28",
-    "_data/9b2e4c41332d5ea9c295b262.json": "724f457ab789533cb17cfab7a29b8d1bce2c2f5791ed04e699be6896df754622",
-    "_data/9ca694a1c194e40ed4e59453.htc": "c3b6a32a92858942e89342eea62da24e9a26519723e1365ab2c323f93dbb2840",
-    "_data/a6f6fa69f9dffef7e40d2155.htc": "9eb9f70c5157021ba55976ab987ed614d8a0d7cfb9dbee92db45ea4872e50d3f",
-    "_data/b24fcdc9bb5ea4c9fd3a4c08.htc": "c43648e95379b43b493e7b4f8b9db97c48f5b9206c1df1933462a3563f5bbb5d",
-    "_data/c42c881659e7977c1e8e743f.htc": "b9a0484dfd95853033cf76b1f8d5ba5ba7b2d4e04e46b36205574ac4e378915d",
-    "_data/dd2871204398bd83f9a826a9.htc": "ecb47e45a41001b7442e44e53124993a491976161b598fe54509fbaf5bf1f0a2",
-    "_data/ed96f37c56b6983b4fbd1a9b.htc": "9caa5a6e12236dd86963de8d3c8f93da1248b91770912687239253be752b9950",
-    "_data/efc79691667377b13de85bd9.rss": "10be1137e9117dbd0e597eaa448e1b3f24384181b4cda7514f64465db7f79912",
-    "_mirror/resources.js": "6045bebd0f3f18db1a5980ef33066803e9fb3ef9fd5560f988bcb5ca6e08485f",
+    "_data/9ca694a1c194e40ed4e59453.htc": "597e0aef35a213985c57796341c78624ae7728795a802edbb981c798b71b33ae",
+    "_data/a218eed82295b0f2836fce7e.json": "979917cc76ea2eef65629f15a1dfd2b762d9852c9c3f49196fb9805631c9f4a8",
+    "_data/a6f6fa69f9dffef7e40d2155.htc": "3a76ec94443eac42e5690f430c0b3f61d495c156c167d25290dda94dfafd7350",
+    "_data/b24fcdc9bb5ea4c9fd3a4c08.htc": "40b484474cf5a6185ad909ee2ae8865178b0ddfe1f2a0d68b82a7faa28b11425",
+    "_data/c42c881659e7977c1e8e743f.htc": "9024691ccab8dea63d8ff2fc785ef41fef77b36cc2c357b83a6053cc1df89997",
+    "_data/dd2871204398bd83f9a826a9.htc": "cbe6fc24edcfe350ec8a13fb306fde8ab68a474f5c91e2273fe2e00e6b6875cd",
+    "_data/ed96f37c56b6983b4fbd1a9b.htc": "9117634b22f2268e2f4918fc9289d30447e5bf15a9e670169a6d2d85db4156f5",
+    "_data/efc79691667377b13de85bd9.rss": "474df3e73550dcba68b9dab204a2fe50bd9ee18071383489f8750807f91e33d5",
+    "_mirror/resources.js": "729f20da9cd5e7713b5c35c11bc72ab56d576aebd58e0d245ee7fdb48c41a72e",
     "_mirror/runtime.js": "f7349552fcfcfb69b6cb3771a75ec5539845260814340e6ae1d1c9c482c18091",
     "_next/static/chunks/1255-b28ea36bf0cdbd65.js": "900415774488135acf73b4115f643e3c7e0ea6c8bf3eb6d18c52a23f01f2e861",
     "_next/static/chunks/1395-16a226fc3a08a79d.js": "a10488fabe3ff8798e7779fe6951120e0d49d00552a4e8ae5bfb77a1fa532d04",
     "_next/static/chunks/2619-3c9e02e22d10480a.js": "7fe044bde88179fcddab68e119ff3f40e55f3a0ecd8cec7fc420b14c9f350f9b",
-    "_next/static/chunks/2782-e959761c4a0f38ab.js": "9e71f934393c25f9d092e57ac15a21281b3c53744163795b7e8b694a5298c41a",
+    "_next/static/chunks/2782-55ec10e7108ccf08.js": "6dd693e1f4dc50db8e212f1ddd95ad673ce7ed4e73592d882a31a2df55ccaab1",
     "_next/static/chunks/3194-0304658b57bde999.js": "22cc29fc5d0b8492dfe5bb906a2fa845f5b53a0228b90295cd011f1316e151d7",
     "_next/static/chunks/3809-625307301839ad3d.js": "4ab75d7eb6e6c45c6acede17e4e2db0ba00ace377bb28eb4eaa2f6f1dacc67a0",
-    "_next/static/chunks/4312-7c58cc778411aae8.js": "1cc9c23a913168f83533d253b67ec0418929907451626253d27563012af541a4",
+    "_next/static/chunks/4312-97a3b70167e16209.js": "f4895705d8d8006590283bf45ab47b795426a75419eed4c5f085b5d4cbcfd62b",
     "_next/static/chunks/4689-31d8f66e9e6ea2c7.js": "8fc68aaa6e74b11e0b0e883da274de0af2debe92cc4e356b8c3673247e38a1f8",
     "_next/static/chunks/4bd1b696-f785427dddbba9fb.js": "51a7146e32f6a18a96676813fd791cd1b0265c675292acb31196720ca9e79726",
     "_next/static/chunks/8720-d7f67a5726cf715d.js": "213bcbcaca8213f5eb35cf7531dd4b78248cf5333f28267d9b9a67ff8e0dc55f",
-    "_next/static/chunks/9430-589514e26a5417b7.js": "17f7668d6ef163c9b0da25bc940f539d246a9d2f8744dfadef41f6649f8d7829",
-    "_next/static/chunks/app/availability/page-20e5e037f84b7325.js": "75cef37527e8f05ad813e8329987dd02eac1229952f159a3adcdf3b20de95c9f",
-    "_next/static/chunks/app/calculator/page-3aa73c4b6413e0c0.js": "00bdb69b3d9321807f56611ce619388e6cb0224af99df4190645d23adc3022db",
-    "_next/static/chunks/app/canary/page-2f4429a5c0dab028.js": "c852be4acc9259ed1bc41f4222d9daafa7a3c159c111eb30662e5a4306c9b918",
-    "_next/static/chunks/app/contact/page-31aeb2b1f8cd78a1.js": "9df1d2176d50cf435cf35850e84e54ce6675ce3043cb70e1db40efd296882e42",
-    "_next/static/chunks/app/donate/page-c6dbbda9a5dd923a.js": "63766d6cf51682576f27d9411f5244cd1b973c8f3fd8b27a49a9e654d0b083ba",
-    "_next/static/chunks/app/error-7bc18e14508a51dd.js": "8a2a2e02d2794365580f447bfd9676b295ee4f46efa6890d67d142ddcaf0c5f2",
-    "_next/static/chunks/app/faq/page-358d1ede90e2c18f.js": "1c04afb38c4d967ebc97de1e12706aaa57857581ee2273f1bf675fdefc60f5d2",
+    "_next/static/chunks/9430-5ae0df0381ffa2f7.js": "abdb4767589935a7e55aadc8db6b9f56c2762cb91251aa4ff01968181de46ced",
+    "_next/static/chunks/app/about/page-635864c63f55c34f.js": "be7763fa14399fcfa3889b112d046561ebe6156e752c70c07fe44057f2d5a851",
+    "_next/static/chunks/app/availability/page-bd5f39143c93e849.js": "e6310852ae37e831481ebb494aab10568ae2afed7aa37c9622ad10e0026f981e",
+    "_next/static/chunks/app/calculator/page-3c9670d5c4f99761.js": "1194f60e5c0e39d2c1f17f06a416b0e65f78c8074adbb0d44bec986d14a82ac3",
+    "_next/static/chunks/app/canary/page-f4fcec236ea60593.js": "378e209baf239b8447a263894492cfa4d97bea9ba3889008ca6aa93c2e4cc548",
+    "_next/static/chunks/app/contact/page-5376fd71c3cc6531.js": "446b220cde3a4df2a11ffae5c998e1a92a88f5f4d278b69dce573d2cc69562fd",
+    "_next/static/chunks/app/donate/page-8ce9c63b1184b833.js": "c65ed44835680a8550cfae7de5b5752377d2b30854b6b1d61a3ed7c9a10d8d56",
+    "_next/static/chunks/app/error-c422de822dc601ec.js": "615c4a6f0f39d28bfc6acf49de5972ac7ffcae68a20e1ed6a8f8017ebabb7a79",
+    "_next/static/chunks/app/faq/page-e9fc7c89a629768a.js": "47432ac5e357e6e4a2a35325d3d4fb09c7d6b05e5ed8cfebff2de4d16b9e02fe",
     "_next/static/chunks/app/global-error-c3bbf5f0205d2d32.js": "d3538dd2ce8771571ec6bef6cbc87de5c7245f79ca15bc00500ad03bef9f8955",
-    "_next/static/chunks/app/i2p/page-dfd7ee1a82336585.js": "271db9ff96c0d0b44e889a75accc41a51b15a2bd55f71a2cb5aad7f3f4a1f7b9",
-    "_next/static/chunks/app/layout-a3ce83e34cb159e5.js": "c14cbefdc77feedaf7e999fe786ec224a6f61038f2621f58b952217fe2bbba25",
-    "_next/static/chunks/app/login/page-9c95b3f5c5a636f5.js": "bb8d7c84892fb4dfc7fc8b09172f7580e7e7a1b83f0e63311dfd0ade3e6d6b70",
-    "_next/static/chunks/app/minecraft/page-ae623bbcd77d5b5b.js": "a727789fefc073ef88d48c347abca9c9ef2031e4af800c8805aa1c0f7e355de6",
-    "_next/static/chunks/app/not-found-df423c16c0451d7b.js": "46024476ef469a6a1ef0774d01e1e77e738f49182b364ea94971e876d36e9a1d",
-    "_next/static/chunks/app/page-3d720787c32db8af.js": "d535dc9565368fd6ecbc2493c85d37860eabe63ab2a76fbba4e139866f1a5701",
-    "_next/static/chunks/app/reviews/page-f950b7662cf3b799.js": "828633a20201147c46fcba47969fec0abceedb6c29b361b7434456cb73ca2ae9",
-    "_next/static/chunks/app/settings/page-0b9272548abfecbf.js": "6ca48724fe54bd466aabf182f3fa9d819249117ff96d03cafc06014a00d13207",
-    "_next/static/chunks/app/signup/page-f67a4149feb946c6.js": "49d8acd3ee97682dd6910eb81ea9d3872e492ac3c4cae8fd7f2b540cdba0be46",
-    "_next/static/chunks/app/start/page-358d1ede90e2c18f.js": "1c04afb38c4d967ebc97de1e12706aaa57857581ee2273f1bf675fdefc60f5d2",
-    "_next/static/chunks/app/stats/page-e19baff5b7fa19d5.js": "e79b04a3915bd0278663e18dc288ee8a27a50d150cab68ec054f732ac699ce1c",
-    "_next/static/chunks/app/tor/page-6367b0598a709e52.js": "96a42c89a28294864cf00906b5e627e94a20e9a5029de934ae02a014790eaa37",
-    "_next/static/chunks/app/track/page-9670bd982d20f4ed.js": "faa66d4ad4c8fa07d7214586588fe5b12e77cdf8549c2091dabdc9a3a0baa24e",
-    "_next/static/chunks/app/uptime/page-90e9704170219f74.js": "999c8a953d4985bcb2c7f49f9e2f212698f2c1c6878f0de3799179f7813d683d",
-    "_next/static/chunks/app/vendors/page-51ee0304bab6b1f7.js": "721b162046c5b435a96027251f326070bdc7fa581ddfb0ce4c26427efb659f3f",
-    "_next/static/chunks/app/verified/page-147ad215f1d69ca8.js": "e48733d29f04142b006ae1f06231df217445a3b0721560e1ced76e0f8281369e",
-    "_next/static/chunks/app/whats-new/page-d8fee580d847cff7.js": "6cfd778391fe58a5e772ed98165320a077fa1ecb003042e7cd82745a0e109de5",
+    "_next/static/chunks/app/i2p/page-da8b1b2321e81f7e.js": "298e10d5f6bcb9b45a3c19ac0c741f84aff0e0010d70f6056af8ac11674c0656",
+    "_next/static/chunks/app/layout-8123835e8201baeb.js": "19edb0bcb494e0fba9946b506d1582ac5e3268b87e1d2db43867fac400e1c5ce",
+    "_next/static/chunks/app/login/page-200ccf9865766d6f.js": "c374bb7cd5d6441fb929133b2f961d2223e8605ca839cbd262ec2691408ebb25",
+    "_next/static/chunks/app/minecraft/page-62b4473d415fdb87.js": "501659710277ab0f37981eb15a582b79eab45e9fc12ea86342e18fc857a56e72",
+    "_next/static/chunks/app/not-found-635864c63f55c34f.js": "be7763fa14399fcfa3889b112d046561ebe6156e752c70c07fe44057f2d5a851",
+    "_next/static/chunks/app/page-308de3f3658eebb5.js": "96612a650c636296e49880f75da937c8adba32d2a338355e2b80881d1e139641",
+    "_next/static/chunks/app/reviews/page-dc5a7a73d2d37be2.js": "b4eba3fdcdbb9e6c9dcea68d3047a8b6c0e6a77174878ef69e8dd727a32162ea",
+    "_next/static/chunks/app/settings/page-9b84e1b68edf2556.js": "093d1e74dc26a7bcaab21c3f3336cef4dbedc6b86abe344dc0aa12e95647f5c7",
+    "_next/static/chunks/app/start/page-e9fc7c89a629768a.js": "47432ac5e357e6e4a2a35325d3d4fb09c7d6b05e5ed8cfebff2de4d16b9e02fe",
+    "_next/static/chunks/app/stats/page-0e43574e97afcb98.js": "8ba503057b41174580bb88be5203ea7b57e002491377fe4cf514c682e7703b1a",
+    "_next/static/chunks/app/tor/page-00707a1dea0780ec.js": "81cd6a5c542a704ee3d024a3c0f2f4eb8aecaa89473f1bec896aa479461f8511",
+    "_next/static/chunks/app/track/page-9e1aa055e6cb75da.js": "e69d357abae5eebc8132445fd6b11c5f4a8263ca9908069ed68ca4b202735995",
+    "_next/static/chunks/app/uptime/page-cf010f39d3eecb6c.js": "e48185a5bf4f0dd240d6a553bc0c2d24d7d0e1ccf9c766049afcdb36c91140c0",
+    "_next/static/chunks/app/vendors/page-f2a5e44cb4effb59.js": "afd83bc63146ce10ab2c90e0604b39af9e4bb4b6dceb4034940a02dacb030d83",
+    "_next/static/chunks/app/verified/page-d2b684b95171a74b.js": "a43f1f187994039904b479aedc1cc78d3dbbc9b78931cd2b45ffcebc4ca0ac13",
+    "_next/static/chunks/app/whats-new/page-5a46770cd6359bcf.js": "18fa89c03abd5b7ad43f20ef67b031a986697ef1130342c81e5f56335796eaa1",
     "_next/static/chunks/main-app-08607c612937c180.js": "798cb00dc76cccfeb5a49ab4a5e584054952fd2c2a1cceacdf74fd5bcd36e8ee",
     "_next/static/chunks/polyfills-42372ed130431b0a.js": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
     "_next/static/chunks/webpack-909893268911f148.js": "4dd61e0950f960cbffbb7fdddaed4d6e677905aeb07be14099b10abc1000fbac",
-    "_next/static/css/46168ad2eee39a9b.css": "334b20c16ec809bc79d3653ed9adf43823896ea0f8addf56ff959d557c5d7e0d",
     "_next/static/css/510aaae8c6a96291.css": "06917773c5b576566a92c01c648a512ee8287d259ac01b86ce031f87eafb7ed2",
+    "_next/static/css/a637b8be038ada1a.css": "b3b19d1207d2303fb88ce4a5f6af15f2eae851b82815fa9017d3528915ad5964",
     "_next/static/media/011e180705008d6f-s.woff2": "7b59d6bf7f8b8408ac28f27d01dca9a890abeae77045d343b1d8ccb089a92e54",
     "_next/static/media/20535187d867b7b9-s.woff2": "69744cabbccc9faf77516ce9b744361e1e6be7f8081400006035a153797d2965",
     "_next/static/media/5356a6a4f2c8c8d8-s.woff2": "1b6b18fd0fd240bc6d5850f4df621484722d4b5d3650ebdd1e3a8bbd81c75854",
@@ -3869,11 +3590,14 @@
     "_next/static/media/iconfont.874808cc.woff2": "e5c9a2ad0140c2cb02656fee51c08f23c12c439eba239eea4332f01374af74e2",
     "_next/static/media/iconfont.93c33015.woff": "b38d01ad27b075366a0cf1b896fb697a0b8e38a7c04b711c0e37cb9cc28c6fe7",
     "_next/static/media/iconfont.a8967455.svg": "4347dd909b9621364e9dc993065256499983cd7798226a33dc2693d8fbf6f5e0",
+    "about/index.html": "722f93cb6e465bea2c351f9cd469cbb405d8aea0a2a951e3336c9585f92bacb0",
+    "about/n2x.png": "a23abb6a6305637c1e3e64f5f67b8984d618e1049aa7f1c0d99a5de625ecd556",
+    "about/phi.png": "95f60083354c06b8ea7723b48b524269deec4aeb9376bad7c089ad836c595fdb",
     "api/forum/me/account.json": "38e0b9de817f645c4bec37c0d4a3e58baecccb040f5718dc069a72c7385a0bed",
-    "api/v1/announcement.json": "fa9dd9bee7cbf290d51b2b10f4d65fa70be91d818085149f8cdab0b516aee998",
-    "api/v1/availability.json": "dec9d813b782c2bb6405670a0429b209f0ebfcd1d17b8cdf1399617a676296aa",
+    "api/v1/announcement.json": "f3fd4d24ad7a248cfe4336ed7169b67fbbbe9fb0892487a8ca815d48549e37d2",
+    "api/v1/availability.json": "37a3321c987384d10ca34966301d931efa32e0ed3f48949ce1173c75a9d37676",
     "api/v1/discord/bot-invite.json": "2622ac02d7224ebe5032e51ad827ae4bcb98a2aba013134cdbdd95876b6c9ba9",
-    "api/v1/items.json": "a36546817ab32a05bcba2d7fe88f18c4bb25c5b53d19352b9e7504ed8a2086ae",
+    "api/v1/items.json": "2817e3df17e97fab34e08e9142f82612a718101f61d21509baaf644fa16445f0",
     "api/v1/me.json": "3ad69aa74376902fc14fd549a4c9d96c8f38744aa7fffaf44529f5af25609774",
     "api/v1/reviews/images/14dc2a403cfbcbb1cc8209be884ea01d6abcbb0cfc009bae8a1ea44ab5645244.png": "14dc2a403cfbcbb1cc8209be884ea01d6abcbb0cfc009bae8a1ea44ab5645244",
     "api/v1/reviews/images/2908185071b89ec9e99bf4651d729f47c2e0e35abbf21382c279ee83c9706cac.png": "2908185071b89ec9e99bf4651d729f47c2e0e35abbf21382c279ee83c9706cac",
@@ -3883,34 +3607,33 @@
     "api/v1/reviews/images/7a91a0b9100508552ef03cea064396accfa5c78c2c677257ed20183a56d15dc9.png": "7a91a0b9100508552ef03cea064396accfa5c78c2c677257ed20183a56d15dc9",
     "api/v1/reviews/images/8d5face22b0238c99069bf9784334085dfa7ca3379947a30db0f7ef9106ac0b5.png": "8d5face22b0238c99069bf9784334085dfa7ca3379947a30db0f7ef9106ac0b5",
     "api/v1/reviews/images/b67aa8757541d2a62864e4e0ab943bf8327acfec2d45ed2703e189f0d20df672.png": "b67aa8757541d2a62864e4e0ab943bf8327acfec2d45ed2703e189f0d20df672",
-    "api/v1/shops.json": "a706923f4dfe9fcd5fde41b341e4aabdaac9d5045f43687567d0081ee8f3d477",
-    "api/v1/stats.json": "6d3ccf93bc646d51045d9b5b397e0987815380686922296eb5aa62b78bcd3977",
-    "api/v1/stock/changes.json": "78f4c6e6cf6e089445835eb55d897089ab12004e438659af0cb962df89802590",
-    "api/v1/stock/current.json": "320f295676ad25d9edef7ddd133775d4735ff934dd629dad1541f4d2bdbb74f2",
-    "api/v1/uptime.json": "570229daecfa807a9689d4729bd28fa86e4e4c72bf5e9cb2722c0d6086f93d63",
-    "api/v1/vendors/10/reviews.json": "c3ebfe2543d916bd49f0493baf163a0a34f7fbb5bbdbb4103e5d99a66eeef153",
+    "api/v1/shops.json": "b40fd040385469d07cf0918932b7f2b7bf9f9652033b4902504601fa1c62ab0e",
+    "api/v1/stats.json": "b487e8ec32838998f54441bd9e40eaedaa282d7e435740e5d8c28751fb311b4c",
+    "api/v1/stock/changes.json": "001706eb98308614e5aefbde123838506242ab76a0de69fd00b079f815a04a02",
+    "api/v1/stock/current.json": "4b71fc5dca820e614ffd923240c7fd7b26cd3c8e427342163e57d0afed64072b",
+    "api/v1/uptime.json": "730f2d5d69747dcd61baa2702eede55f0773eb5d7cdcacd73a42fdd8f7334b76",
+    "api/v1/vendors/10/reviews.json": "cdbeb85383452c6cac76dd66d8343d3ee99ee8ce56b894f8b3750b0746b40ddf",
     "api/v1/vendors/11/reviews.json": "edaee90ef23360094e6a984e6a1d57436d876936d8e5c3e51524476335e8cdcf",
     "api/v1/vendors/12/reviews.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "api/v1/vendors/13/reviews.json": "5a254ae6f7f9307e3523b5e06ba997af26196902d8a184319980f02d3af6b439",
-    "api/v1/vendors/15/reviews.json": "d0826a709aac6baf9da9e6f4e1a90c13be9257a623b0b6fa2fa8462d9687416e",
+    "api/v1/vendors/15/reviews.json": "5d5072f3b7dc749efa3d303d2b87de33ddb61f219eec1d052aa1ad7ee67dfb5a",
     "api/v1/vendors/16/reviews.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "api/v1/vendors/5/reviews.json": "c8609816c5ca36cc57efb2b898a2e12b5c1fcde205b84ecb43bc65f74430a36a",
+    "api/v1/vendors/5/reviews.json": "f5e214ca9a5eaea8c7d2c9a28deac4ad1633664d8b9f75b69c33abc94d8f0dec",
     "api/v1/vendors/6/reviews.json": "df8d18d965fd402d3fa3ea2c778765ee50564ac69d04b5ea1cbbab4fb166b14d",
     "api/v1/vendors/7/reviews.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "api/v1/vendors/8/reviews.json": "3232954961bd1a0252c209d3dd773408c362f82e485ee5cc0ab5f85049a6c076",
     "api/v1/vendors/9/reviews.json": "94e613055148aee87baa2366ff883ea63676d7e22e250e4aff1caed39762dd67",
-    "api/v1/whats-new.json": "fb06d5fe38fd0ee344f80624883c0f611212655f967aa7f77d319156ea55c8d9",
-    "availability/index.html": "8e276a75db81c5efd4659609a3b0ee2a8eafea396354d474c21ea3aeb413e50b",
-    "brand/cloudflare.png": "07bb6025047130e67f132c5424bef4444fcada7f17f6f7a7199c46b9cbf249b3",
-    "calculator/index.html": "8b142e23f3327300e417c6a5403dbd197588d97a51f1631787ded14c4221f88b",
-    "canary/index.html": "5c285985d954cc68b1208434749c1973ad521445552efeb8adcfa19c0e80aaf2",
-    "cdn-cgi/l/email-protection.html": "31f34297ba82b885f3c8f5d68567c063cd41743ab6527e505b70f276bf24f9ca",
+    "api/v1/whats-new.json": "87754dd99ab5fe86ada4546694e9c698e86530bdcfbcb4d2613d5cfcdda35ae5",
+    "availability/index.html": "bb588773e68fbc2cb32c58e350469ff8b9dc7e71e57b8f06fc3398814116955a",
+    "calculator/index.html": "bedf8477b53230bc4ae1a4bc2a48f2db4ed651335496a4df46d0753e33b4f401",
+    "canary/index.html": "bf0706a398ce19c2dcce60a21f3afaf84ae9bd483cae1ddb8baccce30573373a",
+    "cdn-cgi/l/email-protection.html": "d9a14ff6b0b099b97666c101bcb233744b90be7a784818fbef6a56bc94b2c934",
     "cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": "2595496fe48df6fcf9b1bc57c29a744c121eb4dd11566466bc13d2e52e6bbcc8",
     "coins/btc.svg": "1e129e8e6c6ec8658fab9ce8fb5a825e4b5dcb7689d5b511aedb89d6065690de",
     "coins/eth.svg": "dad9829a6a7cc721620e206959ef05eb5de8261fe754fabb1ce92fc15c4aedef",
     "coins/ltc.svg": "825e37f8891e07338007dca440ec7d2a970bccdace79bdb1a51a532bc558cf01",
     "coins/xmr.svg": "43247980fd34754b0eb3849984e307d7ab9530c745ee0c3a9e9f744fe1fb29db",
-    "contact/index.html": "e0f53d51c2d092646750d7cce633364f04c4ba307bb9b8ad11d404f080384f58",
+    "contact/index.html": "50c5fffc2d28ce1d0edc7f6896f6e1d2b0fd525cd8e7156749e8f80b5704f1a8",
     "counter/crimson/0.png": "ee752017554bb11cb4b9450c879bc717a63f50536815d7bf5b189d9ce22368ff",
     "counter/crimson/1.png": "bebe05afde02df32b0d64904a8f483371060d403fbbf42f402c1091cba71eba6",
     "counter/crimson/2.png": "60301149d7545ad6c1bd1c18cf60eb2c9e4282440c23bcd2d1100379ed00fdac",
@@ -3933,6 +3656,7 @@
     "counter/green/8.png": "3b236bc54b67b656adf8ab85f4896419b19afa497e0bc893acdf4f42c34e2e19",
     "counter/green/9.png": "c20b95228f09d52500d78aa60de9a55c7cf23066576e46d2a030ce9a52d2180c",
     "counter/green/dot.png": "5c9e91d3aace48653613329e624e8d3b3de4514737cf5bb5e9d5267e9ac8c3b9",
+    "counter/halloween/1.png": "0b80959e9232047b3b41fe4d94e38433601bbeff49831c47cea2b44fa0272206",
     "counter/midnight/0.png": "07f1dc9fe725c873c8bb59129a5679f00e068056fe28459bf67a4df340fdd975",
     "counter/midnight/1.png": "3e9ccf4a3a76a0354847403a69670875a259ffda6dd43882cd9768ff04ed03d2",
     "counter/midnight/2.png": "2d446732be51bf5db87e9071bf9ba29377c61a248021637b428fd457c1d8280e",
@@ -3992,91 +3716,83 @@
     "crimson-header-bg.gif": "66b0b7cc3a7a76958cc30974f92590f97bc8b1768a9d4236ec7cb9899a9866e4",
     "discord/index.html": "274f1e5417792648783514adb4931b80d7e8b2d0f427921f40a3e7a662c15e6c",
     "diyhrt.png": "347e58ce4b7d4f09d7c137b36addf832a566476654f0868a6b21c5aa0e411484",
-    "donate/index.html": "5bbc374ca1e064ec2a671558bdd4acb9953d936658ce42f804ec88d455f6a384",
-    "faq/index.html": "d358947083b60cb228e901951a1ac7d22ad26666e4f5d3098afef0d32580f91c",
-    "forum/_data/079d508cc6de6cd0f39caa2c.htc": "f2c1344a5d795a8fd2e70a5108da6906065f4b4a17c9e795db51d2e52d360708",
-    "forum/_data/1da6a6df087c3fc0df1f2955.htc": "a8c1aa4b4936608d5e25fbe090a570c710869554513ea7e627db5198b2980495",
-    "forum/_data/21455e9f8833213efcbd4a85.htc": "33dce38efea0b232a55507112d2b04fe0a2297dc0ee0aeb40a5d1c3658375b1d",
-    "forum/_data/60c6a8ce824904bf30f720b6.htc": "6d7f8787d7f03ee367e90cae258fa27ceba11ba1795d0c64bd53487f38eade93",
-    "forum/_data/70f9f39c4a51fef38e7c6ef2.htc": "ae0f549d03d8ff5a90a832d3e8b4be78d0ae1fff5654c4920915158881b4df90",
-    "forum/_data/7984eb4b72b0513a90abfa6c.htc": "cf853f3dffe4ee78ea5a5cfd2b6f606e0dec68cec7701eeacad3d32cad3dfe78",
-    "forum/_data/95ce5775ae9c32c2b0b5f134.htc": "f58b54336b0aad87edc55bde0882e9f3ae07309e947b76cd75b49b93766c28c9",
-    "forum/_data/bae19c0a77c80851eee6b8f6.htc": "5a8f8304a635f91e9d89c8f29939c26b93a44f52dde98620d322cc9bf645c562",
+    "donate/index.html": "20ae4abcd123d30138ec433fc290f6614b65d6b8c0cf92f9393d84ecb6da22b6",
+    "faq/index.html": "a7037415a54367dc2ba88e1a048d4749d6c6e5c84ba1baec449a557e3bba0ae5",
+    "forum/_data/7984eb4b72b0513a90abfa6c.htc": "89a2559740292545acae35b185d19cb93fd77e4dfa508d7dcbe50a3826460e8c",
+    "forum/_data/bae19c0a77c80851eee6b8f6.htc": "db27f04fa232e3cadf0b97d0b8e3e137a76e7dbabb76fb0e24ddd9b23e9abcd1",
+    "forum/_data/bc7bcaee918ddaf230108b1a.html": "eb2acfa4b543e5d249b7fa987fa3110259692cd4368f54ca462ba65209dd1ffa",
     "forum/_next/static/chunks/1255-b28ea36bf0cdbd65.js": "900415774488135acf73b4115f643e3c7e0ea6c8bf3eb6d18c52a23f01f2e861",
     "forum/_next/static/chunks/1395-16a226fc3a08a79d.js": "a10488fabe3ff8798e7779fe6951120e0d49d00552a4e8ae5bfb77a1fa532d04",
     "forum/_next/static/chunks/2619-3c9e02e22d10480a.js": "7fe044bde88179fcddab68e119ff3f40e55f3a0ecd8cec7fc420b14c9f350f9b",
     "forum/_next/static/chunks/3809-625307301839ad3d.js": "4ab75d7eb6e6c45c6acede17e4e2db0ba00ace377bb28eb4eaa2f6f1dacc67a0",
-    "forum/_next/static/chunks/4312-7c58cc778411aae8.js": "477f33df1a6b5dfaefae32fc156702720edd48008d185739b006b060f48891f9",
+    "forum/_next/static/chunks/4312-97a3b70167e16209.js": "c06e540a865b042a87926e542381843c974dcef9e4f71dbdaa411356f2286dc9",
+    "forum/_next/static/chunks/443-eb53fa3a74bc8e43.js": "d98186b603288abe89d4daa92b210d6fe42c008f1921dd2ef3cce4e4f979c565",
     "forum/_next/static/chunks/4bd1b696-f785427dddbba9fb.js": "51a7146e32f6a18a96676813fd791cd1b0265c675292acb31196720ca9e79726",
     "forum/_next/static/chunks/8720-d7f67a5726cf715d.js": "213bcbcaca8213f5eb35cf7531dd4b78248cf5333f28267d9b9a67ff8e0dc55f",
-    "forum/_next/static/chunks/916-ca3b4c1cae5299c5.js": "1698a28033cb54bcbf5550f15c661b5d2ee1924686072fedb5d61267b1a13dfd",
-    "forum/_next/static/chunks/9430-589514e26a5417b7.js": "17f7668d6ef163c9b0da25bc940f539d246a9d2f8744dfadef41f6649f8d7829",
-    "forum/_next/static/chunks/app/error-7bc18e14508a51dd.js": "8a2a2e02d2794365580f447bfd9676b295ee4f46efa6890d67d142ddcaf0c5f2",
-    "forum/_next/static/chunks/app/forum/[...missing]/page-df423c16c0451d7b.js": "46024476ef469a6a1ef0774d01e1e77e738f49182b364ea94971e876d36e9a1d",
-    "forum/_next/static/chunks/app/forum/error-1d2587d8fe54a167.js": "0631b7c0000bf37d1c9853ccad45e7a105504797064dda6ca35c537273c3b781",
-    "forum/_next/static/chunks/app/forum/layout-945dc42443d4244c.js": "73fe9f542caf71cdbecce726e1a0a15dd7b604635c08ad0b79bb2ce63116e35c",
-    "forum/_next/static/chunks/app/forum/login/page-7958eab07536a4ef.js": "083166604cf41b44e2084794b4c3cab79df6572bb110d6cd0a6362240b771bdb",
+    "forum/_next/static/chunks/9430-5ae0df0381ffa2f7.js": "abdb4767589935a7e55aadc8db6b9f56c2762cb91251aa4ff01968181de46ced",
+    "forum/_next/static/chunks/app/error-c422de822dc601ec.js": "615c4a6f0f39d28bfc6acf49de5972ac7ffcae68a20e1ed6a8f8017ebabb7a79",
+    "forum/_next/static/chunks/app/forum/[...missing]/page-635864c63f55c34f.js": "be7763fa14399fcfa3889b112d046561ebe6156e752c70c07fe44057f2d5a851",
+    "forum/_next/static/chunks/app/forum/error-753cdf0a6f0bc976.js": "528c14760b9d71e9fa9fd4a6efd8b3b84df4a7a8773b3e16905e6a22862efd9d",
+    "forum/_next/static/chunks/app/forum/layout-41790b5fef18d3d9.js": "9587e6ee610cfca349fdb7a4e091dc87b21e03a5a7ac77adcf58d29ebc14e2cd",
+    "forum/_next/static/chunks/app/forum/login/page-b1093b10da81d7e7.js": "09d67e3e78e0499360cdab4df8b458534bc7ad89f248befaa3e14f16d7795a34",
     "forum/_next/static/chunks/app/forum/messages/verify/page-647065729f1c6e88.js": "11ba7ed889becff7489267712f672c725e9339ac9c9fcf3d887a92a5ab517bee",
-    "forum/_next/static/chunks/app/forum/signup/page-335ca2ee4f389bcb.js": "a5a7e199b94ff26cb9fbb2741365083eb99a9691c1a05110c089f21bcaa8635e",
     "forum/_next/static/chunks/app/global-error-c3bbf5f0205d2d32.js": "d3538dd2ce8771571ec6bef6cbc87de5c7245f79ca15bc00500ad03bef9f8955",
-    "forum/_next/static/chunks/app/layout-a3ce83e34cb159e5.js": "71359d77ea3202c21dc241e0c7db5d7a53f09b9ce8f6b3f706351c7b2ecc4540",
+    "forum/_next/static/chunks/app/layout-8123835e8201baeb.js": "c8237d72c129971fdc36009acc59848d79a41fc221981a5494b98f0466d532d3",
     "forum/_next/static/chunks/main-app-08607c612937c180.js": "798cb00dc76cccfeb5a49ab4a5e584054952fd2c2a1cceacdf74fd5bcd36e8ee",
     "forum/_next/static/chunks/polyfills-42372ed130431b0a.js": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
     "forum/_next/static/chunks/webpack-909893268911f148.js": "7e0303b83ce0f5242bad236ed04dfa75db459319c8cd94cc7492622ecd132475",
-    "forum/_next/static/css/46168ad2eee39a9b.css": "334b20c16ec809bc79d3653ed9adf43823896ea0f8addf56ff959d557c5d7e0d",
     "forum/_next/static/css/510aaae8c6a96291.css": "06917773c5b576566a92c01c648a512ee8287d259ac01b86ce031f87eafb7ed2",
-    "forum/_pages/0fc9ebe457b7973ea2a4199d.html": "690638d0c826f969e7bedca7aea379a6182847d28e4542f43570db144ba391c0",
-    "forum/_pages/bacc8e679479fe2dce8a3132.html": "86f7d287c2b7100d3c3a15c3b04587bf69e6e709dc309e320cfa6b3d54a7d3d4",
-    "forum/_pages/bc7bcaee918ddaf230108b1a.html": "aab81642b1f3b4cf1137a656bb84b5a0eb8f9d3ae0f911ec91ec48b95ef01897",
-    "forum/_pages/f82cd8a71be725e83a473e9c.html": "a3a53e3ba56ab88dd71887bc157b6926d8fb16b910b046b9874841a7300dc7aa",
+    "forum/_next/static/css/a637b8be038ada1a.css": "b3b19d1207d2303fb88ce4a5f6af15f2eae851b82815fa9017d3528915ad5964",
     "forum/api/forum/me/account.json": "38e0b9de817f645c4bec37c0d4a3e58baecccb040f5718dc069a72c7385a0bed",
-    "forum/cdn-cgi/l/email-protection.html": "e12a2cf433e711b159e41097f813816ee0330bcc92143b0d6f2dbbb66ee2db7e",
     "forum/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": "2595496fe48df6fcf9b1bc57c29a744c121eb4dd11566466bc13d2e52e6bbcc8",
     "forum/e2ee/MANIFEST.json": "a2178472484f9bd6d9d2c62d3cee74285443003e66ecb53d1993a0e7b783c943",
     "forum/e2ee/e2ee-core.js": "0b3a50a726ed832e6d2b7aa726769f81083b66c998a77d09b195c9a8f7c7a484",
-    "forum/index.html": "f98f32c34b1f7907b9815be0433bf749b47e565de463feb08cd95936568400a4",
-    "forum/login/index.html": "a7cd0c2ffd601c553eec3c6d5c3508006b4947f28321fd59a75b8bd6bb6940ac",
-    "forum/messages/index.html": "bb8f989558951f495f2df05611a178e24d6064e8e5d1bf38c450a4a26ceac775",
-    "forum/messages/verify/index.html": "8c0018eb93b259d945dcb2299e57876351525ac86a238966364bfdf11f23ae79",
-    "forum/signup/index.html": "0882b7a120df59bae9188b292d318f9a9020de274338c188a6643edd9b627ddd",
+    "forum/index.html": "3fd0e41e392a402ad2d0971627d8ad37ddc7174cc4dcfd4b4cc5d277368e9c23",
+    "forum/messages/index.html": "6f871e2d6532a631d9915099a6b056c7246c6113fbdaa65db1f4950c8b84e610",
+    "forum/messages/verify/index.html": "2f25f3617d167c71f244726657a0aaf97f5242def88980722274348d36d5f58b",
     "green-bg.gif": "84410296eae7f1245537a07693e20ab076baefb46576c25854c164146153b9d3",
     "green-header-bg.gif": "852396e204f1411cfefe373f3300636fb5e9a305fd8abbb4ab53bd77aa89e806",
+    "halloween-bg.gif": "258937990ea9b52e6c603baf09da5f0e000a509ada41fe523c245ffd2691f5db",
+    "halloween-header-bg.gif": "10d463cecabab09ebd7f40782e1bbabf0f097093d330cc2e56cac1ffc1ac597c",
     "header-bg.gif": "0219f68f90be5ff87e988737d5dbea7b3808f4e1e3c8ca11979e1f4734a45607",
-    "i2p/index.html": "1000b47f73427ef2ce33fb556d42a14d11dd6b45e6bade757079a87dea1d8046",
-    "index.html": "334c027315a457af20a596b88945f1d3eb3c46d26c0523abc6ac9ab3cca08bce",
-    "login/index.html": "cecbfac8cebf59b3b6ca90a565b1ac3990ded5e2a2766446b23d41ed542a7256",
+    "i2p/index.html": "c835f505c29dad36efd22ea849a445daf827b1d41b60775f86034d3afb686f51",
+    "index.html": "9a6cdbe65dfcd74d67b16814227b6d1ddde8ec50f17cbecbe86a044a76f102de",
+    "login.html": "0de07d649bd571c9a1d1a492564022b7c6cc8f330060b4fa38e6506b3a21e10f",
+    "logo-halloween.png": "dfd90170357a0e5be0998ab2196d23d109cb44cb46b4acab187502f0f4778493",
     "mascot/crimson.png": "62dec1c3509ddb2133a5c115e6f80da46777b308c723a89385faf37f347a4b0d",
     "mascot/green.png": "35d027fbd6be8bef6caf3f8029a726e6b18819a56b8fb78b2c6971d932c3cc1e",
+    "mascot/halloween.png": "3710ae564e2fa981c402c3b86111e77072788200e2591cbea76108c8af8ada47",
     "mascot/midnight.png": "0b9820e3c9a523edd111953763ed38a6bed19fca8635c619900f1edac3f2ab2c",
     "mascot/paper.png": "698858aec1117d88891c417ee38eb349b78ecb35b0979484e8bee6ced4241f56",
     "mascot/sakura.png": "079dae609d3ef4aff73401632bd68fa87ae208286fd18a8736fc7b7ee3fe75b1",
     "mascot/summer.png": "c844c9ae0e8738a95ca6ce343d97f1ab3eda90845a5094dd952ace048446c707",
     "mascot/turquoise.png": "4a74ea3764d48b76cad4ffe5fa10cb4806ee58721c314c2fc32ab0d55150126c",
     "mc-pickaxe.png": "b211a9b920d8f22ce5451780855155644d14ca7b85ab16d31f9c0b572cdda7ee",
-    "minecraft/index.html": "f4f0740b5f273636e45c2ca08655872046609a0aa5f2b74c6eca9353930abe07",
-    "paper-bg.gif": "2bf34c1569abf1379edc3268119e160d093f4e1e7584fd370144700f7fba4761",
-    "paper-header-bg.gif": "6b57af22fd1bb7ed170761208eca442fbdfdea9f49c9f1b000846a887fd988d1",
-    "privacy/index.html": "9d25a4aeaf8402ae514b33f0798c2f091162b1307a07445d14ba4ceb83bcdded",
-    "resources/index.html": "7041ce0adee9ce0b2601523abca119294c0f60749c7a3e706c5fd06b13a17272",
-    "reviews/index.html": "3b1495504584f7d46ad2fc9295b1512c5ae80de578306d60dea60194df044440",
+    "minecraft/index.html": "28e2924db700e2e45f3c54e0d08b16572609b397442457e9c3bb38393e9ae140",
+    "noir-bg.gif": "48184825536227e57973564b4e6b77bad8ddb58427688d2e3551f3ad80244d69",
+    "noir-header-bg.gif": "56bc7bf4c027a25aa5f283fc846ed99696bd7ccd5d288b333c4f21266f72334e",
+    "paper-snow-bg.gif": "80d7ce1eb9c15b03c44c92560a363627893cf82dba3436a7d1489eee50dbfb89",
+    "paper-snow-header-bg.gif": "c8b4612436c7645ea62cca0efd280b4f08e0025b719a376e57ff9fc14a6cbabd",
+    "privacy/index.html": "ee7147874ea1a2e0b47d43e557642673f499d781ec22452833a2175bbdc95dba",
+    "resources/index.html": "c8ee3cc54613f5d20918fae6fb0df98d31d50a9491f1cd196994a964686e93e4",
+    "reviews/index.html": "3df1c8485716026bf1d6994d79ddceb3610673a75f5de1f462b57d24e9825372",
     "robots.txt": "c166c3ab7c4e75add4daccefb1bad9d8c371f066718e8d07694c6dbc42ff1f7c",
     "sakura-bg.gif": "a644612961741b0b783db803d5f6162b4ea6416983468e91a18c0b6c060e3c3e",
     "sakura-header-bg.gif": "787829985e33677daaa41b8a26718693e027d124777edea81d5326a2b7fb5afb",
-    "settings/index.html": "4bb2e61fce4ed8069c61515f6db491c4df5e155c9c80f68657e75ea74c1cb5be",
-    "signup/index.html": "bced53c4a04e392d15d164a4b1e8623ad58632fcf83859838441080b8cb08364",
+    "settings/index.html": "88462b118fabd815d0e491a9ba50e6a4354b86e20012a20e6414699f92a6a2ba",
     "site-bg.gif": "3c018b3770f70bdaca75f12dc9ce30c4966d0bedc08db18cb934736ff463549c",
-    "start/index.html": "d31fbb2094991693aa7049e455288f22bd797bcc979a36b90aea9e531f0e08b5",
-    "stats/index.html": "9746712074d86f9404c9bbd1c29c9122c6203753b5b7557e237ceb8e1cfec886",
+    "start/index.html": "07d41ce4be810b091f6c655b8394c17999203418e0ce8efed4cb33090e3ca418",
+    "stats/index.html": "e1928ac8df219474c3149866ff04d1657294e79a49558fa0d5c8b07773046705",
     "summer-bg.gif": "e9c62a53f0dd82d7184d2dc9c2f3078d58d4fe79ef53f825e716f8b9b01a00c1",
     "summer-header-bg.gif": "5847e210b4f2327f8badbe1fcc81090db6b7fa7b6412d1b893fc1b12072af847",
-    "terms/index.html": "1fb0be243dfadba16822c5a3a7ef09c29fa1f4fdac3ee575bd586430aa91f361",
-    "tor/index.html": "efebc65010d27af40520d34940f0a40d0e1faf988ab4c1b5bfe2bae579cb02ed",
-    "track/index.html": "83b26efc33affc910ff47a99f705e1cd3c7af9bab43398b26117db31ac01302d",
+    "terms/index.html": "26a9787814c38350626edbaa6d2c42920a8a86b2cdda377ce3cd0d3c6afe1e65",
+    "tor/index.html": "a7652bb804a211bac16d97cb52381e8c00b5ef3fd72cdc00702f8efd570a433c",
+    "track/index.html": "b5bc85653c0e517fe558918bac7377ffd8cb54938e771c569632980ce47b78aa",
     "turquoise-bg.gif": "c8f426b83cf6785e18af1acd68810c2c7db7c62884ec646afcec3331f7143b25",
     "turquoise-header-bg.gif": "c0c6fd490986e63e048d2494c98853adfbe6630fefdee4087b6729248f8e6388",
-    "uptime/index.html": "c5a4df6f70e45e7e16f5cc946bc7d38eab38d88bce1ac2114668864b1338a6f0",
-    "vendors/index.html": "ab820cc60f9fe13991767437081b211dca992f87114398e11ec9e6060f0e1863",
-    "verified/index.html": "f474638198f6b583b152455d7503b8b76115041cd7c964dc6e2e252eddbdbe4e",
-    "whats-new/index.html": "0074082429504db225f01bc028a3831498e0600a2dcf35e8df9f7f78ba31e62b"
+    "uptime/index.html": "82698e29a1afa7cdee94da9bfc6089f2c773eaa83696bba9089ea446d51d770e",
+    "vendors/index.html": "80866f8c485687130320322ba376306a7a4cdc7b97291b2d77190c510ef94847",
+    "verified/index.html": "70a2839d3e919575ea37df97baa889656cc415d7c120c126a4ad3e2985f7fe47",
+    "whats-new/index.html": "49d197c79a532760c3080334956ecb08af498ad254bd47777b8aff04a5f8ab41"
   }
 }

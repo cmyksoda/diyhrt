@@ -6,28 +6,29 @@
 a:I[4431,[],"ViewportBoundary"]
 c:I[4431,[],"MetadataBoundary"]
 d:"$Sreact.suspense"
-f:I[9294,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-7c58cc778411aae8.js","7177","static/chunks/app/layout-a3ce83e34cb159e5.js"],"ThemeProvider"]
-10:I[9679,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-7c58cc778411aae8.js","7177","static/chunks/app/layout-a3ce83e34cb159e5.js"],"AccessibilityProvider"]
-11:I[3728,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-7c58cc778411aae8.js","7177","static/chunks/app/layout-a3ce83e34cb159e5.js"],"default"]
-12:I[9567,["2619","static/chunks/2619-3c9e02e22d10480a.js","8039","static/chunks/app/error-7bc18e14508a51dd.js"],"default"]
-13:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4345","static/chunks/app/not-found-df423c16c0451d7b.js"],""]
-17:I[9702,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-7c58cc778411aae8.js","7177","static/chunks/app/layout-a3ce83e34cb159e5.js"],"default"]
-0:{"b":"WrIYByTDoWYaqJzkwzXtc","f":[[["",{"children":["canary",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/diyhrt.coffee/_next/static/css/510aaae8c6a96291.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/diyhrt.coffee/_next/static/css/46168ad2eee39a9b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["canary",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","qUMjYAzpm3aPSf8Tf6885v",{"children":[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lc","qUMjYAzpm3aPSf8Tf6885m",{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"S":false}
-2:["$","html",null,{"lang":"en","className":"__variable_1ae0f2 __variable_aa62b7","suppressHydrationWarning":true,"children":["$","body",null,{"className":"relative flex min-h-dvh flex-col bg-bg text-text","children":[["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"(function(){try{var ok=['midnight','summer','turquoise','crimson','sakura','green','paper'];var m=document.cookie.match(/(?:^|;\\s*)diystock_theme=([^;]+)/);var t=m?decodeURIComponent(m[1]):localStorage.getItem('diystock:theme');document.documentElement.setAttribute('data-theme',ok.indexOf(t)>=0?t:'midnight');}catch(_){document.documentElement.setAttribute('data-theme','midnight');}})();"}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"(function(){try{var p=JSON.parse(localStorage.getItem('diystock:a11y')||'{}');var e=document.documentElement;if(p.reduceMotion)e.setAttribute('data-a11y-motion','reduce');if(p.readableFont)e.setAttribute('data-a11y-font','readable');if(p.highContrast)e.setAttribute('data-a11y-contrast','high');}catch(_){}})();"}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"(function(){try{var c=localStorage.getItem('diystock:sidebar:collapsed')==='1';document.documentElement.style.setProperty('--sidebar-w',c?'60px':'220px');}catch(e){}})();"}}],["$","div",null,{"aria-hidden":true,"data-bg-gif":true,"className":"pointer-events-none fixed inset-0 -z-30","style":{"backgroundImage":"var(--bg-gif)","backgroundSize":"cover","backgroundPosition":"center","imageRendering":"var(--bg-rendering, pixelated)","filter":"blur(var(--bg-blur, 6px)) saturate(1.05) brightness(0.9)","opacity":"var(--bg-opacity, 0.55)"}}],["$","div",null,{"aria-hidden":true,"data-bg-wash":true,"className":"pointer-events-none fixed inset-0 -z-20","style":{"background":"var(--header-tint)","mixBlendMode":"color","opacity":"var(--bg-wash-opacity, 0.35)"}}],["$","div",null,{"aria-hidden":true,"data-bg-dim":true,"className":"pointer-events-none fixed inset-0 -z-10","style":{"background":"rgb(var(--c-bg) / var(--bg-dim-alpha, 0.55))"}}],["$","$Lf",null,{"children":["$","$L10",null,{"children":["$","$L11",null,{"isForum":false,"isHidden":false,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$12","errorStyles":[],"errorScripts":[],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"ereb-box overflow-hidden","children":[["$","div",null,{"className":"ereb-section-title","children":"// error · 404"}],["$","div",null,{"className":"relative px-6 py-16 text-center sm:py-20","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none absolute inset-0 opacity-[0.06]","style":{"backgroundImage":"repeating-linear-gradient(0deg, #fff 0 1px, transparent 1px 7px)"}}],["$","h1",null,{"className":"relative font-mix text-6xl text-fg text-glow-pink sm:text-7xl","style":{"letterSpacing":"8px"},"children":["LOST",["$","span",null,{"className":"text-pink","children":"??"}]]}],["$","p",null,{"className":"relative mt-6 font-mix text-xs uppercase tracking-ereb-wide text-muted","children":["this page wandered off somewhere"," ",["$","span",null,{"className":"text-pink normal-case","children":"(╥﹏╥)"}]]}],["$","p",null,{"className":"relative mt-2 font-mix text-[10px] uppercase tracking-ereb text-muted/70","children":"maybe a shop went out of stock... permanently"}],["$","div",null,{"className":"relative mt-9 flex flex-wrap items-center justify-center gap-3","children":[["$","$L13",null,{"href":"/diyhrt.coffee/","className":"ereb-btn-primary","children":[["$","i",null,{"className":"hn hn-home","aria-hidden":true}],"go home"]}],["$","$L13",null,{"href":"/diyhrt.coffee/start/","className":"ereb-btn","children":[["$","i",null,{"className":"hn hn-book-solid","aria-hidden":true}],"start guide"]}]]}],["$","p",null,{"className":"relative mt-6 font-mix text-[10px] uppercase tracking-ereb text-muted/60","children":["or try"," ",["$","$L13",null,{"href":"/diyhrt.coffee/availability/","className":"text-pink hover:underline","children":"availability"}]," · ","$L14"," · ","$L15"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}],"$L16"]}]}]
-14:["$","$L13",null,{"href":"/diyhrt.coffee/faq/","className":"text-pink hover:underline","children":"faq"}]
-15:["$","$L13",null,{"href":"/diyhrt.coffee/contact/","className":"text-pink hover:underline","children":"contact"}]
-16:["$","$L17",null,{}]
+f:I[9294,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-97a3b70167e16209.js","7177","static/chunks/app/layout-8123835e8201baeb.js"],"ThemeProvider"]
+10:I[9679,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-97a3b70167e16209.js","7177","static/chunks/app/layout-8123835e8201baeb.js"],"AccessibilityProvider"]
+11:I[3728,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-97a3b70167e16209.js","7177","static/chunks/app/layout-8123835e8201baeb.js"],"default"]
+12:I[9567,["2619","static/chunks/2619-3c9e02e22d10480a.js","8039","static/chunks/app/error-c422de822dc601ec.js"],"default"]
+13:I[2619,["2619","static/chunks/2619-3c9e02e22d10480a.js","4345","static/chunks/app/not-found-635864c63f55c34f.js"],""]
+18:I[9702,["2619","static/chunks/2619-3c9e02e22d10480a.js","8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","3809","static/chunks/3809-625307301839ad3d.js","4312","static/chunks/4312-97a3b70167e16209.js","7177","static/chunks/app/layout-8123835e8201baeb.js"],"default"]
+0:{"b":"YIfkLfdjhmhrtn6dF5avZ","f":[[["",{"children":["canary",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/diyhrt.coffee/_next/static/css/510aaae8c6a96291.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/diyhrt.coffee/_next/static/css/a637b8be038ada1a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["canary",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","YNVnUlVub41wGGLonpwG4v",{"children":[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lc","YNVnUlVub41wGGLonpwG4m",{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"S":false}
+2:["$","html",null,{"lang":"en","className":"__variable_1ae0f2 __variable_aa62b7","suppressHydrationWarning":true,"children":["$","body",null,{"className":"relative flex min-h-dvh flex-col bg-bg text-text","children":[["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"(function(){var d=new Date(),mo=d.getMonth(),def=(mo===9||(mo===10&&d.getDate()<=1))?'halloween':'midnight';try{var ok=['midnight','summer','turquoise','crimson','sakura','green','paper','noir','halloween'];var m=document.cookie.match(/(?:^|;\\s*)diystock_theme=([^;]+)/);var t=m?decodeURIComponent(m[1]):localStorage.getItem('diystock:theme');document.documentElement.setAttribute('data-theme',ok.indexOf(t)>=0?t:def);}catch(_){document.documentElement.setAttribute('data-theme',def);}})();"}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"(function(){try{var p=JSON.parse(localStorage.getItem('diystock:a11y')||'{}');var e=document.documentElement;if(p.reduceMotion)e.setAttribute('data-a11y-motion','reduce');if(p.readableFont)e.setAttribute('data-a11y-font','readable');if(p.highContrast)e.setAttribute('data-a11y-contrast','high');}catch(_){}})();"}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"(function(){try{var c=localStorage.getItem('diystock:sidebar:collapsed')==='1';document.documentElement.style.setProperty('--sidebar-w',c?'60px':'220px');}catch(e){}})();"}}],["$","div",null,{"aria-hidden":true,"data-bg-gif":true,"className":"pointer-events-none fixed inset-0 -z-30","style":{"backgroundImage":"var(--bg-gif)","backgroundSize":"cover","backgroundPosition":"center","imageRendering":"var(--bg-rendering, pixelated)","filter":"blur(var(--bg-blur, 6px)) saturate(1.05) brightness(0.9)","opacity":"var(--bg-opacity, 0.55)"}}],["$","div",null,{"aria-hidden":true,"data-bg-wash":true,"className":"pointer-events-none fixed inset-0 -z-20","style":{"background":"var(--header-tint)","mixBlendMode":"color","opacity":"var(--bg-wash-opacity, 0.35)"}}],["$","div",null,{"aria-hidden":true,"data-bg-dim":true,"className":"pointer-events-none fixed inset-0 -z-10","style":{"background":"rgb(var(--c-bg) / var(--bg-dim-alpha, 0.55))"}}],["$","$Lf",null,{"children":["$","$L10",null,{"children":["$","$L11",null,{"isForum":false,"isHidden":false,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$12","errorStyles":[],"errorScripts":[],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"ereb-box overflow-hidden","children":[["$","div",null,{"className":"ereb-section-title","children":"// error · 404"}],["$","div",null,{"className":"relative px-6 py-16 text-center sm:py-20","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none absolute inset-0 opacity-[0.06]","style":{"backgroundImage":"repeating-linear-gradient(0deg, #fff 0 1px, transparent 1px 7px)"}}],["$","h1",null,{"className":"relative font-mix text-6xl text-fg text-glow-pink sm:text-7xl","style":{"letterSpacing":"8px"},"children":["LOST",["$","span",null,{"className":"text-pink","children":"??"}]]}],["$","p",null,{"className":"relative mt-6 font-mix text-xs uppercase tracking-ereb-wide text-muted","children":["this page wandered off somewhere"," ",["$","span",null,{"className":"text-pink normal-case","children":"(╥﹏╥)"}]]}],["$","p",null,{"className":"relative mt-2 font-mix text-[10px] uppercase tracking-ereb text-muted/70","children":"maybe a shop went out of stock... permanently"}],["$","div",null,{"className":"relative mt-9 flex flex-wrap items-center justify-center gap-3","children":[["$","$L13",null,{"href":"/diyhrt.coffee/","className":"ereb-btn-primary","children":[["$","i",null,{"className":"hn hn-home","aria-hidden":true}],"go home"]}],["$","$L13",null,{"href":"/diyhrt.coffee/start/","className":"ereb-btn","children":[["$","i",null,{"className":"hn hn-book-solid","aria-hidden":true}],"start guide"]}]]}],["$","p",null,{"className":"relative mt-6 font-mix text-[10px] uppercase tracking-ereb text-muted/60","children":["or try"," ","$L14"," · ","$L15"," · ","$L16"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}],"$L17"]}]}]
+14:["$","$L13",null,{"href":"/diyhrt.coffee/availability/","className":"text-pink hover:underline","children":"availability"}]
+15:["$","$L13",null,{"href":"/diyhrt.coffee/faq/","className":"text-pink hover:underline","children":"faq"}]
+16:["$","$L13",null,{"href":"/diyhrt.coffee/contact/","className":"text-pink hover:underline","children":"contact"}]
+17:["$","$L18",null,{}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#151515"}]]
 7:null
-18:I[622,[],"IconMark"]
-9:{"metadata":[["$","title","0",{"children":"canary · diyhrt"}],["$","meta","1",{"name":"description","content":"warrant canary for diyhrt.coffee. a regularly re-signed message that the operator is alive, free, and in control. a missing or stale one is the alarm."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","title":"diyhrt restocks","href":"/diyhrt.coffee/_data/efc79691667377b13de85bd9.rss"}],["$","link","3",{"rel":"icon","href":"/diyhrt.coffee/_data/989bff732f76eeb0c077f0dc.png","type":"image/png","sizes":"128x128"}],["$","link","4",{"rel":"apple-touch-icon","href":"/diyhrt.coffee/_data/989bff732f76eeb0c077f0dc.png","type":"image/png","sizes":"128x128"}],["$","$L18","5",{}]],"error":null,"digest":"$undefined"}
+19:I[622,[],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"canary · diyhrt"}],["$","meta","1",{"name":"description","content":"warrant canary for diyhrt.coffee. a regularly re-signed message that the admins are alive, free, and in control. a missing or stale one is the alarm."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","title":"diyhrt restocks","href":"/diyhrt.coffee/_data/efc79691667377b13de85bd9.rss"}],["$","link","3",{"rel":"icon","href":"/diyhrt.coffee/_data/989bff732f76eeb0c077f0dc.png","type":"image/png","sizes":"128x128"}],["$","link","4",{"rel":"apple-touch-icon","href":"/diyhrt.coffee/_data/989bff732f76eeb0c077f0dc.png","type":"image/png","sizes":"128x128"}],["$","$L19","5",{}]],"error":null,"digest":"$undefined"}
 e:"$9:metadata"
-19:I[5508,["8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","4689","static/chunks/4689-31d8f66e9e6ea2c7.js","2991","static/chunks/app/canary/page-2f4429a5c0dab028.js"],"default"]
-1a:T5b1,-----BEGIN PGP SIGNED MESSAGE-----
+1a:I[5508,["8720","static/chunks/8720-d7f67a5726cf715d.js","1395","static/chunks/1395-16a226fc3a08a79d.js","4689","static/chunks/4689-31d8f66e9e6ea2c7.js","2991","static/chunks/app/canary/page-f4fcec236ea60593.js"],"default"]
+1b:T940,-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 diyhrt.coffee — warrant canary
-date: 2026-09-28
+date: 2026-10-21
 
 as of today, diyhrt.coffee:
 
@@ -38,51 +39,112 @@ as of today, diyhrt.coffee:
      compelled silence.
   3. has not been compromised, coerced, or accessed by any
      party other than its stated operators.
-  4. retains full control of its signing key, infrastructure,
+  4. retains full control of its signing keys, infrastructure,
      and source code.
 
-this canary is signed with the PGP key fingerprinted
-33AA 9E20 C6D5 FA57 B056  C488 E608 EDED D5FB 9ECF
-and will be reposted at least once every 30 days. if a future
-canary fails to appear when due, or if any of the four
-statements above can no longer be made truthfully, you should
-assume diyhrt.coffee may have been compromised.
+key change: from this canary on, a canary is valid when it is
+signed by either of the site's two admins, phi or n2x:
 
-current headlines (proof of liveness — these change every day,
-so a re-posted old canary won't match recent news):
+  phi  <admin@diyhrt.coffee>
+       493B B8AF 3865 2ADE 4054  D14A B01E E3EB 9676 EFD9
+  n2x
+       268D 6AE8 A3AA 82BE F3B3  9BE6 97E6 511B BB1F 12CF
 
-  - Apple ordered to pay $5.7bn after losing vibration tech patent suit (LLLLLL APPLE)
+this one is signed twice: by phi's new key, and by akira's key,
+which signed the canaries before the handover and vouches for it:
 
-next canary due: 2026-10-28
+  akira
+       33AA 9E20 C6D5 FA57 B056  C488 E608 EDED D5FB 9ECF
 
-— akira moriarty
-  moriarty@paranoici.org
+akira's key is retired after this and won't sign future canaries.
+all three keys are published at https://diyhrt.coffee/canary
+
+this canary will be reposted at least once every 30 days. if a
+future canary fails to appear when due, isn't signed by one of the
+admin keys above, or if any of the four statements above can no
+longer be made truthfully, you should assume diyhrt.coffee may
+have been compromised.
+
+proof of liveness (these change constantly, so a re-posted old
+canary won't match):
+
+  - bitcoin block 972494, mined 2026-10-21 15:39 utc:
+    000000000000000000018912d1083009ef298e17cea99e53d2509b7aaaa1111c
+  - "US citizen Stephen Hubbard freed by Russia as Trump envoy
+    meets Putin" (bbc news, 2026-10-21)
+  - "Elon Musk confirms he is considering merging Tesla and
+    SpaceX" (bbc news, 2026-10-21)
+
+next canary due: 2026-11-20
+
+— phi
 -----BEGIN PGP SIGNATURE-----
 
-iJAEARYKADkWIQQzqp4gxtX6V7BWxIjmCO3t1fuezwUCarrC3BsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwyLDEACgkQ5gjt7dX7ns//pgEA3+NV1/dboA5Uh4lzn4Js
-PmJDO28qW3cM/ks+871KuiQA+O2Usz8PycK9/tNRdQgbCXahFrExcRw23Dd6zMw+
-nwM=
-=mLnY
------END PGP SIGNATURE-----1b:T42a,-----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User ID:	Akira Moriarty <moriarty@paranoici.org>
-Comment: Valid from:	5/14/2026 4:45 PM
-Comment: Valid until:	5/14/2029 12:00 PM
-Comment: Type:	255-bit EdDSA (secret key available)
+iJEEARYKADkWIQRJO7ivOGUq3kBU0UqwHuPrlnbv2QUCatjdcBsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwyLDEACgkQsB7j65Z279mIyQD+ID1r9y+L9omHm01mwxr0
+vu3piIKwgQ8u8sL6RFgwP6MBAK7heiw/adRRy378aTHAA1pDzsshSqjpHf3kqxiT
+1ooGiJEEARYKADkWIQQzqp4gxtX6V7BWxIjmCO3t1fuezwUCatjdcBsUgAAAAAAE
+AA5tYW51MiwyLjUrMS4xMiwyLDEACgkQ5gjt7dX7ns8P3AD+LE3HehMuwij+METk
+nEKDT0cjNPqWSu8o9X8CzRajOAkA/0Ks96ls1CwM60/npdNWrZ/WOy6oRkcj5pGD
+REm22fQI
+=a898
+-----END PGP SIGNATURE-----
+1c:Td56,-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User ID:	n2x
+Comment: Valid from:	19/10/2026 16:56
+Comment: Type:	4,096-bit RSA (secret key available)
 Comment: Usage:	Signing, Encryption, Certifying User IDs
-Comment: Fingerprint:	33AA 9E20 C6D5 FA57 B056  C488 E608 EDED D5FB 9ECF
+Comment: Fingerprint:	268D 6AE8 A3AA 82BE F3B3  9BE6 97E6 511B BB1F 12CF
 
 
-mDMEagXuJxYJKwYBBAHaRw8BAQdA51ewSfVgZnak8ngh2yO7agyCQCG1ViarFaV/
-OEd6TWe0J0FraXJhIE1vcmlhcnR5IDxtb3JpYXJ0eUBwYXJhbm9pY2kub3JnPoi1
-BBMWCgBdFiEEM6qeIMbV+lewVsSI5gjt7dX7ns8FAmoF7icbFIAAAAAABAAObWFu
-dTIsMi41KzEuMTIsMiwxAhsDBQkFpKkJBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4H
-AheAAAoJEOYI7e3V+57PG2gBAOYXy24+QbUjbjBs/UbMvw0LJO680G5VkqAKjGEc
-cm8/AP9l77kUdqOEQj8TojINBpkfWMATcStYQAwvBckufZD/C7g4BGoF7icSCisG
-AQQBl1UBBQEBB0ALM1l9QvE3c426uAYUShUUaAbEJZQa9ya5K78U1KLCRwMBCAeI
-mgQYFgoAQhYhBDOqniDG1fpXsFbEiOYI7e3V+57PBQJqBe4nGxSAAAAAAAQADm1h
-bnUyLDIuNSsxLjEyLDIsMQIbDAUJBaSpCQAKCRDmCO3t1fuez+JkAQDNSkRZBl7x
-h0OOJTzFpT3DvkD4tX5DZuOG2HPMd4MsTwEAoBklIp8D4oicCmsGaF6AV6/MoyTL
-LjvPjJm8UOFQFwI=
-=Fd3Y
------END PGP PUBLIC KEY BLOCK-----5:["$","div",null,{"className":"space-y-6","children":[["$","section",null,{"className":"ereb-box overflow-hidden","children":[["$","div",null,{"className":"ereb-section-title flex flex-wrap items-center justify-between gap-x-3 gap-y-0.5","children":[["$","span",null,{"children":"// canary"}],null]}],["$","div",null,{"className":"relative px-6 py-8 sm:px-8 sm:py-10","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none absolute inset-0 opacity-[0.07]","style":{"backgroundImage":"repeating-linear-gradient(0deg, #fff 0 1px, transparent 1px 7px)"}}],["$","h1",null,{"className":"relative font-mix text-3xl uppercase text-fg sm:text-4xl","style":{"letterSpacing":"4px"},"children":"warrant canary"}],["$","div",null,{"className":"prose relative mt-4 max-w-2xl font-mix text-[12px] normal-case tracking-normal text-text leading-relaxed [&_strong]:text-fg","children":[["$","p",null,{"children":["a regularly re-signed PGP message saying the person running diyhrt.coffee is alive, free, in full control of the site, and hasn't been served any warrants, gag orders, or orders to change it. anyone can check the signature with ",["$","code",null,{"children":"gpg"}],"."]}],["$","p",null,{"className":"text-muted","children":["it works because of what it can't say. a gag order would stop us announcing it, but we could stop re-signing. ",["$","strong",null,{"children":"a missing or stale signature is the alarm."}]]}]]}]]}]]}],["$","$L19",null,{"canary":{"id":5,"signedMessage":"$1a","publicKey":"$1b","fingerprint":"33AA9E20C6D5FA57B056C488E608EDEDD5FB9ECF","signedAt":"2026-09-28T19:41:51.587Z","nextDueAt":"2026-10-28T19:41:51.587Z","active":true,"createdAt":"2026-09-28T19:42:04.810899Z","updatedAt":"2026-09-28T19:42:04.810899Z"}}]]}]
+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
+n0tKiQkZbPBB0pDfQD65qMlo7dVITcpReRo=
+=tJVM
+-----END PGP PUBLIC KEY BLOCK-----
+5:["$","div",null,{"className":"space-y-6","children":[["$","section",null,{"className":"ereb-box overflow-hidden","children":[["$","div",null,{"className":"ereb-section-title flex flex-wrap items-center justify-between gap-x-3 gap-y-0.5","children":[["$","span",null,{"children":"// canary"}],null]}],["$","div",null,{"className":"relative px-6 py-8 sm:px-8 sm:py-10","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none absolute inset-0 opacity-[0.07]","style":{"backgroundImage":"repeating-linear-gradient(0deg, #fff 0 1px, transparent 1px 7px)"}}],["$","h1",null,{"className":"relative font-mix text-3xl uppercase text-fg sm:text-4xl","style":{"letterSpacing":"4px"},"children":"warrant canary"}],["$","div",null,{"className":"prose relative mt-4 max-w-2xl font-mix text-[12px] normal-case tracking-normal text-text leading-relaxed [&_strong]:text-fg","children":[["$","p",null,{"children":["a regularly re-signed PGP message saying the people running diyhrt.coffee are alive, free, in full control of the site, and haven't been served any warrants, gag orders, or orders to change it. it's signed by one of the site's admins, and anyone can check the signature with ",["$","code",null,{"children":"gpg"}],"."]}],["$","p",null,{"className":"text-muted","children":["it works because of what it can't say. a gag order would stop us announcing it, but we could stop re-signing. ",["$","strong",null,{"children":"a missing or stale signature is the alarm."}]]}]]}]]}]]}],["$","$L1a",null,{"canary":{"id":7,"signedMessage":"$1b","publicKey":"-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmDMEatjctxYJKwYBBAHaRw8BAQdA4Sf2Bbagnd71HRLfRF5Tl0yhVrd1lng3k8kt\nIKRA6Se0GXBoaSA8YWRtaW5AZGl5aHJ0LmNvZmZlZT6ItQQTFgoAXRYhBEk7uK84\nZSreQFTRSrAe4+uWdu/ZBQJq2Ny3GxSAAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIs\nMQIbAwUJA8JnAAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRCwHuPrlnbv\n2Z4jAQCPdiYSncXwLEL31DvjEOwSpCoY/FoJWBzQdi07BThmSQD/UG7MEqw6PbPj\nxQPr9cqUJxCcrbb0fTvhc77A+PLENwyIdQQQFgoAHRYhBDOqniDG1fpXsFbEiOYI\n7e3V+57PBQJq2N1WAAoJEOYI7e3V+57Pb4QBALDW5cbGe8DK8RDBD3LkReDK6kDz\nZCmcdlp5bcip2NJPAQDsKR3nN00IiauH3K7U4feMoxNULL0A/N1e1YHa06YMCbg4\nBGrY3OwSCisGAQQBl1UBBQEBB0CnBrj83VO4iuxBhuLqeZw8rLtmaFzkEAhJnFJQ\nVaM2QQMBCAeImgQYFgoAQhYhBEk7uK84ZSreQFTRSrAe4+uWdu/ZBQJq2NzsGxSA\nAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIsMQIbDAUJA8JnAAAKCRCwHuPrlnbv2S4U\nAP9JCi16ZyGgIsXGLnQVcjE8pNWfQ35LNpb49U7f8EIiqwD/VbSnSNbcLkadc1UH\nKBYhjHMzH2BfivWUpY8uAE/tZAA=\n=feQW\n-----END PGP PUBLIC KEY BLOCK-----\n","fingerprint":"493BB8AF38652ADE4054D14AB01EE3EB9676EFD9","signers":["493BB8AF38652ADE4054D14AB01EE3EB9676EFD9","33AA9E20C6D5FA57B056C488E608EDEDD5FB9ECF"],"signedAt":"2026-10-21T15:42:40Z","nextDueAt":"2026-11-20T15:42:40Z","active":true,"createdAt":"2026-10-21T15:49:25.082635Z","updatedAt":"2026-10-21T15:49:25.082635Z","keys":[{"id":1,"name":"phi","email":"admin@diyhrt.coffee","fingerprint":"493BB8AF38652ADE4054D14AB01EE3EB9676EFD9","publicKey":"-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmDMEatjctxYJKwYBBAHaRw8BAQdA4Sf2Bbagnd71HRLfRF5Tl0yhVrd1lng3k8kt\nIKRA6Se0GXBoaSA8YWRtaW5AZGl5aHJ0LmNvZmZlZT6ItQQTFgoAXRYhBEk7uK84\nZSreQFTRSrAe4+uWdu/ZBQJq2Ny3GxSAAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIs\nMQIbAwUJA8JnAAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRCwHuPrlnbv\n2Z4jAQCPdiYSncXwLEL31DvjEOwSpCoY/FoJWBzQdi07BThmSQD/UG7MEqw6PbPj\nxQPr9cqUJxCcrbb0fTvhc77A+PLENwyIdQQQFgoAHRYhBDOqniDG1fpXsFbEiOYI\n7e3V+57PBQJq2N1WAAoJEOYI7e3V+57Pb4QBALDW5cbGe8DK8RDBD3LkReDK6kDz\nZCmcdlp5bcip2NJPAQDsKR3nN00IiauH3K7U4feMoxNULL0A/N1e1YHa06YMCbg4\nBGrY3OwSCisGAQQBl1UBBQEBB0CnBrj83VO4iuxBhuLqeZw8rLtmaFzkEAhJnFJQ\nVaM2QQMBCAeImgQYFgoAQhYhBEk7uK84ZSreQFTRSrAe4+uWdu/ZBQJq2NzsGxSA\nAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIsMQIbDAUJA8JnAAAKCRCwHuPrlnbv2S4U\nAP9JCi16ZyGgIsXGLnQVcjE8pNWfQ35LNpb49U7f8EIiqwD/VbSnSNbcLkadc1UH\nKBYhjHMzH2BfivWUpY8uAE/tZAA=\n=feQW\n-----END PGP PUBLIC KEY BLOCK-----\n","note":"admin. certified by akira's key in the 2026-10-21 handover","retiredAt":null,"createdAt":"2026-10-21T15:42:00Z"},{"id":2,"name":"n2x","email":"","fingerprint":"268D6AE8A3AA82BEF3B39BE697E6511BBB1F12CF","publicKey":"$1c","note":"admin","retiredAt":null,"createdAt":"2026-10-21T15:42:01Z"},{"id":3,"name":"akira","email":"moriarty@paranoici.org","fingerprint":"33AA9E20C6D5FA57B056C488E608EDEDD5FB9ECF","publicKey":"-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmDMEagXuJxYJKwYBBAHaRw8BAQdA51ewSfVgZnak8ngh2yO7agyCQCG1ViarFaV/\nOEd6TWe0J0FraXJhIE1vcmlhcnR5IDxtb3JpYXJ0eUBwYXJhbm9pY2kub3JnPoi1\nBBMWCgBdFiEEM6qeIMbV+lewVsSI5gjt7dX7ns8FAmoF7icbFIAAAAAABAAObWFu\ndTIsMi41KzEuMTIsMiwxAhsDBQkFpKkJBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4H\nAheAAAoJEOYI7e3V+57PG2gBAOYXy24+QbUjbjBs/UbMvw0LJO680G5VkqAKjGEc\ncm8/AP9l77kUdqOEQj8TojINBpkfWMATcStYQAwvBckufZD/C7g4BGoF7icSCisG\nAQQBl1UBBQEBB0ALM1l9QvE3c426uAYUShUUaAbEJZQa9ya5K78U1KLCRwMBCAeI\nmgQYFgoAQhYhBDOqniDG1fpXsFbEiOYI7e3V+57PBQJqBe4nGxSAAAAAAAQADm1h\nbnUyLDIuNSsxLjEyLDIsMQIbDAUJBaSpCQAKCRDmCO3t1fuez+JkAQDNSkRZBl7x\nh0OOJTzFpT3DvkD4tX5DZuOG2HPMd4MsTwEAoBklIp8D4oicCmsGaF6AV6/MoyTL\nLjvPjJm8UOFQFwI=\n=Fd3Y\n-----END PGP PUBLIC KEY BLOCK-----\n","note":"the previous operator. signed the canaries until october 2026, and co-signed the 2026-10-21 handover canary to vouch for phi's key. retired after that","retiredAt":"2026-10-21T15:42:40Z","createdAt":"2026-05-14T00:00:00Z"}]}}]]}]

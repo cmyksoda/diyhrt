@@ -6,39 +6,87 @@
     <description>restocks and sellouts from the diy hrt vendors diyhrt.coffee watches</description>
     <language>en</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 07 Oct 2026 06:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:45:30 +0000</lastBuildDate>
     <atom:link href="https://diyhrt.coffee/api/v1/feed/stock.rss" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>back in stock: Estradiol Valerate · Otokonoko (INTL)</title>
+      <link>https://otkph.am/shop/</link>
+      <description>Estradiol Valerate at Otokonoko, ships to INTL. $65.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-26671262</guid>
+      <pubDate>Fri, 30 Oct 2026 02:45:30 +0000</pubDate>
+      <category>Otokonoko</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol cypionate · Otokonoko (INTL)</title>
+      <link>https://otkph.am/shop/</link>
+      <description>Estradiol cypionate at Otokonoko, ships to INTL. $85.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-26671200</guid>
+      <pubDate>Fri, 30 Oct 2026 02:45:15 +0000</pubDate>
+      <category>Otokonoko</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Enanthate 10mL 40mg/mL in MCT · PawSnax (US)</title>
+      <link>https://pawsnax.cc/shop/</link>
+      <description>Estradiol Enanthate 10mL 40mg/mL in MCT at PawSnax, ships to US. $60.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-25566356</guid>
+      <pubDate>Mon, 26 Oct 2026 23:00:34 +0000</pubDate>
+      <category>PawSnax</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Transdermal Spray 7mg/mL 120mL · PawSnax (US)</title>
+      <link>https://pawsnax.cc/shop/</link>
+      <description>Estradiol Transdermal Spray 7mg/mL 120mL at PawSnax, ships to US. $65.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-24093363</guid>
+      <pubDate>Thu, 22 Oct 2026 06:10:44 +0000</pubDate>
+      <category>PawSnax</category>
+    </item>
     <item>
       <title>back in stock: Estradiol Enanthate · Hera (US)</title>
       <link>https://herahrt.com/shop/</link>
       <description>Estradiol Enanthate at Hera, ships to US. $60.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-21647161</guid>
-      <pubDate>Wed, 07 Oct 2026 06:05:10 +0000</pubDate>
-      <category>Hera</category>
-    </item>
-    <item>
-      <title>back in stock: Estradiol Valerate · Hera (US)</title>
-      <link>https://herahrt.com/shop/</link>
-      <description>Estradiol Valerate at Hera, ships to US. $55.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-21647102</guid>
-      <pubDate>Wed, 07 Oct 2026 06:04:40 +0000</pubDate>
+      <guid isPermaLink="false">diyhrt-stock-23757283</guid>
+      <pubDate>Tue, 20 Oct 2026 05:19:32 +0000</pubDate>
       <category>Hera</category>
     </item>
     <item>
       <title>back in stock: Estradiol Cypionate · Hera (US)</title>
       <link>https://herahrt.com/shop/</link>
       <description>Estradiol Cypionate at Hera, ships to US. $65.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-21647103</guid>
-      <pubDate>Wed, 07 Oct 2026 06:04:40 +0000</pubDate>
+      <guid isPermaLink="false">diyhrt-stock-23757205</guid>
+      <pubDate>Tue, 20 Oct 2026 05:19:02 +0000</pubDate>
       <category>Hera</category>
     </item>
     <item>
       <title>back in stock: Estradiol Undecylate · Hera (US)</title>
       <link>https://herahrt.com/shop/</link>
       <description>Estradiol Undecylate at Hera, ships to US. $80.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-21647104</guid>
-      <pubDate>Wed, 07 Oct 2026 06:04:40 +0000</pubDate>
+      <guid isPermaLink="false">diyhrt-stock-23757208</guid>
+      <pubDate>Tue, 20 Oct 2026 05:19:02 +0000</pubDate>
       <category>Hera</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Valerate · Hera (US)</title>
+      <link>https://herahrt.com/shop/</link>
+      <description>Estradiol Valerate at Hera, ships to US. $55.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23757160</guid>
+      <pubDate>Tue, 20 Oct 2026 05:18:32 +0000</pubDate>
+      <category>Hera</category>
+    </item>
+    <item>
+      <title>back in stock: Bicalutamide 50mg · Otokonoko (INTL)</title>
+      <link>https://otkph.am/shop/</link>
+      <description>Bicalutamide 50mg at Otokonoko, ships to INTL. $50.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23551142</guid>
+      <pubDate>Sun, 18 Oct 2026 23:21:18 +0000</pubDate>
+      <category>Otokonoko</category>
+    </item>
+    <item>
+      <title>back in stock: Progesterone Transdermal Spray 30mg/mL 120mL · PawSnax (US)</title>
+      <link>https://pawsnax.cc/shop/</link>
+      <description>Progesterone Transdermal Spray 30mg/mL 120mL at PawSnax, ships to US. $70.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23211417</guid>
+      <pubDate>Fri, 16 Oct 2026 21:48:18 +0000</pubDate>
+      <category>PawSnax</category>
     </item>
   </channel>
 </rss>
