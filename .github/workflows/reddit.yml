@@ -1,9 +1,9 @@
 name: Reddit Wikis
 
 on:
+  # Reddit answers GitHub's runners with 403 and sends anonymous visitors to a login page.
+  # Keep the last archive until a fetch path works.
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 5"
 
 permissions:
   contents: write
