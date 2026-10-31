@@ -239,8 +239,8 @@ class MirrorTests(unittest.TestCase):
             ),
             (
                 'https://old.reddit.com/',
-                'r/FTM/wiki.html',
-                'Static archive. The original subreddit (r/FTM) is no longer online.',
+                'r/TransDIY/wiki.html',
+                'Static archive. The original subreddit (r/TransDIY) is no longer online.',
             ),
         ]
         for origin, name, text in cases:
@@ -254,13 +254,19 @@ class MirrorTests(unittest.TestCase):
                 self.assertIsNone(notice.a)
 
     def test_static_archive_of_an_online_original_links_to_it(self):
-        with tempfile.TemporaryDirectory() as temp:
-            page = Path(temp) / 'g' / 'MTFHRT' / 'wiki.html'
-            page.parent.mkdir(parents=True)
-            page.write_text('<html><head></head><body>Archived</body></html>')
-            Assets(temp, 'https://groups.io/', wait=0, static=True).run()
-            notice = BeautifulSoup(page.read_text(), 'html.parser').select_one('#archive-notice')
-            self.assertEqual(notice.a['href'], 'https://groups.io/')
+        cases = [
+            ('https://groups.io/', 'g/MTFHRT/wiki.html'),
+            ('https://old.reddit.com/', 'r/FTM/wiki.html'),
+            ('https://old.reddit.com/', 'r/TransSurgeriesWiki/wiki/index/index.html'),
+        ]
+        for origin, name in cases:
+            with self.subTest(name=name), tempfile.TemporaryDirectory() as temp:
+                page = Path(temp) / name
+                page.parent.mkdir(parents=True)
+                page.write_text('<html><head></head><body>Archived</body></html>')
+                Assets(temp, origin, wait=0, static=True).run()
+                notice = BeautifulSoup(page.read_text(), 'html.parser').select_one('#archive-notice')
+                self.assertEqual(notice.a['href'], origin)
 
     def test_unavailable_image_becomes_a_link_instead_of_a_remote_request(self):
         with tempfile.TemporaryDirectory() as temp:
