@@ -237,11 +237,6 @@ class MirrorTests(unittest.TestCase):
                 'index.php/Main_Page.html',
                 'Static archive. The original website (hrtcafe.net) is no longer online.',
             ),
-            (
-                'https://old.reddit.com/',
-                'r/TransDIY/wiki.html',
-                'Static archive. The original subreddit (r/TransDIY) is no longer online.',
-            ),
         ]
         for origin, name, text in cases:
             with self.subTest(origin=origin), tempfile.TemporaryDirectory() as temp:
@@ -257,6 +252,7 @@ class MirrorTests(unittest.TestCase):
         cases = [
             ('https://groups.io/', 'g/MTFHRT/wiki.html'),
             ('https://old.reddit.com/', 'r/FTM/wiki.html'),
+            ('https://old.reddit.com/', 'r/TransDIY/wiki.html'),
             ('https://old.reddit.com/', 'r/TransSurgeriesWiki/wiki/index/index.html'),
         ]
         for origin, name in cases:

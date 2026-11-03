@@ -303,8 +303,6 @@ class Assets:
         host = urlsplit(self.origin).hostname
         if host == 'hrtcafe.net':
             return 'website (hrtcafe.net)'
-        if host == 'old.reddit.com' and relative.startswith('r/TransDIY/'):
-            return 'subreddit (r/TransDIY)'
         return None
 
     def html(self, path):
