@@ -1,6 +1,6 @@
 {
   "source": "https://valerie.vg/",
-  "captured": "2026-11-16",
+  "captured": "2026-11-23",
   "pages": {
     "https://valerie.vg/": "/valerie.vg/",
     "https://valerie.vg/about": "/valerie.vg/about/",
@@ -418,12 +418,6 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/stores/hera-hrt": {
-      "path": "/valerie.vg/stores/hera-hrt/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
     "https://valerie.vg/stores/4nrx-pharmacy-uk": {
       "path": "/valerie.vg/stores/4nrx-pharmacy-uk/",
       "status": 200,
@@ -496,6 +490,12 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
+    "https://valerie.vg/stores/hera-hrt": {
+      "path": "/valerie.vg/stores/hera-hrt/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
     "https://valerie.vg/stores/otokonoko-pharmacy": {
       "path": "/valerie.vg/stores/otokonoko-pharmacy/",
       "status": 200,
@@ -550,44 +550,38 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
+    "https://valerie.vg/meds/products/pawsnax-progesterone-spray": {
+      "path": "/valerie.vg/meds/products/pawsnax-progesterone-spray/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/serapharma-estradiol-enanthate": {
+      "path": "/valerie.vg/meds/products/serapharma-estradiol-enanthate/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/proleta-hrt-estradiol-enanthate-10ml": {
+      "path": "/valerie.vg/meds/products/proleta-hrt-estradiol-enanthate-10ml/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/cyproterone-siterone-50mg-x50": {
+      "path": "/valerie.vg/meds/products/cyproterone-siterone-50mg-x50/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/finasteride-finalo-1mg-x10": {
+      "path": "/valerie.vg/meds/products/finasteride-finalo-1mg-x10/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
     "https://valerie.vg/meds/products/calyx-labs-estradiol-enanthate": {
       "path": "/valerie.vg/meds/products/calyx-labs-estradiol-enanthate/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/progesterone-progestan-200mg-x30": {
-      "path": "/valerie.vg/meds/products/progesterone-progestan-200mg-x30/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/progesterone-progestan-100mg-x30": {
-      "path": "/valerie.vg/meds/products/progesterone-progestan-100mg-x30/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/cyproterone-siterone-100mg-x50": {
-      "path": "/valerie.vg/meds/products/cyproterone-siterone-100mg-x50/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/pawsnax-estradiol-spray": {
-      "path": "/valerie.vg/meds/products/pawsnax-estradiol-spray/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/astrovials-estradiol-valerate": {
-      "path": "/valerie.vg/meds/products/astrovials-estradiol-valerate/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/astrovials-estradiol-enanthate": {
-      "path": "/valerie.vg/meds/products/astrovials-estradiol-enanthate/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -598,8 +592,8 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/pawsnax-estradiol-enanthate-10ml-40mg-ml": {
-      "path": "/valerie.vg/meds/products/pawsnax-estradiol-enanthate-10ml-40mg-ml/",
+    "https://valerie.vg/meds/products/pawsnax-estradiol-spray": {
+      "path": "/valerie.vg/meds/products/pawsnax-estradiol-spray/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4132,20 +4126,20 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/felicitas-estradiol-enanthate-in-grapeseed-oil": {
-      "path": "/valerie.vg/meds/products/felicitas-estradiol-enanthate-in-grapeseed-oil/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
     "https://valerie.vg/meds/products/felicitas-estradiol-enanthate": {
       "path": "/valerie.vg/meds/products/felicitas-estradiol-enanthate/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/proleta-hrt-estradiol-enanthate-10ml": {
-      "path": "/valerie.vg/meds/products/proleta-hrt-estradiol-enanthate-10ml/",
+    "https://valerie.vg/meds/products/felicitas-estradiol-enanthate-in-grapeseed-oil": {
+      "path": "/valerie.vg/meds/products/felicitas-estradiol-enanthate-in-grapeseed-oil/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/astrovials-estradiol-enanthate": {
+      "path": "/valerie.vg/meds/products/astrovials-estradiol-enanthate/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4162,14 +4156,8 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/hera-hrt-estradiol-enanthate": {
-      "path": "/valerie.vg/meds/products/hera-hrt-estradiol-enanthate/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/serapharma-estradiol-enanthate": {
-      "path": "/valerie.vg/meds/products/serapharma-estradiol-enanthate/",
+    "https://valerie.vg/meds/products/symphony-labs-estradiol-enanthate": {
+      "path": "/valerie.vg/meds/products/symphony-labs-estradiol-enanthate/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4180,20 +4168,26 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/symphony-labs-estradiol-enanthate": {
-      "path": "/valerie.vg/meds/products/symphony-labs-estradiol-enanthate/",
+    "https://valerie.vg/meds/products/pawsnax-estradiol-enanthate-10ml-40mg-ml": {
+      "path": "/valerie.vg/meds/products/pawsnax-estradiol-enanthate-10ml-40mg-ml/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/symphony-labs-estradiol-enanthate-5ml": {
-      "path": "/valerie.vg/meds/products/symphony-labs-estradiol-enanthate-5ml/",
+    "https://valerie.vg/meds/products/hera-hrt-estradiol-enanthate": {
+      "path": "/valerie.vg/meds/products/hera-hrt-estradiol-enanthate/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
     },
     "https://valerie.vg/meds/products/symphony-labs-estradiol-enanthate-10ml-castor-oil": {
       "path": "/valerie.vg/meds/products/symphony-labs-estradiol-enanthate-10ml-castor-oil/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/symphony-labs-estradiol-enanthate-5ml": {
+      "path": "/valerie.vg/meds/products/symphony-labs-estradiol-enanthate-5ml/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4254,6 +4248,12 @@
     },
     "https://valerie.vg/meds/products/halcyon-estradiol-undecylate": {
       "path": "/valerie.vg/meds/products/halcyon-estradiol-undecylate/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/meds/products/astrovials-estradiol-valerate": {
+      "path": "/valerie.vg/meds/products/astrovials-estradiol-valerate/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4402,8 +4402,8 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/cyproterone-siterone-50mg-x50": {
-      "path": "/valerie.vg/meds/products/cyproterone-siterone-50mg-x50/",
+    "https://valerie.vg/meds/products/cyproterone-siterone-100mg-x50": {
+      "path": "/valerie.vg/meds/products/cyproterone-siterone-100mg-x50/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4452,12 +4452,6 @@
     },
     "https://valerie.vg/meds/products/finasteride-finalo-1mg-x100": {
       "path": "/valerie.vg/meds/products/finasteride-finalo-1mg-x100/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/meds/products/finasteride-finalo-1mg-x10": {
-      "path": "/valerie.vg/meds/products/finasteride-finalo-1mg-x10/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4654,6 +4648,12 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
+    "https://valerie.vg/meds/products/progesterone-progestan-100mg-x30": {
+      "path": "/valerie.vg/meds/products/progesterone-progestan-100mg-x30/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
     "https://valerie.vg/meds/products/progesterone-utrogestan-100mg-x30": {
       "path": "/valerie.vg/meds/products/progesterone-utrogestan-100mg-x30/",
       "status": 200,
@@ -4684,8 +4684,8 @@
       "type": "text/html; charset=utf-8",
       "location": null
     },
-    "https://valerie.vg/meds/products/pawsnax-progesterone-spray": {
-      "path": "/valerie.vg/meds/products/pawsnax-progesterone-spray/",
+    "https://valerie.vg/meds/products/progesterone-progestan-200mg-x30": {
+      "path": "/valerie.vg/meds/products/progesterone-progestan-200mg-x30/",
       "status": 200,
       "type": "text/html; charset=utf-8",
       "location": null
@@ -4802,30 +4802,6 @@
       "path": "/valerie.vg/media/files/labtests/o01FHXIv.pdf",
       "status": 200,
       "type": "application/pdf",
-      "location": null
-    },
-    "https://valerie.vg/stores/hera-hrt/reviews": {
-      "path": "/valerie.vg/stores/hera-hrt/reviews/",
-      "status": 200,
-      "type": "text/html; charset=utf-8",
-      "location": null
-    },
-    "https://valerie.vg/media/files/labtests/TrYJHfPD.png": {
-      "path": "/valerie.vg/media/files/labtests/TrYJHfPD.png",
-      "status": 200,
-      "type": "image/png",
-      "location": null
-    },
-    "https://valerie.vg/media/images/labtests/IegmApbO.png": {
-      "path": "/valerie.vg/media/images/labtests/IegmApbO.png",
-      "status": 200,
-      "type": "image/png",
-      "location": null
-    },
-    "https://valerie.vg/media/files/labtests/eKaMJJim.png": {
-      "path": "/valerie.vg/media/images/labtests/IegmApbO.png",
-      "status": 200,
-      "type": "image/png",
       "location": null
     },
     "https://valerie.vg/stores/4nrx-pharmacy-uk/reviews": {
@@ -4968,6 +4944,30 @@
     },
     "https://valerie.vg/media/files/labtests/QNr6zmfq.png": {
       "path": "/valerie.vg/media/images/labtests/XH2E5221.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://valerie.vg/stores/hera-hrt/reviews": {
+      "path": "/valerie.vg/stores/hera-hrt/reviews/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "location": null
+    },
+    "https://valerie.vg/media/files/labtests/TrYJHfPD.png": {
+      "path": "/valerie.vg/media/files/labtests/TrYJHfPD.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://valerie.vg/media/images/labtests/IegmApbO.png": {
+      "path": "/valerie.vg/media/images/labtests/IegmApbO.png",
+      "status": 200,
+      "type": "image/png",
+      "location": null
+    },
+    "https://valerie.vg/media/files/labtests/eKaMJJim.png": {
+      "path": "/valerie.vg/media/images/labtests/IegmApbO.png",
       "status": 200,
       "type": "image/png",
       "location": null
@@ -5140,8 +5140,8 @@
       "type": "application/pdf",
       "location": null
     },
-    "https://valerie.vg/media/images/products/rbCcyZAA.jpeg": {
-      "path": "/valerie.vg/media/images/products/rbCcyZAA.jpeg",
+    "https://valerie.vg/media/images/products/swSgl151.jpg": {
+      "path": "/valerie.vg/media/images/products/swSgl151.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
@@ -5158,40 +5158,34 @@
       "type": "text/javascript",
       "location": null
     },
-    "https://valerie.vg/media/progestan-tablet-2.png": {
-      "path": "/valerie.vg/media/progestan-tablet-2.png",
-      "status": 200,
-      "type": "image/png",
-      "location": null
-    },
-    "https://valerie.vg/media/47920-Progestan-Progesterone-100mg-Box-And-Capsule.jpg": {
-      "path": "/valerie.vg/media/47920-Progestan-Progesterone-100mg-Box-And-Capsule.jpg",
+    "https://valerie.vg/media/images/products/qTDCICT4.jpg": {
+      "path": "/valerie.vg/media/images/products/qTDCICT4.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
     },
-    "https://valerie.vg/media/siterone-100.jpg": {
-      "path": "/valerie.vg/media/siterone-100.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "location": null
-    },
-    "https://valerie.vg/media/images/products/p9KOdGMR.jpg": {
-      "path": "/valerie.vg/media/images/products/p9KOdGMR.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "location": null
-    },
-    "https://valerie.vg/media/astrovialsEV.png": {
-      "path": "/valerie.vg/media/astrovialsEV.png",
+    "https://valerie.vg/media/images/products/FQQEWx2r.png": {
+      "path": "/valerie.vg/media/images/products/FQQEWx2r.png",
       "status": 200,
       "type": "image/png",
       "location": null
     },
-    "https://valerie.vg/media/astrovialsEEn.png": {
-      "path": "/valerie.vg/media/astrovialsEEn.png",
+    "https://valerie.vg/media/siterone-tablet-500x500.png": {
+      "path": "/valerie.vg/media/siterone-tablet-500x500.png",
       "status": 200,
       "type": "image/png",
+      "location": null
+    },
+    "https://valerie.vg/media/finalo-1-mg-38981-big.jpg": {
+      "path": "/valerie.vg/media/finalo-1-mg-38981-big.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "location": null
+    },
+    "https://valerie.vg/media/images/products/rbCcyZAA.jpeg": {
+      "path": "/valerie.vg/media/images/products/rbCcyZAA.jpeg",
+      "status": 200,
+      "type": "image/jpeg",
       "location": null
     },
     "https://valerie.vg/media/images/products/MCZybys3.jpeg": {
@@ -5200,8 +5194,8 @@
       "type": "image/jpeg",
       "location": null
     },
-    "https://valerie.vg/media/images/products/IQiJzENW.jpg": {
-      "path": "/valerie.vg/media/images/products/IQiJzENW.jpg",
+    "https://valerie.vg/media/images/products/p9KOdGMR.jpg": {
+      "path": "/valerie.vg/media/images/products/p9KOdGMR.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
@@ -5297,25 +5291,25 @@
       "location": null
     },
     "https://valerie.vg/media/images/products/nuBx3Hm7.jpg": {
-      "path": "/valerie.vg/media/images/products/IQiJzENW.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "location": null
-    },
-    "https://valerie.vg/media/images/products/2iwxJfT4.jpg": {
-      "path": "/valerie.vg/media/images/products/2iwxJfT4.jpg",
+      "path": "/valerie.vg/media/images/products/nuBx3Hm7.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
     },
     "https://valerie.vg/media/vial-render3.jpg": {
-      "path": "/valerie.vg/media/images/products/2iwxJfT4.jpg",
+      "path": "/valerie.vg/media/vial-render3.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
     },
-    "https://valerie.vg/media/images/products/FQQEWx2r.png": {
-      "path": "/valerie.vg/media/images/products/FQQEWx2r.png",
+    "https://valerie.vg/media/images/products/2iwxJfT4.jpg": {
+      "path": "/valerie.vg/media/vial-render3.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "location": null
+    },
+    "https://valerie.vg/media/astrovialsEEn.png": {
+      "path": "/valerie.vg/media/astrovialsEEn.png",
       "status": 200,
       "type": "image/png",
       "location": null
@@ -5332,14 +5326,8 @@
       "type": "image/jpeg",
       "location": null
     },
-    "https://valerie.vg/media/images/products/eGN1awpc.jpg": {
-      "path": "/valerie.vg/media/images/products/eGN1awpc.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "location": null
-    },
-    "https://valerie.vg/media/images/products/qTDCICT4.jpg": {
-      "path": "/valerie.vg/media/images/products/qTDCICT4.jpg",
+    "https://valerie.vg/media/images/products/IGHBBl9U.jpg": {
+      "path": "/valerie.vg/media/images/products/IGHBBl9U.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
@@ -5350,20 +5338,26 @@
       "type": "image/png",
       "location": null
     },
-    "https://valerie.vg/media/images/products/IGHBBl9U.jpg": {
-      "path": "/valerie.vg/media/images/products/IGHBBl9U.jpg",
+    "https://valerie.vg/media/images/products/IQiJzENW.jpg": {
+      "path": "/valerie.vg/media/images/products/nuBx3Hm7.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
     },
-    "https://valerie.vg/media/images/products/0rpZC3SJ.jpg": {
-      "path": "/valerie.vg/media/images/products/0rpZC3SJ.jpg",
+    "https://valerie.vg/media/images/products/eGN1awpc.jpg": {
+      "path": "/valerie.vg/media/images/products/eGN1awpc.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
     },
     "https://valerie.vg/media/images/products/OMB5aJxX.jpg": {
       "path": "/valerie.vg/media/images/products/OMB5aJxX.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "location": null
+    },
+    "https://valerie.vg/media/images/products/0rpZC3SJ.jpg": {
+      "path": "/valerie.vg/media/images/products/0rpZC3SJ.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
@@ -5420,6 +5414,12 @@
       "path": "/valerie.vg/media/images/products/eSUFrClw.jpg",
       "status": 200,
       "type": "image/jpeg",
+      "location": null
+    },
+    "https://valerie.vg/media/astrovialsEV.png": {
+      "path": "/valerie.vg/media/astrovialsEV.png",
+      "status": 200,
+      "type": "image/png",
       "location": null
     },
     "https://valerie.vg/media/images/products/apUliEez.jpg": {
@@ -5566,10 +5566,10 @@
       "type": "image/jpeg",
       "location": null
     },
-    "https://valerie.vg/media/siterone-tablet-500x500.png": {
-      "path": "/valerie.vg/media/siterone-tablet-500x500.png",
+    "https://valerie.vg/media/siterone-100.jpg": {
+      "path": "/valerie.vg/media/siterone-100.jpg",
       "status": 200,
-      "type": "image/png",
+      "type": "image/jpeg",
       "location": null
     },
     "https://valerie.vg/media/Procalut-Bicalutamide-main.jpg": {
@@ -5616,12 +5616,6 @@
     },
     "https://valerie.vg/media/images/products/8r0O7fQg.jpeg": {
       "path": "/valerie.vg/media/images/products/8r0O7fQg.jpeg",
-      "status": 200,
-      "type": "image/jpeg",
-      "location": null
-    },
-    "https://valerie.vg/media/finalo-1-mg-38981-big.jpg": {
-      "path": "/valerie.vg/media/finalo-1-mg-38981-big.jpg",
       "status": 200,
       "type": "image/jpeg",
       "location": null
@@ -5812,6 +5806,12 @@
       "type": "image/jpeg",
       "location": null
     },
+    "https://valerie.vg/media/47920-Progestan-Progesterone-100mg-Box-And-Capsule.jpg": {
+      "path": "/valerie.vg/media/47920-Progestan-Progesterone-100mg-Box-And-Capsule.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "location": null
+    },
     "https://valerie.vg/media/33897897_ae016cf679aa53f5741cbe93b9b49a701970e5a1.jpeg": {
       "path": "/valerie.vg/media/33897897_ae016cf679aa53f5741cbe93b9b49a701970e5a1.jpeg",
       "status": 200,
@@ -5842,10 +5842,10 @@
       "type": "image/png",
       "location": null
     },
-    "https://valerie.vg/media/images/products/swSgl151.jpg": {
-      "path": "/valerie.vg/media/images/products/swSgl151.jpg",
+    "https://valerie.vg/media/progestan-tablet-2.png": {
+      "path": "/valerie.vg/media/progestan-tablet-2.png",
       "status": 200,
-      "type": "image/jpeg",
+      "type": "image/png",
       "location": null
     },
     "https://valerie.vg/media/images/products/T42pXuns.jpg": {
@@ -5916,11 +5916,11 @@
     "_data/b5b4957916323173b4b4d3fd.png": "7ae7970f840aed600d0f8b6440df678084fb9407b687c84f753a077f389b92f8",
     "_data/cacdafdde5526cd392b44780.png": "6a988f93ffd5e5ac54ade7bb4d13d18dac8ab52c6fcfe18cf134fbc9525cde82",
     "_data/fadeab2e6995f84add3a3631.png": "d5e79a61f6f54deca32dbda02735a81023148ed33b1bd7a80423df3a5c6aaeeb",
-    "_mirror/resources.js": "eaf8aee409cd87b0ddca9c7a934771df4714eb1a5064fe172135bb7d0968d491",
+    "_mirror/resources.js": "166bdbe9f569963155ae4a8a0c953e02c11d5481dfb5f9c5173c2eaab0187e1a",
     "_mirror/runtime.js": "4e6eb76f556ffa19aeb138868a3e8703fab0d7f9857902d445dc423a0f99bb4b",
     "about/index.html": "d975870f39b83dad6f7903c9651fd87abadd2d1c1b4c6d559cc8dce7809e4283",
     "data-privacy/index.html": "7438eb9b73d80f272610ced38f127b20cfde7ca68dda5a8cd875f98eba08c6b3",
-    "index.html": "df04dc28e720243e519922e836e4bd6c5d1c328688499e5d3ceefe2f8f4cbf31",
+    "index.html": "8124c4eb92ae20420747c871f91a79dca6ef6d3b02ddfb0a2facf88bb8a1b869",
     "media/0038103_progynova-2mg-84tb_550.jpeg": "ddad167c3fd9d680d53fc0b0cdc0570cb1ef27d595314435bc22edac93c0777c",
     "media/0038676_progynova-1mg-63tb.jpeg": "8903e42a45cc72c740a5e758fec80840160742912b563bbd81185dad2804e7c0",
     "media/00816813_4.png": "8ea458bdcdf756710a809b3440a4acee92d415a0bb9d4e9582a4692bfca9b0c0",
@@ -6004,7 +6004,6 @@
     "media/images/products/0rpZC3SJ.jpg": "bb60de9b9d56839de21fd47ddd8ed35c6c3b0265b4ad8ccc5f13c1cb08166057",
     "media/images/products/1wvr77MJ.jpeg": "5d4c2d560e7a6afcd93f8569d11af587dacab792888b626390206f8d24df6f47",
     "media/images/products/2cOuni2R.jpg": "4ad23610f236c697f2d624da3544c162c975ebc06e2b1964f1c843ab8c2c1d73",
-    "media/images/products/2iwxJfT4.jpg": "1e15f9644e6057affbfec7bbb205b4f8266fc149a691df735d9af0f03c2459d2",
     "media/images/products/5BWbjXXD.webp": "a38674e27f1ab09f0ea6aa436dd2e2953de79cd017a624badd0ea3dc5eea273b",
     "media/images/products/8obMvrIu.jpg": "f26ce7df6b4ea1f31b4d9e72ee6b2cc3489a08f6cfc2f72e785dd75cc48cd8a6",
     "media/images/products/8r0O7fQg.jpeg": "6575469ba7ab6452bc70dcb767330e10f668e1a03cee03eca40e584d01a7aeec",
@@ -6015,7 +6014,6 @@
     "media/images/products/GmJ7wNPD.png": "f6c3efb36f19c055c6d6a8950aab502b79b8a531081978e26a1c7479e347a321",
     "media/images/products/HtT7ZLxq.jpeg": "dc27d22572f55b366fe639fa33f64cf5ed788f3fd26e97a09e64831aa87a1a6a",
     "media/images/products/IGHBBl9U.jpg": "82aaebc0089a07326f1d00d15222af19cceaaedcff027b1d0f9ab3fcf9ecead4",
-    "media/images/products/IQiJzENW.jpg": "1691b123e841d5af38a47e689245e13b8d784e9bee68bd5b63712c5f9777998e",
     "media/images/products/LWUX0DSh.jpg": "1c25e4d19cde89f936d7287c3ab918224c92354ebe751f48039da56f87211c1a",
     "media/images/products/Lr1MOgTh.jpg": "9117dd7ce741406257d998e23e3b110db75f8cff946f6dffb12a8e63d9ecb817",
     "media/images/products/MCZybys3.jpeg": "7e843bf9f6593e6324fb2d8ab51f748ff25a67d3264b2527af7e016d791c9e0e",
@@ -6044,6 +6042,7 @@
     "media/images/products/iEFGg7t2.webp": "25e086b538f52da69e54d3ee735cef3f3a5408048d06c6d1c10c4bf116045b68",
     "media/images/products/mE3m4pPv.webp": "d8ea7dd7ba536922c2bbcbfe402ad27007ae3805aa710c82d6eaa37ccc711fdf",
     "media/images/products/nsyL1Hup.jpg": "e4ea85d1e5bcaf8597913eef6c20fb13abf0ec6f734a981534cfafffca979b5e",
+    "media/images/products/nuBx3Hm7.jpg": "1691b123e841d5af38a47e689245e13b8d784e9bee68bd5b63712c5f9777998e",
     "media/images/products/p9KOdGMR.jpg": "90740029f4692bc3a2c29ede0818ff7187e01bb565020aba7fa825e0de601d84",
     "media/images/products/qTDCICT4.jpg": "cbb184fa529793a5b1f7b992da3110609075a2c177fb396c103c728b6f2e574b",
     "media/images/products/rM35d1JY.jpg": "56d3b495340c0edc60a58312ea8a57992b7ddb204accf99760a21b9113714196",
@@ -6066,146 +6065,147 @@
     "media/rugtnocth1eexaosduqq.jpg": "828f1fbf79c119fde4d4efe38fbf08a0bbf086dc746426dc68cfc3aa0cc2a81f",
     "media/siterone-100.jpg": "527a128585fb23cb6f6b412c1bbc1928b9903caa782785b1a7a88d857153b026",
     "media/siterone-tablet-500x500.png": "cc283ad1e28f986da641bc1b2a0db9a45de9948f569ae75f43fa2bb19c694372",
+    "media/vial-render3.jpg": "1e15f9644e6057affbfec7bbb205b4f8266fc149a691df735d9af0f03c2459d2",
     "media/ya4wz2whufq1kfqxkuvj.jpg": "549940677f43f463bf537c231247610ca21adec01a270f8eebeca14fabd27979",
     "meds/groups/bicalutamide/index.html": "34a6cf02a564710ecc249a6b310750690aa5706d31224db0a1e18b4b87ef3ccb",
     "meds/groups/combination-minoxidil/index.html": "09e78b76dc72e902fb11f7619851ce904972067aa8570f6f1b7e8504bd3a92c5",
     "meds/groups/cyproterone/index.html": "036c9df44832ebdfe158f44fcedc6acb0f754ac98926b1a71e3dcf2200204653",
-    "meds/groups/dutasteride/index.html": "0ec33af98e93c60daf970a47afffbf5b2d2c2da8d55bee49bcba7b3614fc288d",
-    "meds/groups/estradiol-gels/index.html": "26bed5db89c15270b2d648dae3b3c6dae7dbaf24ecd11b34233a06628289a872",
-    "meds/groups/estradiol-injections/index.html": "b6525ebe5d458930e4f99bdccf3501f4f13f1947ba624b5780a128df3e365b04",
+    "meds/groups/dutasteride/index.html": "c72dc944880ea612f46ebeb423c82860be7c14198ffb1ebe75e732561b1d5d9d",
+    "meds/groups/estradiol-gels/index.html": "2285f6a04b3cf8771d3e074e001f7857c36f89955297754fb59b7a51e7f23df9",
+    "meds/groups/estradiol-injections/index.html": "4359c20adfe8e5aee397854f657c8df56c627b93f5f4f35c82629ca9ccca5191",
     "meds/groups/estradiol-patches/index.html": "41e46982f749aed8c5ac50a26cb1e33544f0dab6c363b46c83487420f167e22c",
-    "meds/groups/estradiol-pills/index.html": "1386a38309e87a75c01e6c152c216d975e66652a90122136fe33c10c4c17d704",
-    "meds/groups/estradiol-sprays/index.html": "4b70af6d71a61392365e1ef6f07a32083dd49b437a73c54af1d3932c1552b288",
-    "meds/groups/finasteride/index.html": "8a3c0b7f86407060ff738b17c1a70f15a484e19d2b748ed3d97a54ead2ff2b50",
+    "meds/groups/estradiol-pills/index.html": "814bfd51737eda014e3c93863c7acf4d3d2f466ad0c3be6d118508288343b7af",
+    "meds/groups/estradiol-sprays/index.html": "13dfba03e8008477324b574c22fd4ccb7115304a0587cfc6be586a4b90280479",
+    "meds/groups/finasteride/index.html": "cc17516194747464f4a54ecd5333c7a55f8c813dc200895b6dfa6e7343721190",
     "meds/groups/minoxidil-10/index.html": "85671a51ba1aeb94cf798065a3ccb3d1247d4048381b62a709f3d52434505351",
     "meds/groups/minoxidil-2/index.html": "e09f65b2ebed812a05366e6c96e78d349d7a4a50411647e9f3ac03f4adb3f606",
     "meds/groups/minoxidil-5/index.html": "166249d383cd52cd5c377a7a6c107c0023ff2eaae4f30cd795106858292ab7c8",
-    "meds/groups/progesterone/index.html": "08950eccf486e8d6cd938609ce937d672079b5b3f57d801e0a9f1ce2e82648c3",
+    "meds/groups/progesterone/index.html": "eb876c6b53eda841a9e5106719fc58071bd24ae29eb99e4d2fe8bbb16de35990",
     "meds/groups/spironolactone/index.html": "4fcaf6a3ed987ad37c95f2f2440c33bdde94b69bfcd9fee2b25091d6cb0b3701",
-    "meds/products/astrovials-estradiol-enanthate/index.html": "382997ae0514073d26101ca00cfed9a97a597a26ec12f43e1dcd511150935ca2",
-    "meds/products/astrovials-estradiol-enanthate-castor-oil/index.html": "4ac30f6153961867fcd9817fbe44c6200629e0f267d957a3c19c800d46c53792",
-    "meds/products/astrovials-estradiol-undecylate/index.html": "1233a8e149127d469e639d5f9f13fb2bde9a7eade29d74a7c75909f4e5f17e41",
-    "meds/products/astrovials-estradiol-valerate/index.html": "4b96339da7c87b0848003dc9f50f8fa10763f86dd716e20db187e81d7d4ae4c8",
-    "meds/products/bicalutamide-binarex-50mg-x28/index.html": "59f2a3c84589f484c8af0d542b0bf1d90c86a7e7ac5bfcf558d597dc5e8906aa",
-    "meds/products/bicalutamide-calutide-50mg-x10/index.html": "6f5c8793af3e9d5b9b3aefd136ddf5da7802b0d9cbc0a5d9f834665e2c8af60a",
-    "meds/products/bicalutamide-casodex-50mg-x28/index.html": "8de6c067c1ecf77452a8377d2ed8c084852e7fdcbd3ca230a68344a958106e0a",
-    "meds/products/bicalutamide-castramid-50mg-x10/index.html": "3c20e1f73e5b2c5065845fbb6e649496e28b503c82467b130a632cfca4284dee",
-    "meds/products/bicalutamide-procalut-50mg-x28/index.html": "46d8373d64e1927e693353a49ce4312f129ab02fe1ae1afc10b9a1b3471a6e38",
-    "meds/products/calyx-labs-estradiol-enanthate/index.html": "f4288d79178e09efe61a830eb60abca0575196219c0e492aa7c7203ff4249d55",
-    "meds/products/calyx-labs-estradiol-undecylate/index.html": "21f771b3d141684f9707f3439d80a282599e7f7434f232afa31af9fee91939f6",
-    "meds/products/calyx-labs-estradiol-valerate/index.html": "6b306c67e6dc3e5d31075eef55cb99dad68576cb7933c84a4e465dfd401d08e7",
-    "meds/products/climara-100mcg-x4/index.html": "9fa4f5a4c32020d9ead3613b898678d6d5bc8ec929c8cb78e93b2e7ca171c6db",
-    "meds/products/climara-50mcg-x4/index.html": "3354bb850b309f15ddc03f093a9897762caa3e377a479f45fd5cac75122c7a9f",
-    "meds/products/combination-minoxidil-finasteride-3-solution-morr-f-60ml/index.html": "fe40be62baae0992b10ff1307872e51bafa0049c8ae00cd22e3cc59f9272a7a5",
-    "meds/products/combination-minoxidil-finasteride-brintop-f-solution-100ml/index.html": "be605ca012c07bf0423741dc1b2d69e1627404b67512b504517ca3a9ffdbb697",
-    "meds/products/cyproterone-androcur-50mg-x50/index.html": "bbee39731406f31cfe50de9506a9b4f386541aaa985fd6a79e2bc648d5009b60",
-    "meds/products/cyproterone-procur-50mg-x50/index.html": "3db83b7cc6deb5811d115729ed2d48270ddcbe7a70a3895a44ea7335714c9052",
-    "meds/products/cyproterone-siterone-100mg-x50/index.html": "a39ed290792345289dbdfdd99e25e77c2f98c75de5c19df4b5a3da6ef36f2a4f",
-    "meds/products/cyproterone-siterone-50mg-x50/index.html": "0c282029f8cf05d8d199928d967f548fd2c8f296ec7fea471b517b7aafcf3f19",
-    "meds/products/dutasteride-avodart-0-5mg-x30/index.html": "610d490973a9f8ce91c4f74ae397a92671a195d1601587ef72af369c4e0fab45",
-    "meds/products/dutasteride-duprost-0-5mg-x10/index.html": "1c99a5f86c222ba9d763b370ee12f36dcd31f61fd08d24c650263b59dd7c5348",
-    "meds/products/dutasteride-dutagen-0-5mg-x10/index.html": "0d0187e0ebee2178e4630e4a5a322ba1824d86a55c4e505661d93491b5220295",
-    "meds/products/dutasteride-dutagen-0-5mg-x30/index.html": "74ac3a887775131b0c5c869567e0c57dd0f18c0e5d9db6e306ce82480ec8188a",
-    "meds/products/dutasteride-dutaheal-0-5mg-x10/index.html": "c37258b209386003d690038957ed639f4c29cab1411877cc843c00ea8fc5bb2a",
-    "meds/products/dutasteride-dutanol-0-5mg-x5/index.html": "52194807d8d5dd86811f9fea4be53a487a73d64d87498c3b750fdd50aff3fc7b",
-    "meds/products/dutasteride-dutas-0-5mg-x30/index.html": "2fac6c7b2dc25c4cde419173d7978c29bd200c6b503712019f36ade734e77974",
-    "meds/products/dutasteride-dutas-0-5mg-x300/index.html": "631ae29f4becfa8e6436ef7435087914d826fe066f981a9059a981db26460cfc",
-    "meds/products/dutasteride-veltride-0-5mg-x10/index.html": "acbdca0df11149d36a667688c0815560fe565b8b9daa67055f505026147a3c98",
-    "meds/products/estogel-estradiol-0-06-gel/index.html": "cf9f8ae381b60e90d1711a170b3a5f6e87a452dc2abebc9bbe3da37a8287a088",
-    "meds/products/estova-2mg-x84/index.html": "eab3f16036287f770b17f0cda2e79ff2d5cdc8f49e0a3e86c632e0092f0cfd0e",
-    "meds/products/estrabet-2mg-x28/index.html": "011571c1704fbda4add6c57179a8329d735f2aa49358bdbde56b43ffe8008881",
-    "meds/products/estradiol-epic-pharma-usa-2mg-x100/index.html": "6fa94c387eb0a103a6b94f2ebc5d676c8a9fe953ac1d802d58749eaeca1b6e84",
-    "meds/products/estradot-100mcg-x8/index.html": "55feab889285971a4b0a6844e0eb890c9d961d9c854344eca88b3800b8bb4a86",
-    "meds/products/estradot-50mcg-x8/index.html": "bac03d97ebfe308b6907fa273a56418a1c72181f030a564c3dbcdda6f16b4b19",
-    "meds/products/estradot-75mcg-x8/index.html": "254093e8e634e486edb3035e5c08526897f9c39fbefd07b5ed8e6fa13222dc68",
-    "meds/products/estraheal-2mg-x28/index.html": "00c341b5752066d3b98c64bf5307426121c423fc4b343251cfd7bd9747707c40",
-    "meds/products/estrapen-estradiol-enanthate-pen-cartridges-3x-3ml-50mg-ml/index.html": "9212c97be0381a61daa8feca43d5f855419146a6e8654b5a29cb9259963d4e7f",
-    "meds/products/estreva-estradiol-0-1-gel/index.html": "907f863029fef82dfaa926f209d67ec692f04b7bb0bb66e645ae0c312ca2ef0e",
-    "meds/products/estrofem-2mg-x28/index.html": "d7ae89ce6b831e5842e6d5e6c0c9b3284b97a060a185d1a9cbc7b4b5a02125ce",
-    "meds/products/felicitas-estradiol-enanthate/index.html": "f9724319d9bef04c7d29ff55ddb2ac0f494e7e21d2e262c4194882452b2cd2e1",
-    "meds/products/felicitas-estradiol-enanthate-in-grapeseed-oil/index.html": "89667656c69a68d31fea10e3a465787ab1bd8d8d78a464b894de33e5818ec6a7",
-    "meds/products/felicitas-estradiol-gel/index.html": "141de7ba36fba607cdce4e999cdee43b47ab77ec9c95fc50b37c033e1fa568ec",
-    "meds/products/felicitas-estradiol-undecylate/index.html": "f78c159569276bf9a5e566072b72b9ea5dbf2372a2688360ff6a6852664e5687",
-    "meds/products/felicitas-progesterone-suppository-200mg-x1/index.html": "7d1bfd3bfe3470ddbc2cac76d88f5811b93725a3a67d2d1fa24ef5f72f72f6e1",
-    "meds/products/finasteride-finalo-1mg-x10/index.html": "4127c3a21262eea68c83d54f341f966be76664944852856cbc1e8dfe1c241231",
-    "meds/products/finasteride-finalo-1mg-x100/index.html": "f8764c83b00b1bd23cb55422195f20f7ae1e78fe729a508fd4862a39861f25aa",
-    "meds/products/finasteride-finast-5mg-x30/index.html": "ba6835f7d44b3e8d81532d61436376ac27b6a90e8cac575a5a8c9420cc68e69f",
-    "meds/products/finasteride-finast-5mg-x300/index.html": "0a489add5c55059cd7207e35f630ac8da27fe2b7b5c52e9d390ce8c4ecc1823b",
-    "meds/products/finasteride-finax-1mg-x30/index.html": "4fa85d077125e28f752502ce3e705cd068f6b062caaa3308b6470d3a2784bb66",
-    "meds/products/finasteride-fincar-5mg-x10/index.html": "a67615071e4015bcf9b4bded35768c3fd5f5f896f2b629aefd115fda00c43258",
-    "meds/products/finasteride-finpecia-1mg-x10/index.html": "4c69cd670f7dff78a81213adfcc5437f7a141d6072a03695762835920a33d100",
-    "meds/products/finasteride-finpecia-1mg-x15/index.html": "a5ed1b72774960d9f6391e893d540d60fe9157019d5b03a58e0d4382e6f7cdb4",
-    "meds/products/finasteride-finpecia-1mg-x150/index.html": "5007a9212408dd77c7484a4d5e205fe8104f6f74f21a70bc45cce604111319bd",
-    "meds/products/finasteride-healpecia-1mg-x10/index.html": "5e135cddfeb4db4d9c8b66e94cca582b5ee4e72a6fd45e97c22e2c93d820faed",
-    "meds/products/finasteride-healpecia-5mg-x10/index.html": "a9d39b34a95d2c632bb09a630a7655dca9da28df90a412bc5f6c6af29eae83db",
-    "meds/products/finasteride-proscalpin-1mg-x100/index.html": "2c797a3728af79eb59680c9444804b0e9be44d7386b8b6320cb8e6f6fc52cb8c",
-    "meds/products/finasteride-proscare-5mg-x100/index.html": "127063cc8a6611e44edf64b2ff41fc0e8a69c9edc72e22e48c35a3abd32a6b83",
-    "meds/products/finasteride-prosteride-5mg-x10/index.html": "6346f32a8d6d19a88acf44cc412d0d281344bd753fa84abbc785cd92ac411374",
-    "meds/products/finasteride-ricit-x100/index.html": "23d8d431dc4e936362492e2afc1e8447f4a9b4608cf958d5b434e7daeeca0aa7",
-    "meds/products/gynokadin-dosiergel/index.html": "bfb14095366a53cde6ba0d80175e74301be3615223a98cb770c76341f51677b8",
-    "meds/products/halcyon-estradiol-cypionate/index.html": "8fbee08153c80798efa387ac7e9e69fccf72cf5186067b7d008644f55a69a6a4",
-    "meds/products/halcyon-estradiol-enanthate/index.html": "07e23734282eda6dd17b355c73cfc9c62a6d8985a99cb7403a7aad85d38d452f",
-    "meds/products/halcyon-estradiol-spray/index.html": "9cbcd3a625fa43ba7d6d8dec64b28bc2285f843ed8f595d6b5a2bc1b0a530c8d",
-    "meds/products/halcyon-estradiol-undecylate/index.html": "6676d6786fd6e5fe11698611d4bad2552356d4d5f911e0eb76e321abfb29cbc0",
-    "meds/products/halcyon-estradiol-valerate/index.html": "aed01df0cddcdc0cf2b3ec11644b5b82af0abd6bbaae536830fa23f9e1535534",
-    "meds/products/hera-hrt-estradiol-cypionate/index.html": "29fd253b916c69a23eb97c0c55e1d2d595f39e7721204e711da2da5340048226",
-    "meds/products/hera-hrt-estradiol-enanthate/index.html": "362329d1c7a347f55779440dbd0195d940aa7995c3d8ca7602c1c9a467059683",
-    "meds/products/hera-hrt-estradiol-spray/index.html": "d5ccfca199f1bacba1c62c43ca9bdb891417de9e56187051cd2ed9d63b44822c",
-    "meds/products/hera-hrt-estradiol-undecylate/index.html": "c87604f94f2d7837bce301909effbd375e9e2f7b2368cc1e0e6cf4d225429ca7",
-    "meds/products/hera-hrt-estradiol-valerate/index.html": "b8f154586ca6490a12bf516bbdc7b17154026910cd35bb4d060413c4ad2423f6",
-    "meds/products/hera-hrt-progesterone-spray/index.html": "e3e7545afcbb28d1a903f6f7f871707469098183f74225585a0e3a21b2f64e44",
-    "meds/products/index.html": "b99f99dd7afc011c695505a8a96260f190b27636db9d0b6444eb85752b1f704a",
-    "meds/products/minoxidil-10-solution-hair4u-10-60ml/index.html": "d9ad0dac24e2e71c502194f9ed345ed763367a20c0655f8f256c0d03248326ae",
-    "meds/products/minoxidil-10-solution-tugain-10-60ml/index.html": "f77fac13ca60896cfdc119fef125f8c52b490c9e1ab8d5ed0f08ce7ebffc694e",
-    "meds/products/minoxidil-2-solution-hair4u-2-60ml/index.html": "d0a6dc142435049636f9bf4e033c526e54efc6d40bc8ae5765f8a028c936a670",
-    "meds/products/minoxidil-2-solution-regaine-2-60ml/index.html": "fe99e16699837ca2e9c4bd760a26f042446e4c3bcc7fdc47b6fe2c04e8b289af",
-    "meds/products/minoxidil-5-solution-hair4u-5-60ml/index.html": "aca78931e0a4b73f64cca9bc8172c9373cc3915471da85aa227d0674db8a0343",
-    "meds/products/minoxidil-5-solution-mintop-forte-5-60ml/index.html": "01d1a6bdbb97d92d000e577999c80784b29f0c093ecd8d98722191291899c9f9",
-    "meds/products/minoxidil-5-solution-regaine-5-60ml/index.html": "9e08ad9744b775c79fe7d95bae386644623ec2458350cb05b0edc74262a98b93",
-    "meds/products/minoxidil-5-solution-tugain-5-60ml/index.html": "b1ee39d13305537f9c4264afcb6cc0477e82166ca736029c64bb3c5eb0a5fa4f",
-    "meds/products/otokonoko-estradiol-cypionate-10ml-40mg-ml/index.html": "26526d8c3be24958ac6acd6d381aa353c4c221675fd707c06af0f3167a787624",
-    "meds/products/otokonoko-estradiol-enanthate-10ml-40mg-ml/index.html": "a1746655d21220525982e5b4159e070879685dd2a1e80045f73ee13d09b83481",
-    "meds/products/otokonoko-estradiol-gel-55ml/index.html": "2c43bc2d2c46396f25eb563f33f7ec624c10f6bfe45748a7220e843d08d03957",
-    "meds/products/otokonoko-estradiol-valerate-10ml-40mg-ml/index.html": "4b6c922bfe12996737560e5e1f912066f9e77d46e85030ccc71d918df8785813",
-    "meds/products/pawsnax-estradiol-enanthate-10ml-40mg-ml/index.html": "4aaf37b1c93a898255d2eae6e5abf09b98b8b6c3ff9033428cf6351adb7dc615",
-    "meds/products/pawsnax-estradiol-enanthate-2x-10ml/index.html": "94131f7160d0d5de0df554d87dd267cb01f74eceff76f460a92b26c3dc69d213",
-    "meds/products/pawsnax-estradiol-spray/index.html": "91ef71e4bdee43322ad69748fb9e9c62604b0a7e671450a93eff8ebe90e71594",
-    "meds/products/pawsnax-progesterone-spray/index.html": "a3dfa497f1aa18507b004bcb614463c6bb5e276d36203d358a10ab1abc43bee1",
-    "meds/products/progesterone-endogest-100mg-x10/index.html": "6171e42c54e3c73a46fc014d32ab1e7f1f058a65f169caf3373abfccca30dbf3",
-    "meds/products/progesterone-endogest-200mg-x10/index.html": "88ff4e4216e19bf1af789b80b1314d662797552cec07fce5415dbc5c402e1392",
-    "meds/products/progesterone-gestheal-200mg-x10/index.html": "81268bff883a9d2faad8e4aa6afbc01e7a55fcdc289cdc159fce154f07e084e3",
-    "meds/products/progesterone-microgest-100mg-x50/index.html": "e7a08953ecda8a9980010c1671dc52b0ebad900282ce0744fdd9c96e9cce7328",
-    "meds/products/progesterone-microgest-200mg-x50/index.html": "243651741ebd02d71ab76ee340b7fbb787885af2b2009941bba8dfeaf2cba400",
-    "meds/products/progesterone-progestan-100mg-x30/index.html": "893997f12c198bc4a6517210492534834cf8746fa684348e6a3d4162ff0af7b5",
-    "meds/products/progesterone-progestan-200mg-x30/index.html": "9275ebf556165919d3133258311aa62287e76b4c2f4161d06f597963767a8ef6",
-    "meds/products/progesterone-utrogestan-100mg-x30/index.html": "61383dbcaafe70d413c644cf4243982483dc010050a305152ecdd4a238b046a9",
-    "meds/products/progynova-1mg-3-pack-x72/index.html": "f856889af42f3fbf061503d4dc19db79fe4c4189b7a7b2fcab34fa7633eb48fa",
-    "meds/products/progynova-1mg-x28/index.html": "405dadde6b0d68fe4d07b239499d77811e3533ddb104acacc07e60642f90f8b9",
-    "meds/products/progynova-2mg-3-pack-x72/index.html": "3ee2c23358e95e10b9d43b440ae79d35b81dcc30e77559e0f83a830f3ac47bbf",
-    "meds/products/progynova-2mg-x28/index.html": "abe0e3ed98542a93b02f923ad9b714a7a99807e725035075b7e211d18204a0ff",
-    "meds/products/proleta-hrt-estradiol-enanthate-10ml/index.html": "75f8c12e50a2fc55fe7413431d72c285aed3629104edc79e9977e745c2772309",
-    "meds/products/proleta-hrt-estradiol-enanthate-5ml/index.html": "4052d2e1d69cd956eb59a9e1f8f174cacf1f2523712172d4adc002ca8e34965d",
-    "meds/products/proleta-hrt-estradiol-spray-30ml/index.html": "af92dee6949bcdc08b89da73d2aed45b81df8e8106bc2cd5f6990fd18115ec64",
-    "meds/products/proleta-hrt-progesterone-spray-30ml/index.html": "bcae6f91d691c0d16d09a6078f57c1a26ee6902e93a6f6eef8e30d43c1dd823e",
-    "meds/products/sandrena-gel-sachets-x28/index.html": "90cca5617573c1068381a084073ff3ad68efe5c398e07d03765da28a9664149a",
-    "meds/products/serapharma-estradiol-enanthate/index.html": "96af424bfdf43da411fc19eafdf622a831961a614dfaf87f3cea97b3f9b9e971",
-    "meds/products/serapharma-estradiol-undecylate/index.html": "9bc71520124eb5f8a871d366ed9b3dd740e810d1857db7b3aba6a681b4649f62",
-    "meds/products/spironolactone-aldactone-100mg-x15/index.html": "086f65116ec6099a2f666420603b3eda365fa4222419c1ca609f4d056d97f158",
-    "meds/products/spironolactone-aldactone-100mg-x300/index.html": "b21462227fa59f20075613b1ea2c696a07558d0b21733dc9296cdb9dd8c0b466",
-    "meds/products/spironolactone-aldactone-25mg-x15/index.html": "31c47e8e510966eb5a7eaf30397b28380c1969830a264009d8fbb93dcd97863b",
-    "meds/products/spironolactone-aldactone-25mg-x450/index.html": "ecf6610e96e10a043f0f193b0b30540f89a77cdfc8163e1e1803914f360ab549",
-    "meds/products/spironolactone-aldactone-50mg-x15/index.html": "ec443c1d236183df770581b80c8b38d2a0ba3c1cd106946aaf1e7ce2bb79bf7c",
-    "meds/products/spironolactone-aldactone-50mg-x450/index.html": "bf3e9cc8cddd9977403d3addda52248ad4db9689bdfc784d95681957db98532f",
-    "meds/products/spironolactone-spiractin-100mg-x100/index.html": "a627105fd280cd89461b933dfa1aac867477e441f8c8c9d1516fce171b0f9655",
-    "meds/products/spironolactone-spiractin-25mg-x100/index.html": "7a39c3c3e3be79746118b5fdc11c19d19cef24b768567830c5542b71b2bd2d49",
-    "meds/products/symphony-labs-estradiol-cypionate-10ml/index.html": "e4109b5c4185fb554ea19d2e6f2c4f168c9a7f1b12724ba734d9369f14479926",
-    "meds/products/symphony-labs-estradiol-enanthate/index.html": "425e92b8c6f7222da1533999667ad2d98060a0ba4e105cdf19ea86b2a914ca57",
-    "meds/products/symphony-labs-estradiol-enanthate-10ml-castor-oil/index.html": "c23c7030ca66f5970980a0fbbb37b36ee4820cfdfc60bc1a57e83e8600bd43bb",
-    "meds/products/symphony-labs-estradiol-enanthate-5ml/index.html": "802a6a562b04851c0dac56aad033ca667382301bc41fa86bea90ddf93175f16f",
-    "meds/products/symphony-labs-estradiol-spray/index.html": "b55b3116ff6744d1d237855b8a8462d21ae5a95c3e5dc4ff02295da72e9bb2a1",
-    "meds/products/symphony-labs-estradiol-undecylate-10ml/index.html": "a1a7d06bf5063b9fa65d63a189e154bfa4f8fbbc4653044812f738b62255afa1",
-    "meds/products/symphony-labs-estradiol-undecylate-5ml/index.html": "2021b9ca1c7da0861c76833477b7664b9f66de4ce7fe05fc32a54ce4614eef47",
-    "meds/products/symphony-labs-estradiol-valerate-10ml/index.html": "ec870508698b64ce12d2ae0f5be2ea5865133ab7688140537d11216c646c0ecd",
+    "meds/products/astrovials-estradiol-enanthate/index.html": "c86e2a0e3172a87ee4b327df89bf3da78e6019b816467687975834a5917675fb",
+    "meds/products/astrovials-estradiol-enanthate-castor-oil/index.html": "f514182eb671600d735f25f2cfd3168470287adc2ede6b3ccfa604d3a96219fd",
+    "meds/products/astrovials-estradiol-undecylate/index.html": "8fbced0ce04a2ba80f65dc783c4267e39a2c7b5e558539ed13f91defa632f281",
+    "meds/products/astrovials-estradiol-valerate/index.html": "ee54a2aec12a4d4974a95c096c2ea987b21afbf6046f2ff759a7a58b5e381730",
+    "meds/products/bicalutamide-binarex-50mg-x28/index.html": "c45f0b7bb914d71f6c75415599f01797c2bea3b42415403d711141ebf7637272",
+    "meds/products/bicalutamide-calutide-50mg-x10/index.html": "8030ce0074afd8658332e6c4aad1cb500cb15766e12fec781dd6ef4d885cf300",
+    "meds/products/bicalutamide-casodex-50mg-x28/index.html": "5ff03ad2ae4a358a71c6abcf95f3b3a5d8d9af38d971b796f2f5acb04753b4ad",
+    "meds/products/bicalutamide-castramid-50mg-x10/index.html": "f16155c8b8ce71f0c5f3fe968d6aa93a165d07040f9ddde8e384c98fb1d7d1d4",
+    "meds/products/bicalutamide-procalut-50mg-x28/index.html": "7317579aa52491cd1edad3b1551db04f43a898c5a685be58ba20c489f916a1b3",
+    "meds/products/calyx-labs-estradiol-enanthate/index.html": "10ad7ed6a12c2f0a1fbc52506ef6c5c86852f87bffed7b3b92947d026150695b",
+    "meds/products/calyx-labs-estradiol-undecylate/index.html": "a72cc02ac6f01afd94f3575b969685afb82b58e46c13540aca76952decf77e50",
+    "meds/products/calyx-labs-estradiol-valerate/index.html": "aab531e963cd75f91e96b89abb7563a69c24814be6e2a5000826201607f5e0db",
+    "meds/products/climara-100mcg-x4/index.html": "853c2ba2fcdbb2ebc0ae32cde49903ac56e6372f413b3c1423ed734b067fd15a",
+    "meds/products/climara-50mcg-x4/index.html": "84f217bdd873fd9a614c709de837c1ddc53af72be5d298b6f473cdb63c56a0c4",
+    "meds/products/combination-minoxidil-finasteride-3-solution-morr-f-60ml/index.html": "b1eadd98a5da723b7e7901f9717c1664ff5724d67947237a70d599bfbb1fba45",
+    "meds/products/combination-minoxidil-finasteride-brintop-f-solution-100ml/index.html": "5a3a569447987537399f33f3bbcd7c378deab8e8f3dd12b2ebc674d7da6dd097",
+    "meds/products/cyproterone-androcur-50mg-x50/index.html": "eeb3cd0ea25e421e93b4ed260e52a9cac89a8e6c9106f469ec29904ec9236058",
+    "meds/products/cyproterone-procur-50mg-x50/index.html": "1c60062d9c871c3e3f6c05a599ea9a0f2aa8225bf94082f87591155ec3d96c69",
+    "meds/products/cyproterone-siterone-100mg-x50/index.html": "86ca8b43702802018de65d607e66479782c80db6c8279663d998140a02ac4167",
+    "meds/products/cyproterone-siterone-50mg-x50/index.html": "afc2934c41e92c929fda2f9053ee9f4520be29da42896f01393793d6b08ed531",
+    "meds/products/dutasteride-avodart-0-5mg-x30/index.html": "21117ad65c6960c291f75cc5ddc0c50da2192329f58a9c33172bbb8fabf3dc7e",
+    "meds/products/dutasteride-duprost-0-5mg-x10/index.html": "10a09d4304bb07068e0f9dfb0778a06d30f1187fb6acaccbb480ba617334f880",
+    "meds/products/dutasteride-dutagen-0-5mg-x10/index.html": "e4d088d19dfeb98889590ca6f2098871ab200fa8556bed2486c19dfba655b1cf",
+    "meds/products/dutasteride-dutagen-0-5mg-x30/index.html": "471a8371abea3b3c22cab66e5fd5cb1b52cec0cc9e569e20b8c07e699ba94d23",
+    "meds/products/dutasteride-dutaheal-0-5mg-x10/index.html": "95c2fc99207a723f3ab4956980913d93788732be05fcc666b21dd119cfe25fe8",
+    "meds/products/dutasteride-dutanol-0-5mg-x5/index.html": "61845f59cd40b3e5dab80448d81f8bf38d7b15db9f8e353d72765fc41da51097",
+    "meds/products/dutasteride-dutas-0-5mg-x30/index.html": "ad1d51e67e831e1130dbaa0b4ec08d098749b8345ec2812017e7218503fd5e13",
+    "meds/products/dutasteride-dutas-0-5mg-x300/index.html": "6270dd979d66258fb31e0b20ed29e625ae35c0e58cfd593daf51772392e566f7",
+    "meds/products/dutasteride-veltride-0-5mg-x10/index.html": "71f16948a730b29c93bd5e3c7ba386ea789d1b13433a928389b8d5c13a10e791",
+    "meds/products/estogel-estradiol-0-06-gel/index.html": "85f5f2afb7be5e39867fa9b7fc4e4f4fe077400360e4bcd1bfdf6e1b1f4b9a56",
+    "meds/products/estova-2mg-x84/index.html": "a51d237246df64e0547d2cf9067ca5a3f488a20bee9fa6b94e565dbd2191b234",
+    "meds/products/estrabet-2mg-x28/index.html": "95bad0420e5f13f5b22cb03c173a5b1a609dd17588e8f4711aaaae1544c8503f",
+    "meds/products/estradiol-epic-pharma-usa-2mg-x100/index.html": "ad02da3e594751adf52f7022f091aac3c7a571652668ce10c644f3fef84f1645",
+    "meds/products/estradot-100mcg-x8/index.html": "27d5304cf83e6ba1402ba544d0f5479a6937a6d71e68d6a2966bce10b21c8a98",
+    "meds/products/estradot-50mcg-x8/index.html": "76bdded9d1e02b9cc0823ed45ac9e85cbfbba0d25581580de65ed863c0542123",
+    "meds/products/estradot-75mcg-x8/index.html": "1951bf01e92d74713a94b7de96bf1754bdf8aa68395e5ad936d5a8394d6ad680",
+    "meds/products/estraheal-2mg-x28/index.html": "0296cd94ea10005942f1450f80801deba68d76e20058f2fed392314c26952546",
+    "meds/products/estrapen-estradiol-enanthate-pen-cartridges-3x-3ml-50mg-ml/index.html": "1a59d3a9bad45679052589eda493f1ff38b1df2a60954d944f649cac449b960d",
+    "meds/products/estreva-estradiol-0-1-gel/index.html": "37185765b5245bb14532a4dcee8831d31b0b4cb8934a49a621fdbcad1e744000",
+    "meds/products/estrofem-2mg-x28/index.html": "e4a582dfefc912052326aa61f0e9d21414e793e15542e9cb74799c35f02867b9",
+    "meds/products/felicitas-estradiol-enanthate/index.html": "063debaf31297536483f06755ecf7c08d61d5fbb5d01d8c423ef5861bf3816e5",
+    "meds/products/felicitas-estradiol-enanthate-in-grapeseed-oil/index.html": "8357f0a6f380992549d09434f5c3a5d87fb2f2f26c912aa92a6555d2f48eca18",
+    "meds/products/felicitas-estradiol-gel/index.html": "3f8c3e82b5e712b95f5893d1024153a85abedf9cfcb426990e8c4bd2645c238c",
+    "meds/products/felicitas-estradiol-undecylate/index.html": "1bce38b53ac6fb1eeae8ac1f99876e338031b29a4e4a258abd7d972485f22bac",
+    "meds/products/felicitas-progesterone-suppository-200mg-x1/index.html": "bce5b922628184ab30114d7326b89655aee3fe2559642673d56b708cff989e11",
+    "meds/products/finasteride-finalo-1mg-x10/index.html": "758db32fd2eebe2f1873cab1f18267420ef95a50b0c3032e6c03bde89ace98f4",
+    "meds/products/finasteride-finalo-1mg-x100/index.html": "472c893285f5553f543f696999aad124f653283f1ec74d33ba1aad3ab206a9aa",
+    "meds/products/finasteride-finast-5mg-x30/index.html": "018f6fe3033a3ad0ca7c876ce69106ffc2ceeab4fa7478e906dcc3350b82ab7f",
+    "meds/products/finasteride-finast-5mg-x300/index.html": "2da2e7e5e76db8d4680bc45f96f4a6e56fa78f07574273131f1d317d31bd35f7",
+    "meds/products/finasteride-finax-1mg-x30/index.html": "0436c54f7852de8d6de7460b1b36aedfcc0cfdafdc9d5d408f2e79f6291ff0f5",
+    "meds/products/finasteride-fincar-5mg-x10/index.html": "720b7421ae806c8d816afacdd453067d1c563215736a92ccb0b098357b92cb74",
+    "meds/products/finasteride-finpecia-1mg-x10/index.html": "a4555d661f31c9435a53edc0820fabaa5cd52204f49c0365eb6eaf00b91e35cf",
+    "meds/products/finasteride-finpecia-1mg-x15/index.html": "d1f1019239356b99d0e780039f50ac5dded603752f5c67e58f95d5b3bd9ca1df",
+    "meds/products/finasteride-finpecia-1mg-x150/index.html": "adea2b689f7eacb3261f33f431beaa7149ce3768172515f378e8e30d7c2ab6e2",
+    "meds/products/finasteride-healpecia-1mg-x10/index.html": "4461d274e0df7106b2db34ae04327df4da46a774c8a6e157821bc8a8cff57dc4",
+    "meds/products/finasteride-healpecia-5mg-x10/index.html": "430a33340c3e098645ff62f66f27863711372c29f510a35480f8ab9c6f1bb2bc",
+    "meds/products/finasteride-proscalpin-1mg-x100/index.html": "6bd5421c66bdedf8bd0a3908b7466eb82a1d8c0b55deaeba7b46de77238302ab",
+    "meds/products/finasteride-proscare-5mg-x100/index.html": "7a4a08f190659a20cc03f84f5b796768c22e49da0adbf5b94845c21d3ec27784",
+    "meds/products/finasteride-prosteride-5mg-x10/index.html": "9eb86bd74c7b57a0d240f0bcdbc922b0a06b97a77c67999d906a08d99dbc82d9",
+    "meds/products/finasteride-ricit-x100/index.html": "a38f4a30d1d50f35b6f682c138ea7d7b8a6db08f0ff21e84738f0dd451f27810",
+    "meds/products/gynokadin-dosiergel/index.html": "9ffaf10b69a952837fdcb0bc5dc064cb184ec191c876ac388c614923a1fef496",
+    "meds/products/halcyon-estradiol-cypionate/index.html": "81c8c80bd59340f60b59d47073924c266c7fbb89c8f06873a81f4daa3add1a94",
+    "meds/products/halcyon-estradiol-enanthate/index.html": "165d81aae3166da2fb30ef165810af4f9e83fac5cd573c0e04050bdacba61ffd",
+    "meds/products/halcyon-estradiol-spray/index.html": "b42dfee84c1fc876e4bacae3cb17d81ee57b91103db7410a1c8db997aeb85fde",
+    "meds/products/halcyon-estradiol-undecylate/index.html": "b632293fde1bbe161bc553c107ff4cca182d3651a1296fbc005bfea4f4da229a",
+    "meds/products/halcyon-estradiol-valerate/index.html": "9581df14b20a99a9ae60f9a63fe1c41aa07ac9041ff7c5ae0781fc427ea2a8af",
+    "meds/products/hera-hrt-estradiol-cypionate/index.html": "fc052f29030ea2e7e4a6ceb7c17c531ad0a68b52902e8e0530499c70bdc97d9e",
+    "meds/products/hera-hrt-estradiol-enanthate/index.html": "7f6c926a2d01c493fec710d4092da2970bb09de20b099406e27823a43e41f796",
+    "meds/products/hera-hrt-estradiol-spray/index.html": "c1a016c83467aa2c1652825180040d30c702c829f42961bdef9d5971c08c86d9",
+    "meds/products/hera-hrt-estradiol-undecylate/index.html": "6c6e2e72e8ef775d9cce1d8eef924fd6a6896e6d15fbaf8eefa6187467c01c03",
+    "meds/products/hera-hrt-estradiol-valerate/index.html": "045dad836d02ff7c8d189dd9231e26702e5c23e9e451395cb7d56ab8a0bf4430",
+    "meds/products/hera-hrt-progesterone-spray/index.html": "e159603dc04949b6d112349d6fe2a59f5d5f51d35e4d7dc93db95f1af2a0d932",
+    "meds/products/index.html": "926901a551608ed53c8cafb5d8358e438421d0900c52261676a8fbb141a5f110",
+    "meds/products/minoxidil-10-solution-hair4u-10-60ml/index.html": "0d624cade7460b1581c5608001d4ca960c395722b627a3a541b5c2164087f8a1",
+    "meds/products/minoxidil-10-solution-tugain-10-60ml/index.html": "c97fb7755d72358d11448bbcab25442e03c8502d3f35781895edaa7f9ee58100",
+    "meds/products/minoxidil-2-solution-hair4u-2-60ml/index.html": "8bb11b0edc513a1c5cfa7acf92d03c66162c0350fd8931b87e80e27bf4f71b03",
+    "meds/products/minoxidil-2-solution-regaine-2-60ml/index.html": "68ab62236ec1cfe2cac00495fa3434b0cd85246526aac4aa421b9aa7e9d681a8",
+    "meds/products/minoxidil-5-solution-hair4u-5-60ml/index.html": "084cfc8ee0b6434ba3d7cda084ee210fe71b6e892be63177b8a3c820271a1e3a",
+    "meds/products/minoxidil-5-solution-mintop-forte-5-60ml/index.html": "70a35b01cc0ff8fa642052d4dc1d1b4b8843bd66c7dff6474c730de4cc95deb1",
+    "meds/products/minoxidil-5-solution-regaine-5-60ml/index.html": "68a8cc9e020abff5154778633c33dbcd94a8a0d03e75f74d66d2328244ec3544",
+    "meds/products/minoxidil-5-solution-tugain-5-60ml/index.html": "150e8e3803c9f8cd5e3b5fc4448fcd032b14dc201f328f17095a74be003c7423",
+    "meds/products/otokonoko-estradiol-cypionate-10ml-40mg-ml/index.html": "256c4051108be3ee7000b0e7a407ddb4abc26c9292e1869a20f0456aafa3e30d",
+    "meds/products/otokonoko-estradiol-enanthate-10ml-40mg-ml/index.html": "891888edba94e2c33296d680f056379c23c043bdce70caeef4ed346dd40134a3",
+    "meds/products/otokonoko-estradiol-gel-55ml/index.html": "7ed4e98b201a13c43bd2fc61da546d39828b37d9331d9cd2838997e72c4a7872",
+    "meds/products/otokonoko-estradiol-valerate-10ml-40mg-ml/index.html": "544c49b108fdb742f6be3674fb2678c36225bfd3e8b18828bfdec48cdf89e134",
+    "meds/products/pawsnax-estradiol-enanthate-10ml-40mg-ml/index.html": "67d358d85b8af3b219c75d064c18a832a55501c2ae8c4aca426cb335e9b1b74c",
+    "meds/products/pawsnax-estradiol-enanthate-2x-10ml/index.html": "ccb67a7bc5681c3f280d76672a1109b70bbf06c21b54a9002d180bdf4d19d038",
+    "meds/products/pawsnax-estradiol-spray/index.html": "81aaa204e986aed51ce1d4a812c03814df160dbf2d78f51d84936287fe0532ef",
+    "meds/products/pawsnax-progesterone-spray/index.html": "0948e0db55f8ab9a4365b0c7b313724b8905219b549da9e5c81a984fa2d4e2a2",
+    "meds/products/progesterone-endogest-100mg-x10/index.html": "f4360ff972703a0581e13dba994dd4e56dd99f366faf90bbe22ff802dfe2e051",
+    "meds/products/progesterone-endogest-200mg-x10/index.html": "739d88ebf42a23aaa5131aac45dc348859b7fc35bb1f02bc387e0e601c5be3e5",
+    "meds/products/progesterone-gestheal-200mg-x10/index.html": "66ab57532fe853ab3b4e0aece4a85722f30f7c71afed67a0940de9f17f47d96f",
+    "meds/products/progesterone-microgest-100mg-x50/index.html": "6668c58aafeb42999d64533b124e50db03b8c37249fc5491ab625967dcd5d6d2",
+    "meds/products/progesterone-microgest-200mg-x50/index.html": "d2acafcbd7e3fed7695ecb8d6f877f435f2391709f0fe55a2829d8d2305f0285",
+    "meds/products/progesterone-progestan-100mg-x30/index.html": "471c98938099ca350edcd5e9c188213d24c871ab343729c8c7ee56ad1c9d7236",
+    "meds/products/progesterone-progestan-200mg-x30/index.html": "40cab085f082472e3d6a90f2cbd150371a2618bf610693a86f40397ca8f95418",
+    "meds/products/progesterone-utrogestan-100mg-x30/index.html": "9bc61485fbdcada8bd6563de12c1e3d27600a3357a7657e46fce7cec86d630e2",
+    "meds/products/progynova-1mg-3-pack-x72/index.html": "44d9d61ccf8e71cee04f3d20b55242468f2670a3e377c2f90bf55c49a2544196",
+    "meds/products/progynova-1mg-x28/index.html": "ebe5ad6d033c6cf1a72306ae47ff7ea5cf6bce2b06a67631be8ce542c3cc762b",
+    "meds/products/progynova-2mg-3-pack-x72/index.html": "b5f630e9fdf0526de2c41fb3b517ef35035158f1523a9429801b4537e0b827e4",
+    "meds/products/progynova-2mg-x28/index.html": "cb6ffeb15039927f4af6c864b49b63cf324369a086dddeb2297c048339102e03",
+    "meds/products/proleta-hrt-estradiol-enanthate-10ml/index.html": "36e880aa14a120b523f611854c1ff0b8b6407ebbce19d4cddbe923248e64c611",
+    "meds/products/proleta-hrt-estradiol-enanthate-5ml/index.html": "2e05f497fe03536db38dab96446a68aaaf17a5272c532010d8f681a28a911d55",
+    "meds/products/proleta-hrt-estradiol-spray-30ml/index.html": "0dfdb58189851e07dbb0fe5da194a2c09690d50ff4581a152073e968e583aa22",
+    "meds/products/proleta-hrt-progesterone-spray-30ml/index.html": "5ce2bc46e98c5ee86490792458628e1570f048ffd1e6f6a82563b5a4e5cc51b8",
+    "meds/products/sandrena-gel-sachets-x28/index.html": "248ff5503c22875259d5003dcbeabd15c75b7207e73553dfa0e40a6f7e38eaf5",
+    "meds/products/serapharma-estradiol-enanthate/index.html": "e48a639544f5a402c7e57899ebf146798fb10ea58fbbc50006a2693b799851bc",
+    "meds/products/serapharma-estradiol-undecylate/index.html": "0d6b6880ab46f1595b3dc2adb769dddbc6bc44dd6524fd6a35d8cb3207969355",
+    "meds/products/spironolactone-aldactone-100mg-x15/index.html": "12d96f1f1576911bb2acf882b0fc04647c5e1f3c56c19c575723f5bf06635d59",
+    "meds/products/spironolactone-aldactone-100mg-x300/index.html": "959a0e2fb53f40fbb4fe4f29d3a5ad23b80bc3ab038a6136f4dbf23d77e7f769",
+    "meds/products/spironolactone-aldactone-25mg-x15/index.html": "4e307b3555d0c8c101e55c58abb3cf6f4923243ec0378f17eab3e45720a6fdeb",
+    "meds/products/spironolactone-aldactone-25mg-x450/index.html": "3a041ae8c3ac7cf552f6923efdec232b3f35c67bb87b70ef8d2d4cb84fcfe841",
+    "meds/products/spironolactone-aldactone-50mg-x15/index.html": "51010e61850c2f47364521c12e3afd2e503f69ed797a1b6bbb20b723be10ab6d",
+    "meds/products/spironolactone-aldactone-50mg-x450/index.html": "2b5b085993b6e940eb1c8c215bd05d5c5766b83b314911b8031c2417b98fe9c5",
+    "meds/products/spironolactone-spiractin-100mg-x100/index.html": "df9466cca0a5d54f4ef4d460ae4f7931513a99ff9d340a6d5be26ae46f3f4b04",
+    "meds/products/spironolactone-spiractin-25mg-x100/index.html": "e9a3bddc08d8eb68091582802a6a28c6f6a5cf12111829ec4556cb959fb09017",
+    "meds/products/symphony-labs-estradiol-cypionate-10ml/index.html": "f3d8957c0774c37ce2c367407966d5601622bb405b03805d899c9fb3e89ec5a1",
+    "meds/products/symphony-labs-estradiol-enanthate/index.html": "68467529cec5ca0357ceff6b265a91e2a563bf00c3b90533ae4e914a43283b63",
+    "meds/products/symphony-labs-estradiol-enanthate-10ml-castor-oil/index.html": "3c42eff5b3a840eeb3030e9910c92dda780a8fb710cd986a9dd014efc7fe8617",
+    "meds/products/symphony-labs-estradiol-enanthate-5ml/index.html": "9af4157db4e5f98dc4d1a9525694524a511920963f8ab7c7ab7ca16f5a76cbdc",
+    "meds/products/symphony-labs-estradiol-spray/index.html": "e609f00a362a838e1ffcc3a5ce8e04fa4b1a4a9b2352b6ca8421c5e741d9c938",
+    "meds/products/symphony-labs-estradiol-undecylate-10ml/index.html": "d12cb3f089ebf74151a607fc8c6016d28dd13537a7baed5379385542f20a6430",
+    "meds/products/symphony-labs-estradiol-undecylate-5ml/index.html": "91a6a5735cbddf2eb022c813c5938076383f059e7d07e156319dc0f5b6050587",
+    "meds/products/symphony-labs-estradiol-valerate-10ml/index.html": "90287d395b2014baeeec3c8fb58a9cb7fd6308f88c4665cac5e22ee4f215d691",
     "qr-codes/index.html": "49cfefe77dedbadb7de003576423ae29a3019f7832ea1d28b23a42b2ff7c3080",
     "rebrand/index.html": "053c91b1331ea68ab65cd8a4c5df3087d22f44bfbff816891999ab0a6888b707",
     "resources/index.html": "a7c67a98a82c59710d6704d58fcb008d346bb5ac3e974dde5bf019f85e6e35d1",
@@ -6784,59 +6784,59 @@
     "static/js/theme.fc14c8d511c2.js": "26d1e07d1791b02a50eb051826a5b91c3f508fb554471ce234841e51d341241c",
     "static/meds/css/stockchart.7ef8448fb108.css": "ff546387d1c5a15899ab19c3240783866dde3ebcf21b55307f4c57161b7b239e",
     "static/meds/js/pricechart.c83941d8d4cc.js": "4597ad6a51dd418ba409d31075eef54c6ff22e86e17a76c0153c9c1b2e4b9f74",
-    "stores/4nrx-pharmacy-uk/index.html": "e242ac4a9b02ce5f57762b815908fd48a2c52e08d81169e8fec10ff60f71e71a",
-    "stores/4nrx-pharmacy-uk/reviews/index.html": "46b0f685f2a7dae995c2e4ad161c3f2f1b70bdc3884fac7f1adda4feec0ff222",
+    "stores/4nrx-pharmacy-uk/index.html": "1879e4ee106c36f05cae7cf0e6320d62f1c53b54a42bc66609e432179a6ff4dc",
+    "stores/4nrx-pharmacy-uk/reviews/index.html": "5f64d920318098d15a2508a7446501382f895f38926ab1c2e4195ec91c55ccb0",
     "stores/aipctshop/index.html": "9847c5432088dcddb0fb035fd25e3a31312c2113cfe326dd341d6a74af1fea8b",
-    "stores/aipctshop/reviews/index.html": "691065ca9eaadc57bc6a292560229609fc32abea07545492d1084271189c2a06",
+    "stores/aipctshop/reviews/index.html": "c4f5fe553822c1855fbfae0be58fe72e99730d6688115dbb4f5397888973fb23",
     "stores/allie-s-hrt/index.html": "6f23117e723a38942fba7f70395db50f2204c0a7ecd676fac2ec3dadeb9f15cd",
-    "stores/allie-s-hrt/reviews/index.html": "100f2d924277f75563a601968fb6d10237e9afc8be19e185d34e9c62163198b5",
-    "stores/astrovials/index.html": "14a297ce19aabeb0f093836e0c797cec3e5ddc2fb23e364f045ec054496c2579",
-    "stores/astrovials/reviews/index.html": "d6fd433cb6018647b8eaf585950d49c976fc42aec477523de5ecde567ccc76ed",
-    "stores/calyx-labs/index.html": "10c6ea4b678476054665faec5805f34518c43323fcbfdf8492e8f0b86c1a3a43",
-    "stores/calyx-labs/reviews/index.html": "264838d8e0f2bec6f5657275fb2b58e0b16b64c0e526b75bf69415cf6dbdb563",
+    "stores/allie-s-hrt/reviews/index.html": "0440c707fa1906587cfe3cda8eee5ade6972ffa2b14f93789b721ab5d6bf918c",
+    "stores/astrovials/index.html": "3a2afc4a2ad3237381691452bb5b1ae1fcf0bef5c0f4fa6ba9eb2b0b421d0065",
+    "stores/astrovials/reviews/index.html": "53ab71ec27cbd1739c6e7a9bbbd446983365e54880cf2324bb612dc5f9a3ede9",
+    "stores/calyx-labs/index.html": "d48947488124505fac5a4513a6faee07220c519ed2403fe9cb6ad743c1e20823",
+    "stores/calyx-labs/reviews/index.html": "dd61e9d72cadb80020eb3f6e0def04323f29357bcca7baf1db546133bf79d825",
     "stores/celestial-hrt/index.html": "0f8cdc773d0d51d4832d4c3ad7d12214fb77b46b7d30f8f99508d4f56c0f376a",
-    "stores/celestial-hrt/reviews/index.html": "eb197c0fd8dcf0bb7d04d805a7a2a65ef0061f60d9be883c7c69ad264c0306bf",
+    "stores/celestial-hrt/reviews/index.html": "08e3375287a95013e0e28845d44cbc87e8b07aeae6d83bd6cd945de4c187ef3b",
     "stores/dashpct/index.html": "e633315bcffa74f68a65510fe25d82589d4e564cffe82e1e1925736b73e581a4",
-    "stores/dashpct/reviews/index.html": "9d1d473d3c9b26aae442e1904d2227e739aa10cb422279be4073b36499b32f55",
-    "stores/estrapen/index.html": "a776d98e8bd67bd2c9545b189ca3559e5fac1f4efbc525ade29ceb795ebdc6c6",
-    "stores/estrapen/reviews/index.html": "bf561a893ef75ff9cd58fbb106dbb85b284be3835143efb4f3050079adf3192c",
-    "stores/felicitas/index.html": "0796d0b7a77cabc00d7aa29774197e8555e2a8657d3064bd2cc8de6cb949ca8d",
-    "stores/felicitas/reviews/index.html": "748e72bb73305b06c3b7930f60cbf15e5b6f837cfb66fb50544b2204faad1870",
+    "stores/dashpct/reviews/index.html": "217815a9c9ad71c0cc1dfcc87b0ead27c8aff35e335e0319e9965825a3eb06e2",
+    "stores/estrapen/index.html": "a94717d7cc627949188973abff56d8e4a2c609ee2ee77cc6082ba9b34dd1e95d",
+    "stores/estrapen/reviews/index.html": "056efce63ec5e8a6f9aee4cee837ce70cefcc54d94446eeec60a2f5ad8d5d1c2",
+    "stores/felicitas/index.html": "5bdefa4ecb1d2b63f3dc4db8a33cb96a0e5da9ad0f0e83ec2ed203e2a02d5fd6",
+    "stores/felicitas/reviews/index.html": "c6d9f69ee0d9e592abc1b410aba46a5144628251f8790d51afbb2c4bb4db7de2",
     "stores/girlpotion/index.html": "89e0a6e5ad524074d8efe07639fdd39719e175f4e28fcda8b0d1eee0e6aa972b",
-    "stores/girlpotion/reviews/index.html": "70fecaebf370fc9341d1fe0f40819a1f6ee4bdedd63fb359d59327432f79a552",
-    "stores/halcyon-diy/index.html": "e42c7b390a095d9e06d538dfec4693a9a5bd2616c67d633ecb996081a1e7f76b",
-    "stores/halcyon-diy/reviews/index.html": "f365803300b5124491692ebb173d0ceb6ca0341f2593350e6c05a6f5c09c8f31",
-    "stores/hera-hrt/index.html": "87b9ad0304911bb1ffe62604de4c802b7f61d2322d5e7b0a6ea2f9104dba3126",
-    "stores/hera-hrt/reviews/index.html": "bac4224055f799457d05c863f3eb5ee388c295221de65a7b07e55a9f99687c8f",
-    "stores/inhouse-pharmacy/index.html": "6a24fcd0239460b1c137deccdfd3d7fddd508a3aa799f16d7e5d38522310e117",
-    "stores/inhouse-pharmacy/reviews/index.html": "fd163dee72ec307bcc64e873b5f11e3275bc44f6474dff7a635e8874c4aacb43",
-    "stores/otokonoko-pharmacy/index.html": "ca25491984968eb830b272a6da0b92248a185f2283de095aea37d662f3648a91",
-    "stores/otokonoko-pharmacy/reviews/index.html": "6bc3210f8e66bb8716eaa2948967ec0df7c0f72385d86723ab0c5f1d2f72ea88",
+    "stores/girlpotion/reviews/index.html": "7abb117924b6ea2be5436e74fcedb89283b21d6e0e3319d50e61fff932f8a8fa",
+    "stores/halcyon-diy/index.html": "c6c13069063a73979c0c03ef38d85a1f1d5f1a9753bf4a9a9d9cecc5e7d043bf",
+    "stores/halcyon-diy/reviews/index.html": "d9ec7125c4a406cce52552453a1425c3c361108c0b161486638cdb791f68300d",
+    "stores/hera-hrt/index.html": "d99ee0d7c5335f081a72e712e63196547cc7076f217f4b6b865cbd54314bd08f",
+    "stores/hera-hrt/reviews/index.html": "cc26f9a5b149dcdf9f368a9e169162468d5b92d89d0fbd7bcf651daae2aaa607",
+    "stores/inhouse-pharmacy/index.html": "a9453312cd00daa1c767df406a1d2ad8dd0ba6b3adcdf3e2f78389aff981c47c",
+    "stores/inhouse-pharmacy/reviews/index.html": "9590fdafb05c0fce685ac896491e3073fad2e9a32febd5d97eeccdcbbcf62a47",
+    "stores/otokonoko-pharmacy/index.html": "7b76131cde5ee1fa64c4e03988288c2f74e22005bd6b26d1050f29672f40034a",
+    "stores/otokonoko-pharmacy/reviews/index.html": "4f613a6471376de81bf8b420dfe5372e8d08fba47460f01c9ec60f68adfa4423",
     "stores/panacea-pharma/index.html": "fafa647b87f997ef4b52c7f79a7065b2412c478a72da42aea3a193acd9312fb4",
-    "stores/panacea-pharma/reviews/index.html": "729c4d80578e717af4db1af166eb3a986f0ce7cfdcabd65e51db4e526c5e3584",
-    "stores/pawsnax/index.html": "56ac93811109211036afcf61282b3bef99e0c07ca281c3b1c2780798051a1897",
-    "stores/pawsnax/reviews/index.html": "bd7d4e43f6d059da56e82496f6aed294f0b1e9ed71f398fdc321df407aab341e",
-    "stores/proleta-hrt/index.html": "29542294d76281da94c3404eaa18344c3c0db7aef8eb3fd4619d8cd403fb39e8",
-    "stores/proleta-hrt/reviews/index.html": "eb01477cba44a2f29895602d344c1264859102fd77ba47de5656e3ad555c25d8",
+    "stores/panacea-pharma/reviews/index.html": "b535d168656199143a879fa2523c9cc6319297be669cd2d485cf267edd4f2b27",
+    "stores/pawsnax/index.html": "e2a16eb2fbce3772e82d4c7f5f00660eed81d30e5e5a42967f7fc4938a7e27e3",
+    "stores/pawsnax/reviews/index.html": "f417346884a7d5cfb13ad39cd56543310639f81fb34640c4491b0da654fb2fc1",
+    "stores/proleta-hrt/index.html": "9e629c95e08184ee2d55d51e2f0eae7b28233fd35d62bfcd52b3abba954ce22b",
+    "stores/proleta-hrt/reviews/index.html": "23415ce4c53fe537ced7fd7f0fe91940e43c693d255a87f66fa643ae802cad1e",
     "stores/rxaisle/index.html": "d15c0fb408c541c68262b6904d023a54209e4609440542a3b2cb60279d373cae",
-    "stores/rxaisle/reviews/index.html": "dd6af31c41fde2337e369d0c58c5320cbf0aab298c67b1e6ff422161bb04f420",
-    "stores/serapharma/index.html": "4a068dfa683b97e646c9b8f9c2f40e1fccbd261c849d10305a135ec6bf1f72f9",
-    "stores/serapharma/reviews/index.html": "35e9cf198968773a9deceedd977605fec2e6a05977448fd387b02374feec0928",
+    "stores/rxaisle/reviews/index.html": "86abdc466b950a115e2640d375545aa88a28b85d6d2010698f145c4de8965a4d",
+    "stores/serapharma/index.html": "ee5a8ce80be117058f3cc79f56b526862105e1cbe44512a654f6609763d0bbe1",
+    "stores/serapharma/reviews/index.html": "15b7e60ac8d7aae6b0b9f5346cd443e527aecfbf23e3ee594b9044cdabbbc691",
     "stores/silhouette-beauty/index.html": "d353529493dec8b67190755d1ec4715afc1b01457787080ae610d09b4a89d05a",
-    "stores/silhouette-beauty/reviews/index.html": "2975d27d903218b21a0ab7cf9a12b3723a2b8ecc255528b1d3067d45cb6b4407",
+    "stores/silhouette-beauty/reviews/index.html": "de91b633064fc944570c51f0cfa77b8ddc94a63700828d8ccd5d0dadb7f63ee7",
     "stores/silvermaple-labs.html": "e65ccf1ca8772b51fcaa4f4a8e2bdc1892168d48806dd6ddc216c456f0105286",
-    "stores/symphony-labs/index.html": "ab4e7a2ef164315eb703da715f9fd12b45ddcaabe2abbcb731b9913dc699e632",
-    "stores/symphony-labs/reviews/index.html": "d90a63c54602daa37d4ae6f23fb2944caa7ce7090515879b40d1dffc9fa17325",
+    "stores/symphony-labs/index.html": "655cce79f9ade68b01e02cc5b9540f1f8392a6e15366985ffc3d4b734cebd426",
+    "stores/symphony-labs/reviews/index.html": "806f2dc695ec93dbdbfd846c6fa76138c417b77ca8374f142fa62eb8c4bfbc04",
     "stores/united-pharmacies-nl/index.html": "6365ccaef7bcd86818bbc57c5cd24de68d85a31b604b7637a8f8b5dbcbe1349e",
-    "stores/united-pharmacies-nl/reviews/index.html": "0a3c032a0943d3226909484195474e68e47dec0321ee03269dda3a27b5d2e784",
+    "stores/united-pharmacies-nl/reviews/index.html": "1469efa0af7c2e7609237c58ded8e612ec5271106c1dbf34acc5ab68ec4b3fb3",
     "stores/united-pharmacies-uk/index.html": "3646ce8b350b24af3bb41aae1a396338ce3b52fc55001f24656f3bf03fa52c3f",
-    "stores/united-pharmacies-uk/reviews/index.html": "876b93412bf343bd0dddf8e30a30e98a2d09d0bf0b28eb5ceed750ce664b8cf9",
-    "stores/united-pharmacies-us/index.html": "ca788b25bc383b32b8d7e0590482352797cbef73c71ad33b1a43e7b1b9123cfb",
-    "stores/united-pharmacies-us/reviews/index.html": "f204388d733a07d0dbdd03c1ec3d06a75810fe5634ba958c669a68f8fa964ec5",
+    "stores/united-pharmacies-uk/reviews/index.html": "b7336e7c5a05c06c7c0e4de0f4df1cf2f74cac83878e0269e12c6d33155424f7",
+    "stores/united-pharmacies-us/index.html": "bb6055a11cca5b4c6a1f2e5a2032afcd1f7e318977f528f19660c81530b177de",
+    "stores/united-pharmacies-us/reviews/index.html": "215e91c3cf8af232d6a2d746189cd41917b6fb2dd4b9d20dce1609c46dc1ce52",
     "stores/vanna-pharma/index.html": "ec5c3e3b2cf6a839241b5a3c83fe5fd0d5016860a7605e6b6880bc0abdcedb9f",
-    "stores/vanna-pharma/reviews/index.html": "230f497c0f3435f523c1b02d581dcc8ad8050364bdf37d74b6c78cf36936aaa4",
+    "stores/vanna-pharma/reviews/index.html": "162bfff4b164161ab94d729972e50cf4365e8582305c7d9c5f922d311777b5df",
     "stores/voix-celeste/index.html": "581d5ca9d2e669a7a2e0817318f246d7c1d86952f0caba5f9a774acc1fd55a42",
-    "stores/voix-celeste/reviews/index.html": "33abbeef5dec9f2fe7ebe637f3b22dd32fed40853777492de29879b5b4dedebe",
+    "stores/voix-celeste/reviews/index.html": "9422569f6da46d8906241eaf8ec751d8ab55a98a24edb5847eca5979afbaeed6",
     "transfem-hrt-guide/index.html": "74901d53eb049c369dd8960929534830c8d2ffef1b2867623fdd6493cd14a20f"
   }
 }
