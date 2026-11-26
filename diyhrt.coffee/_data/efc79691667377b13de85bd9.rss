@@ -6,8 +6,48 @@
     <description>restocks and sellouts from the diy hrt vendors diyhrt.coffee watches</description>
     <language>en</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 18 Nov 2026 20:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:32:21 +0000</lastBuildDate>
     <atom:link href="https://diyhrt.coffee/api/v1/feed/stock.rss" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>back in stock: Progesterone Transdermal Spray 30mg/mL 120mL · PawSnax (US)</title>
+      <link>https://pawsnax.cc/shop/</link>
+      <description>Progesterone Transdermal Spray 30mg/mL 120mL at PawSnax, ships to US. $70.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-36291525</guid>
+      <pubDate>Tue, 24 Nov 2026 02:32:21 +0000</pubDate>
+      <category>PawSnax</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Enanthate (10 mL × 40 mg/mL) · Symphony Labs (INTL)</title>
+      <link>https://symphonylabs.cc</link>
+      <description>Estradiol Enanthate (10 mL × 40 mg/mL) at Symphony Labs, ships to INTL. €50.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-35835898</guid>
+      <pubDate>Sun, 22 Nov 2026 23:57:20 +0000</pubDate>
+      <category>Symphony Labs</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Enanthate (10 mL × 40 mg/mL) · Symphony Labs (US)</title>
+      <link>https://symphonylabs.cc</link>
+      <description>Estradiol Enanthate (10 mL × 40 mg/mL) at Symphony Labs, ships to US. $60.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-35835895</guid>
+      <pubDate>Sun, 22 Nov 2026 23:57:20 +0000</pubDate>
+      <category>Symphony Labs</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Enanthate · Aurelia (US)</title>
+      <link>https://aureliahrt.com/storefront/products/</link>
+      <description>Estradiol Enanthate at Aurelia, ships to US. $48.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-35071265</guid>
+      <pubDate>Fri, 20 Nov 2026 09:49:49 +0000</pubDate>
+      <category>Aurelia</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Transdermal Spray 7mg/mL 120mL · PawSnax (US)</title>
+      <link>https://pawsnax.cc/shop/</link>
+      <description>Estradiol Transdermal Spray 7mg/mL 120mL at PawSnax, ships to US. $65.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-34952243</guid>
+      <pubDate>Fri, 20 Nov 2026 03:16:21 +0000</pubDate>
+      <category>PawSnax</category>
+    </item>
     <item>
       <title>back in stock: Estradiol Undecylate (10 mL × 80 mg/mL) · Symphony Labs (US)</title>
       <link>https://symphonylabs.cc</link>
@@ -25,44 +65,44 @@
       <category>Symphony Labs</category>
     </item>
     <item>
-      <title>back in stock: Estradiol Undecylate (10 mL × 80 mg/mL) · Symphony Labs (UK)</title>
-      <link>https://symphonylabs.cc</link>
-      <description>Estradiol Undecylate (10 mL × 80 mg/mL) at Symphony Labs, ships to UK. €90.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-34493484</guid>
-      <pubDate>Wed, 18 Nov 2026 20:00:50 +0000</pubDate>
-      <category>Symphony Labs</category>
-    </item>
-    <item>
-      <title>back in stock: Estradiol Enanthate (10 mL × 40 mg/mL) · Symphony Labs (UK)</title>
-      <link>https://symphonylabs.cc</link>
-      <description>Estradiol Enanthate (10 mL × 40 mg/mL) at Symphony Labs, ships to UK. €50.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-34493322</guid>
-      <pubDate>Wed, 18 Nov 2026 20:00:20 +0000</pubDate>
-      <category>Symphony Labs</category>
-    </item>
-    <item>
-      <title>back in stock: Estradiol Enanthate (10 mL × 40 mg/mL) · Symphony Labs (US)</title>
-      <link>https://symphonylabs.cc</link>
-      <description>Estradiol Enanthate (10 mL × 40 mg/mL) at Symphony Labs, ships to US. $60.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-34493321</guid>
-      <pubDate>Wed, 18 Nov 2026 20:00:20 +0000</pubDate>
-      <category>Symphony Labs</category>
-    </item>
-    <item>
-      <title>back in stock: Estradiol Enanthate (10 mL × 40 mg/mL) · Symphony Labs (INTL)</title>
-      <link>https://symphonylabs.cc</link>
-      <description>Estradiol Enanthate (10 mL × 40 mg/mL) at Symphony Labs, ships to INTL. €50.00.</description>
-      <guid isPermaLink="false">diyhrt-stock-34493324</guid>
-      <pubDate>Wed, 18 Nov 2026 20:00:20 +0000</pubDate>
-      <category>Symphony Labs</category>
-    </item>
-    <item>
       <title>back in stock: Estradiol Enanthate 10mL 40mg/mL in MCT · PawSnax (US)</title>
       <link>https://pawsnax.cc/shop/</link>
       <description>Estradiol Enanthate 10mL 40mg/mL in MCT at PawSnax, ships to US. $60.00.</description>
       <guid isPermaLink="false">diyhrt-stock-33744784</guid>
       <pubDate>Mon, 16 Nov 2026 23:41:21 +0000</pubDate>
       <category>PawSnax</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Enanthate · Hera (US)</title>
+      <link>https://herahrt.com/shop/</link>
+      <description>Estradiol Enanthate at Hera, ships to US. $60.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23757283</guid>
+      <pubDate>Tue, 20 Oct 2026 05:19:32 +0000</pubDate>
+      <category>Hera</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Cypionate · Hera (US)</title>
+      <link>https://herahrt.com/shop/</link>
+      <description>Estradiol Cypionate at Hera, ships to US. $65.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23757205</guid>
+      <pubDate>Tue, 20 Oct 2026 05:19:02 +0000</pubDate>
+      <category>Hera</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Undecylate · Hera (US)</title>
+      <link>https://herahrt.com/shop/</link>
+      <description>Estradiol Undecylate at Hera, ships to US. $80.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23757208</guid>
+      <pubDate>Tue, 20 Oct 2026 05:19:02 +0000</pubDate>
+      <category>Hera</category>
+    </item>
+    <item>
+      <title>back in stock: Estradiol Valerate · Hera (US)</title>
+      <link>https://herahrt.com/shop/</link>
+      <description>Estradiol Valerate at Hera, ships to US. $55.00.</description>
+      <guid isPermaLink="false">diyhrt-stock-23757160</guid>
+      <pubDate>Tue, 20 Oct 2026 05:18:32 +0000</pubDate>
+      <category>Hera</category>
     </item>
   </channel>
 </rss>
